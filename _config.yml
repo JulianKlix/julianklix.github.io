@@ -11,18 +11,18 @@ photo: Klix Square.jpg  # place your photo in images/
 # STEP 2: Your Links (optional -- delete any you don't use)
 # ============================================================
 links:
-  google_scholar: "https://scholar.google.com/citations?user=B7vSqZsAAAAJ"
-  github: "https://github.com/"
+  #google_scholar: "https://scholar.google.com/citations?user=B7vSqZsAAAAJ"
+  #github: "https://github.com/"
   researchgate: "https://www.researchgate.net/"
   orcid: ""
-  twitter: ""
-  linkedin: ""
+  #twitter: ""
+  linkedin: "https://www.linkedin.com/in/jklix/"
   cv: ""  # e.g., "papers/cv.pdf" — leave blank to hide the CV icon
 
 # ============================================================
 # STEP 3: Site Settings
 # ============================================================
-accent_color: "#1a7a6d"      # theme color for links and buttons
+accent_color: "#1840AE"      # theme color for links and buttons
 dark_mode: true              # show dark mode toggle in navbar
 description: "Academic webpage of Julian Klix"
 baseurl: ""
