@@ -4,8 +4,10 @@
 
 # EXAMPLE -- replace or delete
 - education:
-    - "(1942) Ph.D. Physics, Princeton University"
-    - "(1939) B.S. Physics, Massachusetts Institute of Technology"
+    - "(2020) Master of Economics, Barcelona School of Economics"
+    - "(2019) B.S. Economics, University of Mannheim"
   educationshort:
-    - "(1942) Ph.D. Physics, Princeton"
-    - "(1939) B.S. Physics, MIT"
+    - "(2020) Master of Economics, BSE"
+    - "(2019) B.S. Economics, Mannheim"
+- info:
+    - "Office L7"    
