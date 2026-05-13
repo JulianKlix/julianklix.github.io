@@ -1,0 +1,30 @@
+# Teaching items shown on the teaching page.
+# Each entry needs: date, degree, location
+
+- course: Postgraduate Microeconomics 
+  location: "University of Mannheim"
+  teacher: "Francisco Poggi"
+
+- course: Graduate Game Theory 
+  location: "University of Mannheim"
+  teacher: "Henrik Orzen"
+
+- course: Undergraduate Game Theory 
+  location: "Universitat Pompeu Fabra"
+  teacher: "Antonio Penta"
+  
+- course: Undergraduate Microeconomics 
+  location: "University of Mannheim"
+  teacher: "Thomas Tröger"
+  
+- course: Undergraduate Microeconomics 
+  location: "University of Mannheim"
+  teacher: "Thomas Tröger"
+  
+- course: Undergraduate Statistics 
+  location: "University of Mannheim"
+  teacher: "Toni Stocker"
+  
+- course: Undergraduate Analysis & Linear Algebra 
+  location: "University of Mannheim"
+  teacher: "Evguenia Shprits"
