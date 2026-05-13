@@ -14,11 +14,15 @@ permalink: /about/
 <h3 class="pi-name">{{ site.name }}</h3>
 <p style="font-style: italic; color: var(--text-secondary);">{{ site.title }}, {{ site.institution }}</p>
 <div class="pi-links">
+{% if site.links.personal_website and site.links.personal_website != "" %}<a href="{{ site.links.personal_website }}" class="icon-link" title="Personal Website"><i class="fa-solid fa-globe"></i></a>{% endif %}
 {% if site.email %}<a href="mailto:{{ site.email }}" class="icon-link" title="Email"><i class="fa-solid fa-envelope"></i></a>{% endif %}
 {% if site.links.cv and site.links.cv != "" %}<a href="{{ site.url }}{{ site.baseurl }}/{{ site.links.cv }}" class="icon-link" title="CV"><i class="ai ai-cv"></i></a>{% endif %}
 {% if site.links.google_scholar and site.links.google_scholar != "" %}<a href="{{ site.links.google_scholar }}" class="icon-link" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>{% endif %}
 {% if site.links.github and site.links.github != "" %}<a href="{{ site.links.github }}" class="icon-link" title="GitHub"><i class="fa-brands fa-github"></i></a>{% endif %}
 {% if site.links.researchgate and site.links.researchgate != "" %}<a href="{{ site.links.researchgate }}" class="icon-link" title="ResearchGate"><i class="ai ai-researchgate"></i></a>{% endif %}
+{% if site.links.orcid and site.links.orcid != "" %}<a href="{{ site.links.orcid }}" class="icon-link" title="ORCID"><i class="ai ai-orcid"></i></a>{% endif %}
+{% if site.links.twitter and site.links.twitter != "" %}<a href="{{ site.links.twitter }}" class="icon-link" title="Twitter"><i class="fa-brands fa-x-twitter"></i></a>{% endif %}
+{% if site.links.linkedin and site.links.linkedin != "" %}<a href="{{ site.links.linkedin }}" class="icon-link" title="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>{% endif %}
 </div>
 {% if site.data.pi[0].education %}
 <ul style="margin-top: var(--space-4);">
@@ -42,6 +46,7 @@ permalink: /about/
 </div>
 {% endif %}
 
+<!--
 {% if site.data.awards %}
 <div class="section-card">
 <h3>Awards</h3>
@@ -52,10 +57,11 @@ permalink: /about/
 </ul>
 </div>
 {% endif %}
+-->
 
 {% if site.data.people %}
 <div class="section-card">
-<h3>Students and Mentoring</h3>
+<h3>Supervisors and Mentors</h3>
 <ul>
 {% for student in site.data.people %}
 <li>{{ student.name }}, {{ student.location }} ({{ student.degree }}, {{ student.year }})</li>
@@ -64,9 +70,10 @@ permalink: /about/
 </div>
 {% endif %}
 
+
 {% if site.data.funders %}
 <div class="section-card">
-<h4>Sponsors</h4>
+<h4>Affiliations</h4>
 <div class="sponsor-logos" style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: var(--space-6);">
 {% for funder in site.data.funders %}
 <a href="{{ funder.url }}" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/images/{{ funder.image }}" alt="Funder logo" style="max-height: 80px; max-width: 200px; border-radius: 0;" loading="lazy"></a>

@@ -3,11 +3,11 @@
 # Recommended logo size: max-height 80px
 
 # EXAMPLE -- replace or delete
-- image: NSF.png
+- image: Logo-Mannheim.png
   url: https://www.nsf.gov/
-- image: doe_logo.png
+- image: Logo-GESS.jpg
   url: https://www.energy.gov/
-- image: onr_logo.png
+- image: Logo-CRC.png
   url: https://www.onr.navy.mil/
-- image: NIH-logo.png
+- image: Logo-MaCCI.png
   url: https://www.nih.gov/
