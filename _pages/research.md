@@ -70,7 +70,7 @@ permalink: /research/
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;joint with Bernhard Ganglmair & Dongsoo Shin
 </p>
 <div class="chip-container" markdown="0">
-<a href="{{ site.url }}{{ site.baseurl }}/papers/feynman06.pdf" class="chip">PDF</a>
+<a href="{{ site.url }}{{ site.baseurl }}/papers/feynman06.pdf" target="_blank" class="chip">PDF</a>
 <a href="" class="chip">Slides</a>
 <a href="" class="chip">Abstract</a>  
 </div>
