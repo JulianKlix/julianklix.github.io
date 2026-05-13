@@ -17,10 +17,6 @@
   location: "University of Mannheim"
   teacher: "Thomas Tröger"
   
-- course: Undergraduate Microeconomics 
-  location: "University of Mannheim"
-  teacher: "Thomas Tröger"
-  
 - course: Undergraduate Statistics 
   location: "University of Mannheim"
   teacher: "Toni Stocker"

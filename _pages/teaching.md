@@ -18,7 +18,15 @@ permalink: /teaching/
 <h3>Teaching Assistant</h3>
 
 
+{% for entry in site.data.teachingTA %}
+<p>
+<span style="font-size: 1.15rem; font-weight. 500; color: var(--text-primary)">{{ entry.course }}</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: var(--text-muted)">{{ entry.location }} &nbsp;&bull;&nbsp; {{ entry.teacher }}</span>
+</p>
 
+{% endfor %}
+
+<!--
 <table class="bio-table">
   {% for entry in site.data.teachingTA %}
   <tr>
@@ -30,8 +38,6 @@ permalink: /teaching/
 </table>
 
 
-
-<!--
 <ul>
 <li>Postgraduate Microeconomics</li>
 <li>Graduate Game Theory</li>
