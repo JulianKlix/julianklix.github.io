@@ -2,6 +2,14 @@
 // Publication entry
 // =============================================================
 
+
+.paper-entry {
+  border-bottom: 1px solid var(--border-color);
+  padding-bottom: 1rem;
+  margin-bottom: 1rem;
+}
+
+
 .pub-entry {
   padding: var(--space-6) 0;
   border-bottom: 1px solid var(--border-color);

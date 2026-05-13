@@ -65,6 +65,8 @@ permalink: /research/
 <div class="section-card">
 <h3>Working Papers</h3>
 
+<div class="paper-entry">
+
 <p>
 <span style="font-size: 1.15rem; color: var(--text-primary)">Hybrid Contracting in Repeated Interactions</span><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;joint with Bernhard Ganglmair & Dongsoo Shin
@@ -79,6 +81,8 @@ permalink: /research/
   Many business relationships rely on loose arrangements and relational dynamics in early interactions, only to solidify their alliances through contractual commitments later. Using a repeated-games framework with a finite horizon, we show how such a hybrid-contracting strategy can both extend the duration of a cooperative business relationship (intensive margin) and expand the set of environments in which cooperation can be achieved (extensive margin). We model the contractual- commitment part of hybrid contracting as a smooth-landing contract that restricts the action space only in the backend of the relationship. Such a flexible contract outperforms more rigid contractual arrangements because it does not crowd out early-stage cooperation, thereby complementing relational dynamics. Our results are robust to extensions that account for variations in contract costs and timing, and we show that optimal contract length trades off profitability with implementability.
 </p>
 </div>
+</div>
+
 
 <p>
 <span style="font-size: 1.15rem; color: var(--text-primary)">Public Markets for Claims in Litigation</span><br>
