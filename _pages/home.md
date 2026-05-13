@@ -20,7 +20,7 @@ permalink: /
 I am a PhD candidate in Economics at the University of Mannheim, Department of Economics. I am interested in theoretical microeconomics and industrial organization.
 
 <div class="callout callout-info" markdown="0">
-<div class="callout-title"><i class="fa-solid fa-podium callout-icon"></i> Talk at EARIE 2026</div>
+<div class="callout-title"><i class="fa-solid fa-bullhorn callout-icon"></i> Talk at EARIE 2026</div>
 <p>Henrik Sauer will present our current project Public Markets for Claims in Litigation at EARIE 2026 in Mannheim.</p>
 </div>
 
