@@ -8,10 +8,20 @@ permalink: /teaching/
 ## Teaching
 
 <div class="section-card">
+
+<h3>Lecturer</h3>
 <ul>
-<li>Physics 1, 2, 3: The Feynman Lectures on Physics (1961&#8211;63) <a href="https://www.feynmanlectures.caltech.edu/">Textbook here!</a></li>
-<li>Physics 219: Quantum Computing (1986)</li>
-<li>Graduate QED Seminar (1953&#8211;88)</li>
-<li>Physics X: Informal undergraduate Q&amp;A sessions (1961&#8211;78)</li>
+<li>Graduate Mathematics</li>
+</ul>
+
+
+<h3>Teaching Assistant</h3>
+<ul>
+<li>Postgraduate Microeconomics</li>
+<li>Graduate Game Theory</li>
+<li>Undergraduate Game Theory</li>
+<li>Undergraduate Microeconomics</li>
+<li>Undergraduate Analysis & Linear Algebra</li>
+<li>Undergraduate Statistics</li>
 </ul>
 </div>
