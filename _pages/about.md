@@ -129,7 +129,7 @@ permalink: /about/
 
 {% if site.data.funders %}
 <div class="section-card">
-<h4>Affiliations</h4>
+<h3>Affiliations</h3>
 <div class="sponsor-logos" style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: var(--space-6);">
 {% for funder in site.data.funders %}
 <img src="{{ site.url }}{{ site.baseurl }}/images/{{ funder.image }}" alt="Funder logo" style="max-height: 80px; max-width: 200px; border-radius: 0;" loading="lazy">
