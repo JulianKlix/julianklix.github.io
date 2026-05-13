@@ -10,10 +10,12 @@ permalink: /teaching/
 <div class="section-card">
 
 <h3>Lecturer</h3>
-<ul>
-<li>Graduate Mathematics</li>
-</ul>
 
+<p>
+<span style="font-size: 1.15rem; font-weight. 500; color: var(--text-primary)">&nbsp;&nbsp;&nbsp;Graduate Mathematics</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: var(--text-muted)">University of Mannheim</span>
+</p>
+<br>
 
 <h3>Teaching Assistant</h3>
 
