@@ -15,7 +15,7 @@
 
   .bio-date {
     font-weight: 600;
-    color: {{ site.accent_color }};
+    color: var(--accent);
     margin-bottom: 2px;
   }
 
