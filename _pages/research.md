@@ -73,7 +73,7 @@ permalink: /research/
 <a href="{{ site.url }}{{ site.baseurl }}/papers/feynman06.pdf" target="_blank" class="chip">PDF</a>
 <a href="{{ site.url }}{{ site.baseurl }}/papers/feynman06.pdf" target="_blank" class="chip">Slides</a>
 <a href="" class="chip">Abstract</a>  
-
+</div>
 
 <p>
 <span style="font-size: 1.15rem; color: var(--text-primary)">Public Markets for Claims in Litigation</span><br>
@@ -83,7 +83,7 @@ permalink: /research/
 <a href="{{ site.url }}{{ site.baseurl }}/papers/feynman06.pdf" target="_blank" class="chip">PDF</a>
 <a href="{{ site.url }}{{ site.baseurl }}/papers/feynman06.pdf" target="_blank" class="chip">Slides</a>
 <a href="" class="chip">Abstract</a>  
-
+</div>
 
 
 <h3>Work in Progress</h3>
