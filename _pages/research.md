@@ -63,15 +63,13 @@ permalink: /research/
 
 
 <div class="section-card">
-<h3>Supervisors and Mentors</h3>
-<ul>
-{% for pub in site.data.research %}
-<li>
-    {{ pub.title }}<br>
-    {{ pub.coauthors }}
-</li>
-{% endfor %}
-</ul>
+<h3>Working Papers</h3>
+
+<p>
+Hybrid Contracting in Repeated Interactions <br>
+joint with Bernhard Ganglmair & Dongsoo Shin
+</p>
+
 </div>
 
 
