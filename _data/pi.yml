@@ -4,9 +4,13 @@
 
 # EXAMPLE -- replace or delete
 - education:
-    - "(2020) Master of Economics, Barcelona School of Economics"
-    - "(2019) B.S. Economics, University of Mannheim"
+    - "2022 - today:  PhD Economics, University of Mannheim"
+    - "2020 - 2021: Master of Research, Universitat Pompeu Fabra"
+    - "2019 - 2020: Master of Economics, Barcelona School of Economics"
+    - "2015 - 2019: B.S. Economics, University of Mannheim"
   educationshort:
+    - "(today) PhD Economics, Mannheim"
+    - "(2021) MRes Economics, UPF"
     - "(2020) Master of Economics, BSE"
     - "(2019) B.S. Economics, Mannheim"
 #- info:

@@ -12,7 +12,7 @@ permalink: /about/
 <img src="{{ site.url }}{{ site.baseurl }}/images/{{ site.photo }}" class="pi-photo" alt="{{ site.name }}" loading="lazy">
 <div>
 <h3 class="pi-name">{{ site.name }}</h3>
-<p style="font-style: italic; color: var(--text-secondary);">{{ site.title }}, {{ site.institution }}</p>
+<p style="font-style: italic; color: var(--text-secondary);">{{ site.title }}, {{ site.institution }}, {{ site.department }}</p>
 <div class="pi-links">
 {% if site.links.personal_website and site.links.personal_website != "" %}<a href="{{ site.links.personal_website }}" class="icon-link" title="Personal Website"><i class="fa-solid fa-globe"></i></a>{% endif %}
 {% if site.email %}<a href="mailto:{{ site.email }}" class="icon-link" title="Email"><i class="fa-solid fa-envelope"></i></a>{% endif %}
@@ -24,6 +24,26 @@ permalink: /about/
 {% if site.links.twitter and site.links.twitter != "" %}<a href="{{ site.links.twitter }}" class="icon-link" title="Twitter"><i class="fa-brands fa-x-twitter"></i></a>{% endif %}
 {% if site.links.linkedin and site.links.linkedin != "" %}<a href="{{ site.links.linkedin }}" class="icon-link" title="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>{% endif %}
 </div>
+
+{% if site.data.bio %}
+<table class="bio-table" style="margin-top: var(--space-4); width: 100%; border-collapse: collapse;">
+  {% for entry in site.data.bio %}
+  <tr>
+    <td style="padding: 4px 12px 4px 0; white-space: nowrap; vertical-align: top;">
+      {{ entry.date }}
+    </td>
+    <td style="padding: 4px 12px; vertical-align: top;">
+      {{ entry.degree }}
+    </td>
+    <td style="padding: 4px 0 4px 12px; text-align: right; color: var(--text-muted); vertical-align: top;">
+      {{ entry.location }}
+    </td>
+  </tr>
+  {% endfor %}
+</table>
+{% endif %}
+
+<!-- 
 {% if site.data.pi[0].education %}
 <ul style="margin-top: var(--space-4);">
 {% for education in site.data.pi[0].education %}
@@ -31,6 +51,8 @@ permalink: /about/
 {% endfor %}
 </ul>
 {% endif %}
+-->
+
 </div>
 </div>
 </div>

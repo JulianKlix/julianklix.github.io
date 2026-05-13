@@ -1,0 +1,17 @@
+# Biography items shown on the about page.
+# Each entry needs: date, degree, location
+- date: "2022 - today"
+  degree: "PhD Economics"
+  location: "University of Mannheim"
+
+- date: "2020 - 2021"
+  degree: "PhD Economics"
+  location: "University of Mannheim"
+
+- date: "2019 - 2020"
+  degree: "PhD Economics"
+  location: "University of Mannheim"  
+
+- date: "2015 - 2019"
+  degree: "PhD Economics"
+  location: "University of Mannheim"
