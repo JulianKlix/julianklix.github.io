@@ -1,3 +1,44 @@
+// =============================================================
+// Table Layout
+// =============================================================
+// Table layout for about me bio tables
+
+
+.bio-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: var(--space-4);
+}
+
+.bio-table td {
+  padding: 4px 12px;
+  vertical-align: top;
+}
+
+/* Date column */
+.bio-date {
+  white-space: nowrap;
+  width: 25%;
+  color: var(--accent);
+}
+
+/* Degree column */
+.bio-degree {
+  width: 45%;
+}
+
+/* Location column */
+.bio-location {
+  width: 30%;
+  text-align: right;
+  color: var(--text-muted);
+  padding-right: 32px; /* increased right spacing */
+}
+
+
+
+// Layout fixing for mobile/small screen devices
+
 @media (max-width: 600px) {
   .bio-table,
   .bio-table tbody,

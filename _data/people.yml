@@ -1,31 +1,14 @@
 # Students and mentees, shown on the About page.
 # Each entry needs: name, location, degree, year
-- name: Albert Hibbs
-  location: Caltech
+- name: Nicolas Shutz
+  location: University of mannheim
+  role: Supervisor
   degree: Ph.D.
-  year: 1955
+  year: 2009
 
-- name: George Zweig
-  location: Caltech
+- name: Bernhard Ganglmair
+  location: ZEW, Mannheim
+  role: Mentor
   degree: Ph.D.
-  year: 1964
+  year: 2011
 
-- name: Giovanni Rossi Lomanitz
-  location: Cornell
-  degree: Ph.D.
-  year: 1951
-
-- name: Thomas Curtright
-  location: Caltech
-  degree: Ph.D.
-  year: 1977
-
-- name: William Frazer
-  location: Caltech
-  degree: Ph.D.
-  year: 1958
-
-- name: Robert Hellwarth
-  location: Caltech
-  degree: Ph.D.
-  year: 1956

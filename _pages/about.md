@@ -25,6 +25,22 @@ permalink: /about/
 {% if site.links.linkedin and site.links.linkedin != "" %}<a href="{{ site.links.linkedin }}" class="icon-link" title="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>{% endif %}
 </div>
 
+
+{% if site.data.bio %}
+<table class="bio-table">
+  {% for entry in site.data.bio %}
+  <tr>
+    <td class="bio-date">{{ entry.date }}</td>
+    <td class="bio-degree">{{ entry.degree }}</td>
+    <td class="bio-location">{{ entry.location }}</td>
+  </tr>
+  {% endfor %}
+</table>
+{% endif %}
+
+
+
+<!-- 
 {% if site.data.bio %}
 <table class="bio-table" style="margin-top: var(--space-4); width: 100%; border-collapse: collapse;">
   {% for entry in site.data.bio %}
@@ -42,6 +58,8 @@ permalink: /about/
   {% endfor %}
 </table>
 {% endif %}
+-->
+
 
 
 <!-- 
