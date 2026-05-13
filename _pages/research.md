@@ -61,9 +61,7 @@ permalink: /research/
 </div>
 -->
 
-<div class="section-card">
 
-{% if site.data.research %}
 <div class="section-card">
 <h3>Supervisors and Mentors</h3>
 <ul>
@@ -77,7 +75,7 @@ permalink: /research/
 </div>
 {% endif %}
 
-</div>
+
 
 
 
