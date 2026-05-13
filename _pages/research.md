@@ -68,7 +68,8 @@ permalink: /research/
 <div class="paper-entry">
 
 <p>
-<span style="font-size: 1.15rem; color: var(--text-primary)">Hybrid Contracting in Repeated Interactions</span><br>
+<span style="font-size: 1.15rem; color: var(--text-primary)">Hybrid Contracting in Repeated Interactions</span>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: var(--accent)">[R&R at Management Science]</span><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;joint with Bernhard Ganglmair & Dongsoo Shin
 </p>
 <div class="chip-container" markdown="0">
