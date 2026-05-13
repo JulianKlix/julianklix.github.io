@@ -4,6 +4,7 @@
 name: "Julian Klix"
 title: "PhD Student"
 institution: "University of Mannheim"
+department: "Department of Economics"
 email: julian.j.klix[at]gmail.com
 photo: Klix Square.jpg  # place your photo in images/
 
@@ -23,7 +24,7 @@ links:
 # ============================================================
 # STEP 3: Site Settings
 # ============================================================
-accent_color: "#313986"      # theme color for links and buttons
+accent_color: "#0076BA"      # theme color for links and buttons
 dark_mode: true              # show dark mode toggle in navbar
 description: "Academic webpage of Julian Klix"
 baseurl: ""
