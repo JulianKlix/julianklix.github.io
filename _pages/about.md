@@ -29,13 +29,13 @@ permalink: /about/
 <table class="bio-table" style="margin-top: var(--space-4); width: 100%; border-collapse: collapse;">
   {% for entry in site.data.bio %}
   <tr>
-    <td style="padding: 4px 12px 4px 0; white-space: nowrap; vertical-align: top; color: site.accent_color;">
+    <td style="padding: 4px 12px 4px 0; white-space: nowrap; vertical-align: top; color: {{ site.accent_color }};">
       {{ entry.date }}
     </td>
     <td style="padding: 4px 12px; vertical-align: top;">
       {{ entry.degree }}
     </td>
-    <td style="padding: 4px 32px 4px 12px; text-align: right; color: var(--text-muted); vertical-align: top;">
+    <td style="padding: 4px 40px 4px 12px; text-align: right; color: var(--text-muted); vertical-align: top;">
       {{ entry.location }}
     </td>
   </tr>
@@ -58,6 +58,7 @@ permalink: /about/
 </div>
 </div>
 
+<!--
 {% if site.data.grants %}
 <div class="section-card">
 <h3>Grants</h3>
@@ -69,7 +70,7 @@ permalink: /about/
 </div>
 {% endif %}
 
-<!--
+
 {% if site.data.awards %}
 <div class="section-card">
 <h3>Awards</h3>
