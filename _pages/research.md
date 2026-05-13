@@ -72,7 +72,10 @@ permalink: /research/
 <div class="chip-container" markdown="0">
 <a href="{{ site.url }}{{ site.baseurl }}/papers/feynman06.pdf" target="_blank" class="chip">PDF</a>
 <a href="{{ site.url }}{{ site.baseurl }}/papers/feynman06.pdf" target="_blank" class="chip">Slides</a>
-<a href="" class="chip">Abstract</a>  
+<button class="chip" data-toggle-target="summary-1">Summary</button>
+</div>
+<div class="pub-collapse" id="summary-1">
+  <p>this is a sample text for the summary button. When clicked, you can find a short summary of the paper found above.</p>
 </div>
 
 <p>
