@@ -103,6 +103,8 @@ permalink: /research/
 
 <h3>Work in Progress</h3>
 
+
+<div class="paper-entry">
 <p>
 <span style="font-size: 1.15rem; color: var(--text-primary)">Advertising, Social Media and Parasocial Recommendations</span><br>
 </p>
@@ -116,7 +118,10 @@ permalink: /research/
   Social media fosters parasocial relationships--nonreciprocal emotional bonds between users and media figures--causing paid endorsements to blur the boundary between advertisement and genuine personal recommendation. Starting from a model in which consumers rely on impartial recommendations to make purchase decisions under quality uncertainty, I introduce social media endorsements as a source of additional biased recommendations that may get perceived as genuine. I find that a low-quality firm, whose recommendations are relatively more distorted, is more likely to engage in social media advertising than a high-quality firm. With a monopolist firm, prices remain unchanged whereas under duopolistic competition expected prices decrease due to an increase in competition. Further, I show that while a monopolist engaging in social media advertising cannot lead to an increase in consumer surplus, improvements to consumer surplus and welfare are possible in a competitive market if the price effect outweighs a potential decrease in average product quality.
 </p>
 </div>
+</div>
 
+
+<div class="paper-entry">
 <p>
 <span style="font-size: 1.15rem; color: var(--text-primary)">Selling Rationed Goods through Associated Markets</span><br>
 </p>
@@ -130,7 +135,7 @@ permalink: /research/
   I research a model of secondary markets to filter potential buyers of a rationed/highly scarce product. The secondary market selects consumers based on their internal valuation (which does not perfectly correlate with willingness to pay) which either directly or indirectly increases the utility of the seller.
 </p>
 </div>
-
+</div>
 
 
 
