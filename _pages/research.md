@@ -121,7 +121,6 @@ permalink: /research/
 </div>
 
 
-<div class="paper-entry">
 <p>
 <span style="font-size: 1.15rem; color: var(--text-primary)">Selling Rationed Goods through Associated Markets</span><br>
 </p>
@@ -134,7 +133,6 @@ permalink: /research/
 <p>
   I research a model of secondary markets to filter potential buyers of a rationed/highly scarce product. The secondary market selects consumers based on their internal valuation (which does not perfectly correlate with willingness to pay) which either directly or indirectly increases the utility of the seller.
 </p>
-</div>
 </div>
 
 
