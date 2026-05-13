@@ -1,0 +1,31 @@
+@media (max-width: 600px) {
+  .bio-table,
+  .bio-table tbody,
+  .bio-table tr,
+  .bio-table td {
+    display: block;
+    width: 100%;
+  }
+
+  .bio-table tr {
+    margin-bottom: 12px;
+    padding-bottom: 12px;
+    border-bottom: 1px solid var(--border-color);
+  }
+
+  .bio-date {
+    font-weight: 600;
+    color: {{ site.accent_color }};
+    margin-bottom: 2px;
+  }
+
+  .bio-degree {
+    margin-bottom: 2px;
+  }
+
+  .bio-location {
+    text-align: left;
+    color: var(--text-muted);
+    padding-right: 0;
+  }
+}

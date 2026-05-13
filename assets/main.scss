@@ -30,6 +30,7 @@ $baseurl: "{{ site.url }}{{ site.baseurl }}";
 @import "base/variables";
 @import "base/reset";
 @import "base/typography";
+@import "base/tables";
 
 // Components
 @import "components/card";
