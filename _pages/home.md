@@ -17,6 +17,11 @@ permalink: /
 -->
 </div>
 
+<div class="callout callout-warning" markdown="0">
+<div class="callout-title"><i class="fa-solid fa-scrwedriver-wrench callout-icon"></i> Side under Construction</div>
+<p>This side is currently under construction. Functionality might be limited, files partially missing.</p>
+</div>
+
 I am a PhD candidate in Economics at the University of Mannheim, Department of Economics. I am interested in theoretical microeconomics and industrial organization.
 
 <div class="callout callout-info" markdown="0">
