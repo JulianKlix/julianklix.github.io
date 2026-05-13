@@ -1,8 +1,8 @@
 ---
-title: "Research"
+title: "ResearchNew"
 layout: gridlay
 sitemap: false
-permalink: /research/
+permalink: /researchNew/
 ---
 
 ## Research
