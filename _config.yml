@@ -4,13 +4,14 @@
 name: "Julian Klix"
 title: "PhD Student"
 institution: "University of Mannheim"
-email: richard@university.edu
+email: julian.j.klix[at]gmail.com
 photo: Klix Square.jpg  # place your photo in images/
 
 # ============================================================
 # STEP 2: Your Links (optional -- delete any you don't use)
 # ============================================================
 links:
+  personal_website: "https://www.uni-mannheim.de/gess/programs/cdse/our-students/2022/julian-klix/"
   #google_scholar: "https://scholar.google.com/citations?user=B7vSqZsAAAAJ"
   #github: "https://github.com/"
   researchgate: "https://www.researchgate.net/"
