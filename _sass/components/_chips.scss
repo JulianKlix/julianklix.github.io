@@ -54,7 +54,7 @@
   position: relative;
 
   .callout-title {
-    font-family: 'Source Serif 4', Georgia, serif;
+    /* font-family: 'Source Serif 4', Georgia, serif; */
     font-weight: 700;
     font-size: 1.0625rem;
     color: var(--text-primary);
@@ -94,6 +94,7 @@
 }
 
 .callout-info {
-  border-left-color: var(--accent);
-  // default styling
+  border-left-color: #0076BA;
+  background: linear-gradient(135deg, rgba(0, 118, 186, 0.08), transparent);
+  .callout-icon { color: #0076BA; }
 }
