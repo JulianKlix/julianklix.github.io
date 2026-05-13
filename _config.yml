@@ -19,7 +19,7 @@ links:
   orcid: ""
   #twitter: ""
   linkedin: "https://www.linkedin.com/in/jklix/"
-  cv: ""  # e.g., "papers/cv.pdf" — leave blank to hide the CV icon
+  cv: "papers/cvMockup.pdf"  # e.g., "papers/cv.pdf" — leave blank to hide the CV icon
 
 # ============================================================
 # STEP 3: Site Settings
