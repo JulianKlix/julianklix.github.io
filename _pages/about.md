@@ -29,19 +29,20 @@ permalink: /about/
 <table class="bio-table" style="margin-top: var(--space-4); width: 100%; border-collapse: collapse;">
   {% for entry in site.data.bio %}
   <tr>
-    <td style="padding: 4px 12px 4px 0; white-space: nowrap; vertical-align: top;">
+    <td style="padding: 4px 12px 4px 0; white-space: nowrap; vertical-align: top; color: site.accent_color;">
       {{ entry.date }}
     </td>
     <td style="padding: 4px 12px; vertical-align: top;">
       {{ entry.degree }}
     </td>
-    <td style="padding: 4px 0 4px 12px; text-align: right; color: var(--text-muted); vertical-align: top;">
+    <td style="padding: 4px 32px 4px 12px; text-align: right; color: var(--text-muted); vertical-align: top;">
       {{ entry.location }}
     </td>
   </tr>
   {% endfor %}
 </table>
 {% endif %}
+
 
 <!-- 
 {% if site.data.pi[0].education %}
