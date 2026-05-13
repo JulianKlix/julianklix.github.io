@@ -73,7 +73,7 @@ permalink: /research/
 {% endfor %}
 </ul>
 </div>
-{% endif %}
+
 
 
 
