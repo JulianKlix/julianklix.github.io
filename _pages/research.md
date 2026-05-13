@@ -7,6 +7,7 @@ permalink: /research/
 
 ## Research
 
+<!--
 <div class="research-grid">
 
 <div class="research-card">
@@ -58,3 +59,29 @@ permalink: /research/
 </div>
 
 </div>
+-->
+
+<div class="section-card">
+
+{% if site.data.research %}
+<div class="section-card">
+<h3>Supervisors and Mentors</h3>
+<ul>
+{% for pub in site.data.research %}
+<li>
+    {{ pub.title }}<br>
+    {{ pub.coauthors }}
+</li>
+{% endfor %}
+</ul>
+</div>
+{% endif %}
+
+</div>
+
+
+
+
+
+
+

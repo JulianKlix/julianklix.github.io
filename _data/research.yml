@@ -5,11 +5,11 @@
   status: R&R at Management Science
   file: feynman06.pdf
   slides: feynman39.pdf
-  abstract: We analyze...
+  abstract: Many business relationships rely on loose arrangements and relational dynamics in early interactions, only to solidify their alliances through contractual commitments later. Using a repeated-games framework with a finite horizon, we show how such a hybrid-contracting strategy can both extend the duration of a cooperative business relationship (intensive margin) and expand the set of environments in which cooperation can be achieved (extensive margin). We model the contractual- commitment part of hybrid contracting as a smooth-landing contract that restricts the action space only in the backend of the relationship. Such a flexible contract outperforms more rigid contractual arrangements because it does not crowd out early-stage cooperation, thereby complementing relational dynamics. Our results are robust to extensions that account for variations in contract costs and timing, and we show that optimal contract length trades off profitability with implementability.
 
 - title: Public Markets for Claims in Litigation
   coauthors: Henrik Sauer & Paul Wegener
   status: 
   file: feynman06.pdf
   slides: feynman39.pdf
-  abstract: We analyze...
+  abstract: We study how public pricing in litigation finance markets affects plaintiffs' financing decisions and settlement bargaining. A plaintiff sells shares of case proceeds via a market maker whose price reveals case quality. Settlement is modeled as a one-sided private information game where the defendant makes offers. We show that plaintiffs optimally oversell their claims relative to efficient risk sharing: reduced risk exposure enables credible commitment to tougher settlement demands, and bargaining gains exceed the per-share price discount. More informative prices amplify this overselling, as better signals disproportionately benefit investors. The welfare implications of public prices are therefore ambiguous—better information fosters agreement but strengthens commitment motives. Endogenous investor mass further reinforces overselling by spreading exposure across multiple investors.
