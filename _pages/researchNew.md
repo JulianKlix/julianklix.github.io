@@ -7,13 +7,69 @@ permalink: /research/
 
 ## Research
 
+<!--
+<div class="research-grid">
+
+<div class="research-card">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/qed.svg" class="research-thumb" alt="Feynman diagram">
+<div class="research-body">
+<h4 class="research-title">Quantum Electrodynamics</h4>
+<p class="research-desc">Development of the path integral formulation of quantum mechanics and its application to quantum electrodynamics (QED). This work introduced Feynman diagrams as a powerful tool for calculating particle interactions, providing an intuitive visual representation of complex quantum processes.</p>
+</div>
+</div>
+
+<div class="research-card">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/superfluidity.svg" class="research-thumb" alt="Superfluid helium">
+<div class="research-body">
+<h4 class="research-title">Superfluidity</h4>
+<p class="research-desc">Quantum mechanical explanation of the behavior of liquid helium near absolute zero. Using path integral methods, we developed a microscopic theory of the lambda transition and explained the energy spectrum of excitations in superfluid helium, including the roton minimum.</p>
+</div>
+</div>
+
+<div class="research-card">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/partons.svg" class="research-thumb" alt="Parton model">
+<div class="research-body">
+<h4 class="research-title">Parton Model</h4>
+<p class="research-desc">A model describing the internal structure of hadrons in terms of point-like constituents called partons. This framework proved essential for interpreting deep inelastic scattering experiments at SLAC and laid the groundwork for quantum chromodynamics (QCD).</p>
+</div>
+</div>
+
+<div class="research-card">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/quantum-computing.svg" class="research-thumb" alt="Quantum circuit">
+<div class="research-body">
+<h4 class="research-title">Quantum Computing</h4>
+<p class="research-desc">Pioneering proposals for using quantum mechanical systems to perform computation. We demonstrated that classical computers cannot efficiently simulate quantum physics, motivating the development of quantum computers that exploit superposition and entanglement.</p>
+</div>
+</div>
+
+<div class="research-card">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/nanotechnology.svg" class="research-thumb" alt="Atomic manipulation">
+<div class="research-body">
+<h4 class="research-title">Nanotechnology</h4>
+<p class="research-desc">Exploration of the physical possibilities of manipulating matter at the atomic scale. The talk "There's Plenty of Room at the Bottom" envisioned machines that could arrange atoms one by one, anticipating modern nanotechnology and molecular manufacturing.</p>
+</div>
+</div>
+
+<div class="research-card">
+<img src="{{ site.url }}{{ site.baseurl }}/images/research/weak-interactions.svg" class="research-thumb" alt="Weak interaction diagram">
+<div class="research-body">
+<h4 class="research-title">Weak Interactions</h4>
+<p class="research-desc">Development of the V-A theory of the weak interaction with Murray Gell-Mann. This theory correctly predicted the structure of weak decays and was later incorporated into the electroweak unification by Weinberg, Salam, and Glashow.</p>
+</div>
+</div>
+
+</div>
+-->
+
 
 <div class="section-card">
+<h3>Working Papers</h3><br>
 
 <div class="paper-entry">
+
 <p>
-<span style="font-size: 1.25rem; font-weight. 600; color: var(--text-primary)">Hybrid Contracting in Repeated Interactions</span><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: var(--accent)">Working Paper &nbsp;&middot;&nbsp; R&R at Management Science</span><br>
+<span style="font-size: 1.15rem; color: var(--text-primary)">Hybrid Contracting in Repeated Interactions</span>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: var(--accent)">[R&R at Management Science]</span><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;joint with Bernhard Ganglmair & Dongsoo Shin
 </p>
 <div class="chip-container" markdown="0">
@@ -30,8 +86,7 @@ permalink: /research/
 
 <div class="paper-entry">
 <p>
-<span style="font-size: 1.25rem; font-weight. 600; color: var(--text-primary)">Public Markets for Claims in Litigation</span><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: var(--accent)">Working Paper</span><br>
+<span style="font-size: 1.15rem; color: var(--text-primary)">Public Markets for Claims in Litigation</span><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;joint with Henrik Sauer & Paul Wegener
 </p>
 <div class="chip-container" markdown="0">
@@ -47,10 +102,12 @@ permalink: /research/
 </div>
 
 
+<h3>Work in Progress</h3><br>
+
+
 <div class="paper-entry">
 <p>
-<span style="font-size: 1.25rem; font-weight. 600; color: var(--text-primary)">Advertising, Social Media and Parasocial Recommendations</span><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: var(--accent)">Work in Progress</span><br>
+<span style="font-size: 1.15rem; color: var(--text-primary)">Advertising, Social Media and Parasocial Recommendations</span><br>
 </p>
 <div class="chip-container" markdown="0">
 <a href="{{ site.url }}{{ site.baseurl }}/papers/feynman06.pdf" target="_blank" class="chip">PDF</a>
@@ -66,8 +123,7 @@ permalink: /research/
 
 
 <p>
-<span style="font-size: 1.25rem; font-weight. 600; color: var(--text-primary)">Selling Rationed Goods through Associated Markets</span><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: var(--accent)">Work in Progress</span><br>
+<span style="font-size: 1.15rem; color: var(--text-primary)">Selling Rationed Goods through Associated Markets</span><br>
 </p>
 <div class="chip-container" markdown="0">
 <a href="{{ site.url }}{{ site.baseurl }}/papers/feynman06.pdf" target="_blank" class="chip">PDF</a>
@@ -84,6 +140,10 @@ permalink: /research/
 
 
 </div>
+
+
+
+
 
 
 
