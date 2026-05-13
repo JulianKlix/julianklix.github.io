@@ -8,8 +8,9 @@ permalink: /publications/
 ## Research
 
 
+
 {% if site.data.research %}
-<div class="research-list">
+<div class="section-card">
 
   {% for pub in site.data.research %}
   <div class="research-entry">
@@ -41,6 +42,10 @@ permalink: /publications/
 
 </div>
 {% endif %}
+
+
+
+
 
 
 
