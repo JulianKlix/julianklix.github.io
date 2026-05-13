@@ -105,12 +105,26 @@ permalink: /about/
 <div class="section-card">
 <h3>Supervisors and Mentors</h3>
 <ul>
-{% for student in site.data.people %}
-<li>{{ student.name }}, {{ student.location }} ({{ student.degree }}, {{ student.year }})</li>
+{% for person in site.data.people %}
+<li>{{ person.name }}, {{ person.location }} ({{ person.role }})</li>
 {% endfor %}
 </ul>
 </div>
 {% endif %}
+
+<!--
+{% if site.data.funders %}
+<div class="section-card">
+<h4>Affiliations</h4>
+<div class="sponsor-logos" style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: var(--space-6);">
+{% for funder in site.data.funders %}
+<a href="{{ funder.url }}" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/images/{{ funder.image }}" alt="Funder logo" style="max-height: 80px; max-width: 200px; border-radius: 0;" loading="lazy"></a>
+{% endfor %}
+</div>
+</div>
+{% endif %}
+-->
+
 
 
 {% if site.data.funders %}
@@ -118,7 +132,7 @@ permalink: /about/
 <h4>Affiliations</h4>
 <div class="sponsor-logos" style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: var(--space-6);">
 {% for funder in site.data.funders %}
-<a href="{{ funder.url }}" target="_blank"><img src="{{ site.url }}{{ site.baseurl }}/images/{{ funder.image }}" alt="Funder logo" style="max-height: 80px; max-width: 200px; border-radius: 0;" loading="lazy"></a>
+<img src="{{ site.url }}{{ site.baseurl }}/images/{{ funder.image }}" alt="Funder logo" style="max-height: 80px; max-width: 200px; border-radius: 0;" loading="lazy">
 {% endfor %}
 </div>
 </div>
