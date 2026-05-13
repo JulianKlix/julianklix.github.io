@@ -31,7 +31,7 @@ I am a PhD candidate in Economics at the University of Mannheim, Department of E
 </div>
 -->
 
-### About me
+<!-- ### About me -->
 
 <!--
 I am a physicist working in the field of quantum mechanics and quantum electrodynamics.

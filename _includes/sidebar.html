@@ -5,7 +5,7 @@
 <h4 class="profile-name">{{ site.name }}</h4>
 <p class="profile-title">{{ site.title }}</p>
 <p class="profile-institution">{{ site.institution }}</p>
-<p class="profile-department">{{ site.department }}</p>
+<p class="profile-institution">{{ site.department }}</p>
 <div class="profile-links">
 {% if site.links.personal_website and site.links.personal_website != "" %}<a href="{{ site.links.personal_website }}" class="icon-link" title="Personal Website"><i class="fa-solid fa-globe"></i></a>{% endif %}
 {% if site.email %}<a href="mailto:{{ site.email }}" class="icon-link" title="Email"><i class="fa-solid fa-envelope"></i></a>{% endif %}
@@ -18,13 +18,13 @@
 {% if site.links.linkedin and site.links.linkedin != "" %}<a href="{{ site.links.linkedin }}" class="icon-link" title="LinkedIn"><i class="fa-brands fa-linkedin"></i></a>{% endif %}
 </div>
 
-<!--
+
 <ul style="text-align: left; margin-top: var(--space-4); list-style: none; padding-left: 2rem;">
 Office L7
 </ul>
 </div>
--->
 
+<!--
 {% if site.data.pi[0].educationshort %}
 <ul style="text-align: left; margin-top: var(--space-4); list-style: none; padding-left: 0;">
 {% for education in site.data.pi[0].educationshort %}
@@ -33,7 +33,7 @@ Office L7
 </ul>
 {% endif %}
 </div>
-
+-->
 
 <div class="section-card" style="margin-top: var(--space-6);">
 <h4 style="margin-top: 0;">Current Research</h4>
