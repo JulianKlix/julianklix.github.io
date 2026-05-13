@@ -63,7 +63,7 @@ permalink: /research/
 
 
 <div class="section-card">
-<h3>Working Papers</h3>
+<h3>Working Papers</h3><br>
 
 <div class="paper-entry">
 
@@ -101,7 +101,7 @@ permalink: /research/
 </div>
 
 
-<h3>Work in Progress</h3>
+<h3>Work in Progress</h3><br>
 
 
 <div class="paper-entry">
