@@ -13,9 +13,9 @@ permalink: /teaching/
 
 <p>
 <span style="font-size: 1.15rem; font-weight. 500; color: var(--text-primary)">&nbsp;&nbsp;&nbsp;Graduate Mathematics</span><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: var(--text-muted)">University of Mannheim</span>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: var(--text-muted)">University of Mannheim &nbsp;&bull;&nbsp; Julian Klix</span>
 </p>
-<br>
+
 
 <h3>Teaching Assistant</h3>
 
