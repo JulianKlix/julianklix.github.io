@@ -18,8 +18,8 @@ permalink: /
 </div>
 
 <div class="callout callout-warning" markdown="0">
-<div class="callout-title"><i class="fa-solid fa-screwdriver-wrench callout-icon"></i> Side under Construction</div>
-<p>This side is currently under construction. Functionality might be limited and will gradually be added. Files may partially missing.</p>
+<div class="callout-title"><i class="fa-solid fa-screwdriver-wrench callout-icon"></i> Site under Construction</div>
+<p>This site is currently under construction. Functionality might be limited and will gradually be added. Files may partially missing.</p>
 </div>
 
 I am a PhD candidate in Economics at the University of Mannheim, Department of Economics. I am interested in theoretical microeconomics and industrial organization.
