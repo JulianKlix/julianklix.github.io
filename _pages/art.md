@@ -24,9 +24,9 @@ permalink: /art/
 <div class="gallery-title">Paris</div>
 </div>
 
-<div class="gallery-item" data-gallery-image="{{ site.url }}{{ site.baseurl }}/art/New York.png" data-gallery-title="Image 4">
-<img src="{{ site.url }}{{ site.baseurl }}/art/New York.png" class="gallery-thumb" alt="New York">
-<div class="gallery-title">New York</div>
+<div class="gallery-item" data-gallery-image="{{ site.url }}{{ site.baseurl }}/art/Mannheim.png" data-gallery-title="Image 6">
+<img src="{{ site.url }}{{ site.baseurl }}/art/Mannheim.png" class="gallery-thumb" alt="Mannheim">
+<div class="gallery-title">Mannheim</div>
 </div>
 
 <div class="gallery-item" data-gallery-image="{{ site.url }}{{ site.baseurl }}/art/Frankfurt.png" data-gallery-title="Image 5">
@@ -34,10 +34,11 @@ permalink: /art/
 <div class="gallery-title">Frankfurt</div>
 </div>
 
-<div class="gallery-item" data-gallery-image="{{ site.url }}{{ site.baseurl }}/art/Mannheim.png" data-gallery-title="Image 6">
-<img src="{{ site.url }}{{ site.baseurl }}/art/Mannheim.png" class="gallery-thumb" alt="Mannheim">
-<div class="gallery-title">Mannheim</div>
+<div class="gallery-item" data-gallery-image="{{ site.url }}{{ site.baseurl }}/art/New York.png" data-gallery-title="Image 4">
+<img src="{{ site.url }}{{ site.baseurl }}/art/New York.png" class="gallery-thumb" alt="New York">
+<div class="gallery-title">New York</div>
 </div>
+
 
 </div>
 
