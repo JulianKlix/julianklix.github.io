@@ -35,13 +35,13 @@
   &.chip-dummy {
     background-color: var(--accent-light);
     color: var(--accent);
-    border-color: var(--border-color);
+    border-color: var(--accent);
     cursor: default;
 
     &:hover {
       background-color: var(--accent-light);
       color: var(--accent);
-      border-color: var(--border-color);
+      border-color: var(--accent);
     }
   }
 
