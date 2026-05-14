@@ -36,10 +36,12 @@
     background-color: var(--accent-light);
     color: var(--accent);
     border-color: var(--border-color);
+    cursor: default;
 
     &:hover {
       background-color: var(--accent-light);
       color: var(--accent);
+      border-color: var(--border-color);
     }
   }
 

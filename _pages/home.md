@@ -11,8 +11,10 @@ permalink: /
 <div class="chip-container" markdown="0">
 <a href="" class="chip">Microeconomic Theory</a>
 <a href="" class="chip">Industrial Organization</a>
-<a href="" class="chip">Law & Econonics</a>  
-<!-- This is how you would do a keyword with a link to another page:
+<span class="chip chip-dummy">PDF</span>
+<!-- 
+  <a href="" class="chip">Law & Econonics</a>  
+  This is how you would do a keyword with a link to another page:
   <a href="{{ site.url }}{{ site.baseurl }}/research" class="chip">Law & Economics</a>
 -->
 </div>
