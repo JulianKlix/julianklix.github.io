@@ -7,53 +7,47 @@ permalink: /art/
 
 ## Art
 
-<div class="research-grid">
+<div class="gallery-grid" markdown="0">
 
-<div class="research-card">
-<img src="{{ site.url }}{{ site.baseurl }}/art/Rom.png" class="research-thumb" alt="Rome">
-<div class="research-body">
-<h4 class="research-title">Rome</h4>
-</div>
+<div class="gallery-item" data-gallery-image="{{ site.url }}{{ site.baseurl }}/art/Rom.png" data-gallery-title="Rome">
+<img src="{{ site.url }}{{ site.baseurl }}/art/Rom.png" class="gallery-thumb" alt="Rome">
+<div class="gallery-title">Rome</div>
 </div>
 
-<div class="research-card">
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/superfluidity.svg" class="research-thumb" alt="Superfluid helium">
-<div class="research-body">
-<h4 class="research-title">Superfluidity</h4>
-<p class="research-desc">Quantum mechanical explanation of the behavior of liquid helium near absolute zero. Using path integral methods, we developed a microscopic theory of the lambda transition and explained the energy spectrum of excitations in superfluid helium, including the roton minimum.</p>
-</div>
+<div class="gallery-item" data-gallery-image="{{ site.url }}{{ site.baseurl }}/art/Barcelona.png" data-gallery-title="Image 2">
+<img src="{{ site.url }}{{ site.baseurl }}/art/Barcelona.png" class="gallery-thumb" alt="Barcelona">
+<div class="gallery-title">Barcelona</div>
 </div>
 
-<div class="research-card">
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/partons.svg" class="research-thumb" alt="Parton model">
-<div class="research-body">
-<h4 class="research-title">Parton Model</h4>
-<p class="research-desc">A model describing the internal structure of hadrons in terms of point-like constituents called partons. This framework proved essential for interpreting deep inelastic scattering experiments at SLAC and laid the groundwork for quantum chromodynamics (QCD).</p>
-</div>
+<div class="gallery-item" data-gallery-image="{{ site.url }}{{ site.baseurl }}/art/Paris.png" data-gallery-title="Image 3">
+<img src="{{ site.url }}{{ site.baseurl }}/art/Paris.png" class="gallery-thumb" alt="Paris">
+<div class="gallery-title">Paris</div>
 </div>
 
-<div class="research-card">
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/quantum-computing.svg" class="research-thumb" alt="Quantum circuit">
-<div class="research-body">
-<h4 class="research-title">Quantum Computing</h4>
-<p class="research-desc">Pioneering proposals for using quantum mechanical systems to perform computation. We demonstrated that classical computers cannot efficiently simulate quantum physics, motivating the development of quantum computers that exploit superposition and entanglement.</p>
-</div>
+<div class="gallery-item" data-gallery-image="{{ site.url }}{{ site.baseurl }}/art/New York.png" data-gallery-title="Image 4">
+<img src="{{ site.url }}{{ site.baseurl }}/art/New York.png" class="gallery-thumb" alt="New York">
+<div class="gallery-title">New York</div>
 </div>
 
-<div class="research-card">
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/nanotechnology.svg" class="research-thumb" alt="Atomic manipulation">
-<div class="research-body">
-<h4 class="research-title">Nanotechnology</h4>
-<p class="research-desc">Exploration of the physical possibilities of manipulating matter at the atomic scale. The talk "There's Plenty of Room at the Bottom" envisioned machines that could arrange atoms one by one, anticipating modern nanotechnology and molecular manufacturing.</p>
-</div>
+<div class="gallery-item" data-gallery-image="{{ site.url }}{{ site.baseurl }}/art/Frankfurt.png" data-gallery-title="Image 5">
+<img src="{{ site.url }}{{ site.baseurl }}/art/Frankfurt.png" class="gallery-thumb" alt="Frankfurt">
+<div class="gallery-title">Frankfurt</div>
 </div>
 
-<div class="research-card">
-<img src="{{ site.url }}{{ site.baseurl }}/images/research/weak-interactions.svg" class="research-thumb" alt="Weak interaction diagram">
-<div class="research-body">
-<h4 class="research-title">Weak Interactions</h4>
-<p class="research-desc">Development of the V-A theory of the weak interaction with Murray Gell-Mann. This theory correctly predicted the structure of weak decays and was later incorporated into the electroweak unification by Weinberg, Salam, and Glashow.</p>
-</div>
+<div class="gallery-item" data-gallery-image="{{ site.url }}{{ site.baseurl }}/art/Mannheim.png" data-gallery-title="Image 6">
+<img src="{{ site.url }}{{ site.baseurl }}/art/Mannheim.png" class="gallery-thumb" alt="Mannheim">
+<div class="gallery-title">Mannheim</div>
 </div>
 
+</div>
+
+<!-- Lightbox Modal -->
+<div class="gallery-lightbox" id="galleryLightbox" markdown="0">
+<button class="lightbox-close" aria-label="Close gallery">
+<i class="fa-solid fa-xmark"></i>
+</button>
+<div class="lightbox-content">
+<img id="lightboxImage" src="" alt="">
+<div class="lightbox-title" id="lightboxTitle"></div>
+</div>
 </div>
