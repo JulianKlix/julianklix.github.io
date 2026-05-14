@@ -13,8 +13,9 @@ permalink: /research/
 <div class="paper-entry">
 <p>
 <span style="font-size: 1.25rem; font-weight. 600; color: var(--text-primary)">Hybrid Contracting in Repeated Interactions</span><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: var(--accent)">Working Paper &nbsp;&bull;&nbsp; R&R at Management Science</span><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;joint with Bernhard Ganglmair & Dongsoo Shin
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;joint with Bernhard Ganglmair & Dongsoo Shin<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: var(--accent)">Working Paper &nbsp;&bull;&nbsp; R&R at Management Science</span>
+
 </p>
 <div class="chip-container" markdown="0">
 <a href="{{ site.url }}{{ site.baseurl }}/papers/feynman06.pdf" target="_blank" class="chip">PDF</a>
