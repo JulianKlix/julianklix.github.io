@@ -5,7 +5,7 @@ sitemap: false
 permalink: /researchNew/
 ---
 
-## Research
+## Art
 
 <div class="research-grid">
 
