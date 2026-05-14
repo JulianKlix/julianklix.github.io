@@ -70,7 +70,7 @@ permalink: /research/
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: var(--accent)">Work in Progress</span><br>
 </p>
 <div class="chip-container" markdown="0">
-<a href="{{ site.url }}{{ site.baseurl }}/papers/feynman06.pdf" target="_blank" class="chip chip-muted">PDF</a>
+<a href="{{ site.url }}{{ site.baseurl }}/papers/feynman06.pdf" target="_blank" class="chip chip-inactive">PDF</a>
 <a href="{{ site.url }}{{ site.baseurl }}/papers/feynman06.pdf" target="_blank" class="chip">Slides</a>
 <button class="chip" data-toggle-target="summary-AuxMarket">Abstract</button>
 </div>

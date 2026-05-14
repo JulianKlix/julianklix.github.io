@@ -42,6 +42,22 @@
       color: var(--text-primary);
     }
   }
+
+  // Inactive variant for placeholder chips (no PDF/slides available)
+  &.chip-inactive {
+    background-color: var(--bg-secondary);
+    color: var(--text-muted);
+    border-color: var(--border-color);
+    cursor: not-allowed;
+
+    &:hover {
+      background-color: var(--bg-secondary);
+      color: var(--text-muted);
+      border-color: var(--border-color);
+    }
+  }
+
+
 }
 
 // Highlight callout — eye-catching announcement box
