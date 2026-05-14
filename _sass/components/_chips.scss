@@ -48,7 +48,7 @@
     background-color: var(--bg-secondary);
     color: var(--text-muted);
     border-color: var(--border-color);
-    cursor: not-allowed;
+    cursor: default;
 
     &:hover {
       background-color: var(--bg-secondary);
