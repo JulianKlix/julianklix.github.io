@@ -10,7 +10,7 @@ permalink: /researchNew/
 <div class="research-grid">
 
 <div class="research-card">
-<img src="{{ site.url }}{{ site.baseurl }}/images/art/Rom.png" class="research-thumb" alt="Rome">
+<img src="{{ site.url }}{{ site.baseurl }}/art/Rom.png" class="research-thumb" alt="Rome">
 <div class="research-body">
 <h4 class="research-title">Rome</h4>
 <p class="research-desc">Development of the path integral formulation of quantum mechanics and its application to quantum electrodynamics (QED). This work introduced Feynman diagrams as a powerful tool for calculating particle interactions, providing an intuitive visual representation of complex quantum processes.</p>
