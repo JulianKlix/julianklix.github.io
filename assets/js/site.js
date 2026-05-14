@@ -1,6 +1,6 @@
 // =============================================================
 // site.js — Dark mode, publication filter, toggles, scroll effects,
-//           copy bibtex, back-to-top, year badges
+//           copy bibtex, back-to-top, year badges, gallery lightbox
 // =============================================================
 
 (function () {
@@ -112,6 +112,56 @@
       entry.insertBefore(badge, entry.firstChild);
     }
   });
+
+  // ----- Gallery Lightbox -----
+
+  var lightbox = document.getElementById('galleryLightbox');
+  if (lightbox) {
+    var galleryItems = document.querySelectorAll('.gallery-item');
+    var lightboxImage = document.getElementById('lightboxImage');
+    var lightboxTitle = document.getElementById('lightboxTitle');
+    var lightboxClose = document.querySelector('.lightbox-close');
+
+    function openLightbox(imageSrc, imageTitle) {
+      lightboxImage.src = imageSrc;
+      lightboxTitle.textContent = imageTitle;
+      lightbox.classList.add('open');
+      document.body.style.overflow = 'hidden';
+    }
+
+    function closeLightbox() {
+      lightbox.classList.remove('open');
+      document.body.style.overflow = '';
+    }
+
+    // Open lightbox on gallery item click
+    galleryItems.forEach(function (item) {
+      item.addEventListener('click', function () {
+        var imageSrc = this.getAttribute('data-gallery-image');
+        var imageTitle = this.getAttribute('data-gallery-title');
+        openLightbox(imageSrc, imageTitle);
+      });
+    });
+
+    // Close button
+    if (lightboxClose) {
+      lightboxClose.addEventListener('click', closeLightbox);
+    }
+
+    // Close on background click
+    lightbox.addEventListener('click', function (e) {
+      if (e.target === lightbox) {
+        closeLightbox();
+      }
+    });
+
+    // Close on Escape key
+    document.addEventListener('keydown', function (e) {
+      if (e.key === 'Escape' && lightbox.classList.contains('open')) {
+        closeLightbox();
+      }
+    });
+  }
 
   // ----- Back to Top Button -----
 
