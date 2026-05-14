@@ -36,7 +36,7 @@ permalink: /research/
 </p>
 <div class="chip-container" markdown="0">
 <a href="{{ site.url }}{{ site.baseurl }}/papers/feynman06.pdf" target="_blank" class="chip">PDF</a>
-<a href="{{ site.url }}{{ site.baseurl }}/papers/feynman06.pdf" target="_blank" class="chip">Slides</a>
+<span class="chip chip-inactive">Slides</span>
 <button class="chip" data-toggle-target="summary-LitFin">Abstract</button>
 </div>
 <div class="pub-collapse" id="summary-LitFin">
@@ -53,7 +53,7 @@ permalink: /research/
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: var(--accent)">Work in Progress</span><br>
 </p>
 <div class="chip-container" markdown="0">
-<a href="{{ site.url }}{{ site.baseurl }}/papers/feynman06.pdf" target="_blank" class="chip">PDF</a>
+<span class="chip chip-inactive">PDF</span>
 <a href="{{ site.url }}{{ site.baseurl }}/papers/feynman06.pdf" target="_blank" class="chip">Slides</a>
 <button class="chip" data-toggle-target="summary-Parasocial">Abstract</button>
 </div>
