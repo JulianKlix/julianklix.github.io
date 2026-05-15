@@ -11,7 +11,7 @@ permalink: /art/
 
 <div class="gallery-item" data-gallery-image="{{ site.url }}{{ site.baseurl }}/art/Rom.png" data-gallery-title="Rome">
 <img src="{{ site.url }}{{ site.baseurl }}/art/Rom.png" class="gallery-thumb" alt="Rome">
-<div class="gallery-title">Rome</div>
+<div class="gallery-title">Rome Button</div>
 </div>
 
 <div class="gallery-item" data-gallery-image="{{ site.url }}{{ site.baseurl }}/art/Barcelona.png" data-gallery-title="Barcelona">
