@@ -40,7 +40,7 @@ I am a PhD candidate in Economics at the University of Mannheim, Department of E
 
 <div class="callout callout-info" markdown="0">
 <div class="callout-title"><i class="fa-solid fa-bullhorn callout-icon"></i> Talk at EARIE 2026</div>
-<p>Henrik Sauer will present our current project <span class="italic">Public Markets for Claims in Litigation</span> at EARIE 2026 in Mannheim.</p>
+<p>Henrik Sauer will present our current project <a href="{{ site.url }}{{ site.baseurl }}/research/">Public Markets for Claims in Litigation</a> at EARIE 2026 in Mannheim.</p>
 </div>
 
 <!--
