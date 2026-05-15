@@ -16,7 +16,7 @@ permalink: /art/
   <div class="gallery-title-row">
     <span style="font-size: 1.25rem; font-weight. 600; color: var(--text-primary)">&nbsp;&nbsp;
       Rome</span>
-    <a href="https://www.crctr224.de/research/discussion-papers/archive/dp695" target="_blank" class="chip">Download</a>
+    <a href="{{ site.url }}{{ site.baseurl }}/art/Rom.png" target="_blank" class="chip">Download</a>
   </div>
 </div>
 
@@ -28,7 +28,7 @@ permalink: /art/
   <div class="gallery-title-row">
     <span style="font-size: 1.25rem; font-weight. 600; color: var(--text-primary)">&nbsp;&nbsp;
       Barcelona</span>
-    <a href="https://www.crctr224.de/research/discussion-papers/archive/dp695" target="_blank" class="chip">Download</a>
+    <a href="{{ site.url }}{{ site.baseurl }}/art/Barcelona.png" target="_blank" class="chip">Download</a>
   </div>
 </div>
 </div>
