@@ -93,17 +93,17 @@ permalink: /research/
 
 <p>
 <span style="font-size: 1.25rem; font-weight. 600; color: var(--text-primary)">Industrial Robots and Where to Find Them</span><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;joint with Coauthors<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;joint with Amil Camilo, Doruk Gokalp, Daniil Iurchenko & Jeremy Rubinoff<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: var(--accent)">Master Thesis &nbsp;&bull;&nbsp; Published at UPF Repository</span>
 </p>
 <div class="chip-container" markdown="0">
 <a href="https://thevoice.bse.eu/wp-content/uploads/2020/07/project-econ20-camilo-etal.pdf" target="_blank" class="chip">PDF</a>
 <a href="{{ site.url }}{{ site.baseurl }}/papers/AssociatedMarketRationing Slides.pdf" target="_blank" class="chip">Slides</a>
-<button class="chip" data-toggle-target="summary-AuxMarket">Abstract</button>
+<button class="chip" data-toggle-target="summary-Robots">Abstract</button>
 </div>
-<div class="pub-collapse" id="summary-AuxMarket">
+<div class="pub-collapse" id="summary-Robots">
 <p>
-  I research a model of secondary markets to filter potential buyers of a rationed/highly scarce product. The secondary market selects consumers based on their internal valuation (which does not perfectly correlate with willingness to pay) which either directly or indirectly increases the utility of the seller.
+  Using firm-level data from Spain, we investigate robot abandonment, a phenomenon neglected by the literature, and find that a substantial proportion of robot adoption is non-permanent. We also find that (i) firms are most likely to derobotize shortly after robotization; (ii) derobotization rates are higher among smaller firms; and (iii) labor demand falls after derobotization. We develop a model of reversible automation in which firms learn the costs of using robots only after they first adopt them. We simulate a panel of firms that match the data and demonstrate that analyses of automation which ignore abandonment can overestimate the effects of automation.
 </p>
 </div>
 
