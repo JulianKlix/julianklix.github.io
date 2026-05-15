@@ -11,8 +11,10 @@ permalink: /art/
 
 <div class="gallery-item" data-gallery-image="{{ site.url }}{{ site.baseurl }}/art/Rom.png" data-gallery-title="Rome">
 <img src="{{ site.url }}{{ site.baseurl }}/art/Rom.png" class="gallery-thumb" alt="Rome">
-<div class="gallery-title">Rome
+<div class="gallery-title">&nbsp;Rome
+
   <a href="https://www.crctr224.de/research/discussion-papers/archive/dp695" target="_blank" class="chip">Download</a>
+
 </div>
 </div>
 
