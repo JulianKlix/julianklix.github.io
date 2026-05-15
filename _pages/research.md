@@ -92,7 +92,7 @@ permalink: /research/
 
 
 <p>
-<span style="font-size: 1.25rem; font-weight. 600; color: var(--text-primary)">Industrial Robots and Where to Find Them</span><br>
+<span style="font-size: 1.25rem; font-weight. 600; color: var(--text-primary)">Industrial Robots and Where to Find Them: Evidence and Theory on Derobotization</span><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;joint with Amil Camilo, Doruk Gokalp, Daniil Iurchenko & Jeremy Rubinoff<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: var(--accent)">Master Thesis &nbsp;&bull;&nbsp; Published at UPF Repository</span>
 </p>
@@ -109,12 +109,12 @@ permalink: /research/
 </div>
 <div class="pub-collapse" id="cite-Robots">
 <p>
-  @mastersthesis{klix2020derobotization,
-  author = {Camilo, Amil and Gokalp, Doruk and Iurchenko, Daniil and Klix, Julian and Rubinoff, Jeremy},
-  title = {Industrial robots and where to find them: evidence and theory on derobotization},
-  school  = {Barcelona School of Economics},
-  year    = {2020},
-  address = {Barcelona, Spain}
+  @mastersthesis{klix2020derobotization,<br>
+  &nbsp;&nbsp;&nbsp;author = {Camilo, Amil and Gokalp, Doruk and Iurchenko, Daniil and Klix, Julian and Rubinoff, Jeremy},<br>
+  &nbsp;&nbsp;&nbsp;title = {Industrial robots and where to find them: evidence and theory on derobotization},<br>
+  &nbsp;&nbsp;&nbsp;school  = {Barcelona School of Economics},<br>
+  &nbsp;&nbsp;&nbsp;year    = {2020},<br>
+  &nbsp;&nbsp;&nbsp;address = {Barcelona, Spain}<br>
 }
 </p>
 </div>
