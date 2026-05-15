@@ -45,6 +45,16 @@
   //  transform: scale(1.04);
   //}
 
+  //test new environment
+  .gallery-title-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+  }
+
+
+
   .gallery-title {
     padding: var(--space-4) var(--space-4);
     font-family: 'DM Sans', sans-serif;
