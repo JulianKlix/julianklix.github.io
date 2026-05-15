@@ -3,6 +3,7 @@ title: "News"
 layout: gridlay
 sitemap: false
 permalink: /allnews.html
+published: false
 ---
 
 ## News

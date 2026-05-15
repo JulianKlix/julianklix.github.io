@@ -3,6 +3,7 @@ title: "Team"
 layout: gridlay
 sitemap: false
 permalink: /team/
+published: false
 ---
 
 ## Team

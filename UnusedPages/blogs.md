@@ -3,6 +3,7 @@ title: "Blog"
 layout: gridlay
 sitemap: false
 permalink: /blogs/
+published: false
 ---
 
 ## Blog
