@@ -18,8 +18,8 @@ permalink: /research/
 
 </p>
 <div class="chip-container" markdown="0">
-<a href="{{ site.url }}{{ site.baseurl }}/papers/feynman06.pdf" target="_blank" class="chip">PDF</a>
-<a href="{{ site.url }}{{ site.baseurl }}/papers/feynman06.pdf" target="_blank" class="chip">Slides</a>
+<a href="https://www.crctr224.de/research/discussion-papers/archive/dp695" target="_blank" class="chip">PDF</a>
+<a href="{{ site.url }}{{ site.baseurl }}/papers/HybridContracting Slides.pdf" target="_blank" class="chip">Slides</a>
 <button class="chip" data-toggle-target="summary-SLC">Abstract</button>
 </div>
 <div class="pub-collapse" id="summary-SLC">
