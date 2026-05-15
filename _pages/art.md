@@ -14,7 +14,8 @@ permalink: /art/
 
 <div class="gallery-title">
   <div class="gallery-title-row">
-    <span style="font-size: 1.25rem; font-weight. 600; color: var(--text-primary)">Rome</span>
+    <span style="font-size: 1.25rem; font-weight. 600; color: var(--text-primary)">&nbsp;&nbsp;
+      Rome</span>
     <a href="https://www.crctr224.de/research/discussion-papers/archive/dp695" target="_blank" class="chip">Download</a>
   </div>
 </div>
@@ -25,7 +26,8 @@ permalink: /art/
 <img src="{{ site.url }}{{ site.baseurl }}/art/Barcelona.png" class="gallery-thumb" alt="Barcelona">
 <div class="gallery-title">
   <div class="gallery-title-row">
-    <span>Barcelona</span>
+    <span style="font-size: 1.25rem; font-weight. 600; color: var(--text-primary)">&nbsp;&nbsp;
+      Barcelona</span>
     <a href="https://www.crctr224.de/research/discussion-papers/archive/dp695" target="_blank" class="chip">Download</a>
   </div>
 </div>
@@ -35,7 +37,8 @@ permalink: /art/
 <img src="{{ site.url }}{{ site.baseurl }}/art/Paris.png" class="gallery-thumb" alt="Paris">
 <div class="gallery-title">
   <div class="gallery-title-row">
-    <span style="font-size: 1.25rem; font-weight. 600; color: var(--text-primary)">Paris</span>
+    <span style="font-size: 1.25rem; font-weight. 600; color: var(--text-primary)">&nbsp;&nbsp;
+      Paris</span>
     <a href="https://www.crctr224.de/research/discussion-papers/archive/dp695" target="_blank" class="chip">Download</a>
   </div>
 </div>
@@ -45,7 +48,8 @@ permalink: /art/
 <img src="{{ site.url }}{{ site.baseurl }}/art/Mannheim.png" class="gallery-thumb" alt="Mannheim">
 <div class="gallery-title">
   <div class="gallery-title-row">
-    <span style="font-size: 1.25rem; font-weight. 600; color: var(--text-primary)">Mannheim</span>
+    <span style="font-size: 1.25rem; font-weight. 600; color: var(--text-primary)">&nbsp;&nbsp;
+      Mannheim</span>
     <a href="https://www.crctr224.de/research/discussion-papers/archive/dp695" target="_blank" class="chip">Download</a>
   </div>
 </div>
@@ -55,7 +59,8 @@ permalink: /art/
 <img src="{{ site.url }}{{ site.baseurl }}/art/Frankfurt.png" class="gallery-thumb" alt="Frankfurt">
 <div class="gallery-title">
   <div class="gallery-title-row">
-    <span style="font-size: 1.25rem; font-weight. 600; color: var(--text-primary)">Frankfurt</span>
+    <span style="font-size: 1.25rem; font-weight. 600; color: var(--text-primary)">&nbsp;&nbsp;
+      Frankfurt</span>
     <a href="https://www.crctr224.de/research/discussion-papers/archive/dp695" target="_blank" class="chip">Download</a>
   </div>
 </div>
@@ -65,7 +70,8 @@ permalink: /art/
 <img src="{{ site.url }}{{ site.baseurl }}/art/New York.png" class="gallery-thumb" alt="New York">
 <div class="gallery-title">
   <div class="gallery-title-row">
-    <span style="font-size: 1.25rem; font-weight. 600; color: var(--text-primary)">New York</span>
+    <span style="font-size: 1.25rem; font-weight. 600; color: var(--text-primary)">&nbsp;&nbsp;
+      New York</span>
     <a href="https://www.crctr224.de/research/discussion-papers/archive/dp695" target="_blank" class="chip">Download</a>
   </div>
 </div>
