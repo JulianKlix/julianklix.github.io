@@ -100,12 +100,28 @@ permalink: /research/
 <a href="https://thevoice.bse.eu/wp-content/uploads/2020/07/project-econ20-camilo-etal.pdf" target="_blank" class="chip">PDF</a>
 <a href="{{ site.url }}{{ site.baseurl }}/papers/Derobotization Slides.pdf" target="_blank" class="chip">Slides</a>
 <button class="chip" data-toggle-target="summary-Robots">Abstract</button>
+<button class="chip" data-toggle-target="cite-Robots">BibTeX</button>
 </div>
 <div class="pub-collapse" id="summary-Robots">
 <p>
   Using firm-level data from Spain, we investigate robot abandonment, a phenomenon neglected by the literature, and find that a substantial proportion of robot adoption is non-permanent. We also find that (i) firms are most likely to derobotize shortly after robotization; (ii) derobotization rates are higher among smaller firms; and (iii) labor demand falls after derobotization. We develop a model of reversible automation in which firms learn the costs of using robots only after they first adopt them. We simulate a panel of firms that match the data and demonstrate that analyses of automation which ignore abandonment can overestimate the effects of automation.
 </p>
 </div>
+<div class="pub-collapse" id="cite-Robots">
+<p>
+  @mastersthesis{klix2020derobotization,
+  author = {Camilo, Amil and Gokalp, Doruk and Iurchenko, Daniil and Klix, Julian and Rubinoff, Jeremy},
+  title = {Industrial robots and where to find them: evidence and theory on derobotization},
+  school  = {Barcelona School of Economics},
+  year    = {2020},
+  address = {Barcelona, Spain}
+}
+</p>
+</div>
+
+
+
+
 
 
 
