@@ -20,7 +20,7 @@ permalink: /art/
 
 <div class="gallery-item" data-gallery-image="{{ site.url }}{{ site.baseurl }}/art/Barcelona.png" data-gallery-title="Barcelona">
 <img src="{{ site.url }}{{ site.baseurl }}/art/Barcelona.png" class="gallery-thumb" alt="Barcelona">
-<div class="gallery-title">Barcelona Button</div>
+<div class="gallery-title">Barcelona</div>
 </div>
 
 <div class="gallery-item" data-gallery-image="{{ site.url }}{{ site.baseurl }}/art/Paris.png" data-gallery-title="Paris">
