@@ -43,7 +43,12 @@ permalink: /art/
 
 <div class="gallery-item" data-gallery-image="{{ site.url }}{{ site.baseurl }}/art/Mannheim.png" data-gallery-title="Mannheim">
 <img src="{{ site.url }}{{ site.baseurl }}/art/Mannheim.png" class="gallery-thumb" alt="Mannheim">
-<div class="gallery-title">Mannheim</div>
+<div class="gallery-title">
+  <div class="gallery-title-row">
+    <span style="font-size: 1.25rem; font-weight. 600; color: var(--text-primary)">Mannheim</span>
+    <a href="https://www.crctr224.de/research/discussion-papers/archive/dp695" target="_blank" class="chip">Download</a>
+  </div>
+</div>
 </div>
 
 <div class="gallery-item" data-gallery-image="{{ site.url }}{{ site.baseurl }}/art/Frankfurt.png" data-gallery-title="Frankfurt">
