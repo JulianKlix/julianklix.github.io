@@ -98,7 +98,7 @@ permalink: /research/
 </p>
 <div class="chip-container" markdown="0">
 <a href="https://thevoice.bse.eu/wp-content/uploads/2020/07/project-econ20-camilo-etal.pdf" target="_blank" class="chip">PDF</a>
-<a href="{{ site.url }}{{ site.baseurl }}/papers/AssociatedMarketRationing Slides.pdf" target="_blank" class="chip">Slides</a>
+<a href="{{ site.url }}{{ site.baseurl }}/papers/Derobotization Slides.pdf" target="_blank" class="chip">Slides</a>
 <button class="chip" data-toggle-target="summary-Robots">Abstract</button>
 </div>
 <div class="pub-collapse" id="summary-Robots">
