@@ -24,10 +24,10 @@
   overflow: hidden;
   transition: box-shadow var(--transition-slow), transform var(--transition-slow);
 
-  &:hover {
-    box-shadow: var(--shadow-lg);
-    transform: translateY(-3px);
-  }
+  //&:hover {
+  //  box-shadow: var(--shadow-lg);
+  //  transform: translateY(-3px);
+  //}
 
   .gallery-thumb {
     width: 100%;
@@ -40,9 +40,9 @@
     transition: transform 0.6s cubic-bezier(0.22, 1, 0.36, 1);
   }
 
-  &:hover .gallery-thumb {
-    transform: scale(1.04);
-  }
+  //&:hover .gallery-thumb {
+  //  transform: scale(1.04);
+  //}
 
   .gallery-title {
     padding: var(--space-4) var(--space-4);
