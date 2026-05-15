@@ -66,6 +66,8 @@ permalink: /research/
 </div>
 
 
+
+<div class="paper-entry">
 <p>
 <span style="font-size: 1.25rem; font-weight. 600; color: var(--text-primary)">Selling Rationed Goods through Associated Markets</span><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: var(--accent)">Work in Progress</span><br>
@@ -73,6 +75,29 @@ permalink: /research/
 <div class="chip-container" markdown="0">
 <span class="chip chip-inactive">PDF</span>  <!-- PDF not available: use inactive class instead
 <a href="{{ site.url }}{{ site.baseurl }}/papers/cvMockup.pdf" target="_blank" class="chip chip-inactive">PDF</a> -->
+<a href="{{ site.url }}{{ site.baseurl }}/papers/AssociatedMarketRationing Slides.pdf" target="_blank" class="chip">Slides</a>
+<button class="chip" data-toggle-target="summary-AuxMarket">Abstract</button>
+</div>
+<div class="pub-collapse" id="summary-AuxMarket">
+<p>
+  I research a model of secondary markets to filter potential buyers of a rationed/highly scarce product. The secondary market selects consumers based on their internal valuation (which does not perfectly correlate with willingness to pay) which either directly or indirectly increases the utility of the seller.
+</p>
+</div>
+</div>
+
+
+
+
+
+
+
+<p>
+<span style="font-size: 1.25rem; font-weight. 600; color: var(--text-primary)">Industrial Robots and Where to Find Them</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;joint with Coauthors<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: var(--accent)">Master Thesis &nbsp;&bull;&nbsp; Published at UPF Repository</span>
+</p>
+<div class="chip-container" markdown="0">
+<a href="https://thevoice.bse.eu/wp-content/uploads/2020/07/project-econ20-camilo-etal.pdf" target="_blank" class="chip">PDF</a>
 <a href="{{ site.url }}{{ site.baseurl }}/papers/AssociatedMarketRationing Slides.pdf" target="_blank" class="chip">Slides</a>
 <button class="chip" data-toggle-target="summary-AuxMarket">Abstract</button>
 </div>
