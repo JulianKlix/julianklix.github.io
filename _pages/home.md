@@ -25,8 +25,15 @@ permalink: /
 </div>
 
 I am a PhD candidate in Economics at the University of Mannheim, Department of Economics. I hold a Master's degree in Economics from Barcelona School of Economics and a Master of Reserach degree from Universitat Pompeu Fabra.<br>
+<br>
 My focus is on theoretical microeconomics with research interests in industrial organization as well as law & economics and contract theory.<br>
+<br>
 If you are interested in my research, have questions or want to discuss my current work, I'm looking forward to hear from you.
+
+<!-- OLD:
+I am a PhD candidate in Economics at the University of Mannheim, Department of Economics. I am interested in theoretical microeconomics and industrial organization.
+-->
+
 
 <div class="callout callout-info" markdown="0">
 <div class="callout-title"><i class="fa-solid fa-bullhorn callout-icon"></i> Talk at EARIE 2026</div>

@@ -42,10 +42,10 @@ jobs:
 
 #Found on Forum to run a google search console verification to have website appear on google
 # Original link from google to paste into DNS: google-site-verification=LNmk0LrUnoZ3hD5HPxA4-zIzalmDgYWL5pDOx03BZhs
-      - name: Inject Google Site Verification Meta Tag
-        run: |
-          META_TAG='<meta name="google-site-verification" content="LNmk0LrUnoZ3hD5HPxA4-zIzalmDgYWL5pDOx03BZhs" />'
-          find ./_site -name "*.html" -exec sudo sed -i "s|</head>|$META_TAG\n</head>|g" {} +
+#      - name: Inject Google Site Verification Meta Tag
+#        run: |
+#          META_TAG='<meta name="google-site-verification" content="LNmk0LrUnoZ3hD5HPxA4-zIzalmDgYWL5pDOx03BZhs" />'
+#          find ./_site -name "*.html" -exec sudo sed -i "s|</head>|$META_TAG\n</head>|g" {} +
 #Found code fragment ends here
 
   deploy:
