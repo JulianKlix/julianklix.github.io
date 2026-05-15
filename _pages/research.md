@@ -36,7 +36,7 @@ permalink: /research/
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;joint with Henrik Sauer & Paul Wegener
 </p>
 <div class="chip-container" markdown="0">
-<a href="{{ site.url }}{{ site.baseurl }}/papers/feynman06.pdf" target="_blank" class="chip">PDF</a>
+<a href="https://papers.ssrn.com/Sol3/Cf_Dev/AbsByAuth.cfm?per_id=6590078" target="_blank" class="chip">PDF</a>
 <span class="chip chip-inactive">Slides</span>
 <button class="chip" data-toggle-target="summary-LitFin">Abstract</button>
 </div>
@@ -73,7 +73,7 @@ permalink: /research/
 <div class="chip-container" markdown="0">
 <span class="chip chip-inactive">PDF</span>  <!-- PDF not available: use inactive class instead
 <a href="{{ site.url }}{{ site.baseurl }}/papers/cvMockup.pdf" target="_blank" class="chip chip-inactive">PDF</a> -->
-<a href="{{ site.url }}{{ site.baseurl }}/papers/feynman06.pdf" target="_blank" class="chip">Slides</a>
+<a href="{{ site.url }}{{ site.baseurl }}/papers/AssociatedMarketRationing Slides.pdf" target="_blank" class="chip">Slides</a>
 <button class="chip" data-toggle-target="summary-AuxMarket">Abstract</button>
 </div>
 <div class="pub-collapse" id="summary-AuxMarket">
