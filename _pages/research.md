@@ -108,7 +108,7 @@ permalink: /research/
 </p>
 </div>
 <div class="pub-collapse" id="cite-Robots">
-<p>
+<p><span style="font-size: 0.75rem">
   @mastersthesis{klix2020derobotization,<br>
   &nbsp;&nbsp;&nbsp;author = {Camilo, Amil and Gokalp, Doruk and Iurchenko, Daniil and Klix, Julian and Rubinoff, Jeremy},<br>
   &nbsp;&nbsp;&nbsp;title = {Industrial robots and where to find them: evidence and theory on derobotization},<br>
@@ -116,7 +116,7 @@ permalink: /research/
   &nbsp;&nbsp;&nbsp;year    = {2020},<br>
   &nbsp;&nbsp;&nbsp;address = {Barcelona, Spain}<br>
 }
-</p>
+</span></p>
 </div>
 
 
