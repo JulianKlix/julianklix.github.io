@@ -14,7 +14,7 @@ permalink: /art/
 
 <div class="gallery-title">
   <div class="gallery-title-row">
-    <span>Rome</span>
+    <span style="font-size: 1.25rem; font-weight. 600; color: var(--text-primary)">Rome</span>
     <a href="https://www.crctr224.de/research/discussion-papers/archive/dp695" target="_blank" class="chip">Download</a>
   </div>
 </div>
@@ -23,7 +23,12 @@ permalink: /art/
 
 <div class="gallery-item" data-gallery-image="{{ site.url }}{{ site.baseurl }}/art/Barcelona.png" data-gallery-title="Barcelona">
 <img src="{{ site.url }}{{ site.baseurl }}/art/Barcelona.png" class="gallery-thumb" alt="Barcelona">
-<div class="gallery-title">Barcelona</div>
+<div class="gallery-title">
+  <div class="gallery-title-row">
+    <span>Barcelona</span>
+    <a href="https://www.crctr224.de/research/discussion-papers/archive/dp695" target="_blank" class="chip">Download</a>
+  </div>
+</div>
 </div>
 
 <div class="gallery-item" data-gallery-image="{{ site.url }}{{ site.baseurl }}/art/Paris.png" data-gallery-title="Paris">
