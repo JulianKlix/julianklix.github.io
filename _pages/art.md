@@ -16,7 +16,7 @@ permalink: /art/
   <div class="gallery-title-row">
     <span style="font-size: 1.25rem; font-weight. 600; color: var(--text-primary)">&nbsp;&nbsp;
       Rome</span>
-    <a href="{{ site.url }}{{ site.baseurl }}/art/Rom.png" target="_blank" class="chip">Download</a>
+    <a href="{{ site.url }}{{ site.baseurl }}/art/Rom.png" target="_blank" class="chip"><i class="fa-solid fa-download"></i>&nbsp;Download</a>
   </div>
 </div>
 
