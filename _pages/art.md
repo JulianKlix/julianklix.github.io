@@ -7,6 +7,11 @@ permalink: /art/
 
 ## Art
 
+### STILLLEBENsräume
+
+Abstract city paintings, inspired by the late work of the brilliant Alfredo Alcaín.
+
+
 <div class="gallery-grid" markdown="0">
 
 <div class="gallery-item" data-gallery-image="{{ site.url }}{{ site.baseurl }}/art/Rom.png" data-gallery-title="Rome">
