@@ -7,7 +7,7 @@ permalink: /art/
 
 ## Art
 
-### STILLLEBENsräume
+### <span style="color: var(--accent)">STILLLEBENsräume</span>
 
 Abstract city paintings, inspired by the late work of the brilliant Alfredo Alcaín.
 
