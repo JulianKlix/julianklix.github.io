@@ -1,7 +1,7 @@
 ---
 title: "Art"
 layout: gridlay
-sitemap: false
+sitemap: true
 permalink: /art/
 ---
 
