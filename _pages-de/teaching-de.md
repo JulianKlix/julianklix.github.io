@@ -9,18 +9,18 @@ permalink: /de/teaching/
 
 <div class="section-card">
 
-<h3>Lecturer</h3>
+<h3>Vorlesung</h3>
 
 <p>
-<span style="font-size: 1.15rem; font-weight. 500; color: var(--text-primary)">&nbsp;&nbsp;&nbsp;Graduate Mathematics</span><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: var(--text-muted)">University of Mannheim &nbsp;&bull;&nbsp; Julian Klix</span>
+<span style="font-size: 1.15rem; font-weight. 500; color: var(--text-primary)">&nbsp;&nbsp;&nbsp;Mathematil für Master</span><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: var(--text-muted)">Universität Mannheim &nbsp;&bull;&nbsp; Julian Klix</span>
 </p>
 
 
-<h3>Teaching Assistant</h3>
+<h3>Übungsleitung</h3>
 
 
-{% for entry in site.data.teachingTA %}
+{% for entry in site.data.teachingTA-de %}
 <p>
 <span style="font-size: 1.15rem; font-weight. 500; color: var(--text-primary)">&nbsp;&nbsp;&nbsp;{{ entry.course }}</span><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: var(--text-muted)">{{ entry.location }} &nbsp;&bull;&nbsp; {{ entry.teacher }}</span>

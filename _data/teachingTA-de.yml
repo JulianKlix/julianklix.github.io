@@ -1,0 +1,26 @@
+# Teaching items shown on the teaching page.
+# Each entry needs: date, degree, location
+
+- course: Mikroökonomie für Promovierende  
+  location: "Universität Mannheim"
+  teacher: "Francisco Poggi"
+
+- course: Spieltheorie für Master
+  location: "Universität Mannheim"
+  teacher: "Henrik Orzen"
+
+- course: Spieltheorie für Bachelor
+  location: "Universitat Pompeu Fabra"
+  teacher: "Antonio Penta"
+  
+- course: Mikroökonomie für Bachelor 
+  location: "Universität Mannheim"
+  teacher: "Thomas Tröger"
+  
+- course: Statistik für Bachelor
+  location: "Universität Mannheim"
+  teacher: "Toni Stocker"
+  
+- course: Analysis & Linear Algebra für Bachelor
+  location: "Universität Mannheim"
+  teacher: "Evguenia Shprits"
