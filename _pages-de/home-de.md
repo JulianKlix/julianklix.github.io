@@ -20,8 +20,8 @@ permalink: /de/
 </div>
 
 <div class="callout callout-warning" markdown="0">
-<div class="callout-title"><i class="fa-solid fa-screwdriver-wrench callout-icon"></i> Site under Construction</div>
-<p>This site is currently under construction. Functionality might be limited and will gradually be added. Files may partially missing.</p>
+<div class="callout-title"><i class="fa-solid fa-screwdriver-wrench callout-icon"></i> Seitenweite Umbauarbeiten</div>
+<p>Diese Website befindet sich derzeit im Umbau. Einzelne Funktionen können fehlerhaft sein, Dateien vereinzelt fehlen.</p>
 </div>
 
 Ich bin Doktorand der Volkswirtschaftslehre an der Universität Mannheim, Abteilung VWL. Ich habe einen <i>Master in Economics</i> der Barcelona School of Economics und einen <i>Master of Reserach</i> der Universitat Pompeu Fabra inne.<br>
