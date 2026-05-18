@@ -99,8 +99,8 @@ Prints of the chapter illustrations of Oliver Byrne's 1847 master work.
 <div class="gallery-square-title">
   <div class="gallery-square-title-row">
     <span style="font-size: 1.25rem; font-weight. 600; color: var(--text-primary)">&nbsp;&nbsp;
-      Rome</span>
-    <a href="{{ site.url }}{{ site.baseurl }}/art/Rom.png" target="_blank" class="chip"><i class="fa-solid fa-download"></i>&nbsp;&nbsp;Download</a>
+      Chapter 1</span>
+    <a href="{{ site.url }}{{ site.baseurl }}/art/OliverByrneChapter1.png" target="_blank" class="chip"><i class="fa-solid fa-download"></i>&nbsp;&nbsp;Download</a>
   </div>
 </div>
 </div>
@@ -110,8 +110,8 @@ Prints of the chapter illustrations of Oliver Byrne's 1847 master work.
 <div class="gallery-square-title">
   <div class="gallery-square-title-row">
     <span style="font-size: 1.25rem; font-weight. 600; color: var(--text-primary)">&nbsp;&nbsp;
-      Barcelona</span>
-    <a href="{{ site.url }}{{ site.baseurl }}/art/Barcelona.png" target="_blank" class="chip"><i class="fa-solid fa-download"></i>&nbsp;&nbsp;Download</a>
+      Chapter 2</span>
+    <a href="{{ site.url }}{{ site.baseurl }}/art/OliverByrneChapter2.png" target="_blank" class="chip"><i class="fa-solid fa-download"></i>&nbsp;&nbsp;Download</a>
   </div>
 </div>
 </div>
@@ -121,43 +121,44 @@ Prints of the chapter illustrations of Oliver Byrne's 1847 master work.
 <div class="gallery-square-title">
   <div class="gallery-square-title-row">
     <span style="font-size: 1.25rem; font-weight. 600; color: var(--text-primary)">&nbsp;&nbsp;
-      Paris</span>
-    <a href="{{ site.url }}{{ site.baseurl }}/art/Paris.png" target="_blank" class="chip"><i class="fa-solid fa-download"></i>&nbsp;&nbsp;Download</a>
+      Chapter 3</span>
+    <a href="{{ site.url }}{{ site.baseurl }}/art/OliverByrneChapter3.png" target="_blank" class="chip"><i class="fa-solid fa-download"></i>&nbsp;&nbsp;Download</a>
   </div>
 </div>
 </div>
 
-<div class="gallery-item" data-gallery-image="{{ site.url }}{{ site.baseurl }}/art/Mannheim.png" data-gallery-title="Mannheim">
-<img src="{{ site.url }}{{ site.baseurl }}/art/Mannheim.png" class="gallery-thumb" alt="Mannheim">
-<div class="gallery-title">
-  <div class="gallery-title-row">
+<div class="gallery-square-item" data-gallery-image="{{ site.url }}{{ site.baseurl }}/art/OliverByrneChapter4.png" data-gallery-title="Chapter 4">
+<img src="{{ site.url }}{{ site.baseurl }}/art/OliverByrneChapter4.png" class="gallery-square-thumb" alt="Chapter 4">
+<div class="gallery-square-title">
+  <div class="gallery-square-title-row">
     <span style="font-size: 1.25rem; font-weight. 600; color: var(--text-primary)">&nbsp;&nbsp;
-      Mannheim</span>
-    <a href="{{ site.url }}{{ site.baseurl }}/art/Mannheim.png" target="_blank" class="chip"><i class="fa-solid fa-download"></i>&nbsp;&nbsp;Download</a>
+      Chapter 4</span>
+    <a href="{{ site.url }}{{ site.baseurl }}/art/OliverByrneChapter4.png" target="_blank" class="chip"><i class="fa-solid fa-download"></i>&nbsp;&nbsp;Download</a>
   </div>
 </div>
 </div>
 
-<div class="gallery-item" data-gallery-image="{{ site.url }}{{ site.baseurl }}/art/Frankfurt.png" data-gallery-title="Frankfurt">
-<img src="{{ site.url }}{{ site.baseurl }}/art/Frankfurt.png" class="gallery-thumb" alt="Frankfurt">
-<div class="gallery-title">
-  <div class="gallery-title-row">
+<div class="gallery-square-item" data-gallery-image="{{ site.url }}{{ site.baseurl }}/art/OliverByrneChapter5.png" data-gallery-title="Chapter 5">
+<img src="{{ site.url }}{{ site.baseurl }}/art/OliverByrneChapter5.png" class="gallery-square-thumb" alt="Chapter 5">
+<div class="gallery-square-title">
+  <div class="gallery-square-title-row">
     <span style="font-size: 1.25rem; font-weight. 600; color: var(--text-primary)">&nbsp;&nbsp;
-      Frankfurt</span>
-    <a href="{{ site.url }}{{ site.baseurl }}/art/Frankfurt.png" target="_blank" class="chip"><i class="fa-solid fa-download"></i>&nbsp;&nbsp;Download</a>
+      Chapter 5</span>
+    <a href="{{ site.url }}{{ site.baseurl }}/art/OliverByrneChapter5.png" target="_blank" class="chip"><i class="fa-solid fa-download"></i>&nbsp;&nbsp;Download</a>
   </div>
 </div>
 </div>
 
-<div class="gallery-item" data-gallery-image="{{ site.url }}{{ site.baseurl }}/art/New York.png" data-gallery-title="New York">
-<img src="{{ site.url }}{{ site.baseurl }}/art/New York.png" class="gallery-thumb" alt="New York">
-<div class="gallery-title">
-  <div class="gallery-title-row">
+<div class="gallery-square-item" data-gallery-image="{{ site.url }}{{ site.baseurl }}/art/OliverByrneChapter6.png" data-gallery-title="Chapter 6">
+<img src="{{ site.url }}{{ site.baseurl }}/art/OliverByrneChapter6.png" class="gallery-square-thumb" alt="Chapter 6">
+<div class="gallery-square-title">
+  <div class="gallery-square-title-row">
     <span style="font-size: 1.25rem; font-weight. 600; color: var(--text-primary)">&nbsp;&nbsp;
-      New York</span>
-    <a href="{{ site.url }}{{ site.baseurl }}/art/New York.png" target="_blank" class="chip"><i class="fa-solid fa-download"></i>&nbsp;&nbsp;Download</a>
+      Chapter 6</span>
+    <a href="{{ site.url }}{{ site.baseurl }}/art/OliverByrneChapter6.png" target="_blank" class="chip"><i class="fa-solid fa-download"></i>&nbsp;&nbsp;Download</a>
   </div>
 </div>
 </div>
+
 
 </div>
