@@ -1,8 +1,8 @@
 ---
-title: "About"
+title: "Über Mich"
 layout: gridlay
 sitemap: true
-permalink: /de/ueber-mich/
+permalink: /de/about/
 ---
 
 ## Über Mich
