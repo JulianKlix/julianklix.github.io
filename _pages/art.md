@@ -98,8 +98,8 @@ Prints of the chapter illustrations of Oliver Byrne's 1847 master work.
 
 <div class="gallery-square-title">
   <div class="gallery-square-title-row">
-    <span style="font-size: 1.25rem; font-weight. 600; color: var(--text-primary)">&nbsp;&nbsp;
-      Chapter 1</span>
+    <span style="font-size: 1rem; font-weight. 600; color: var(--text-primary)">&nbsp;&nbsp;
+      Geometry</span>
     <a href="{{ site.url }}{{ site.baseurl }}/art/OliverByrneChapter1.png" target="_blank" class="chip"><i class="fa-solid fa-download"></i>&nbsp;&nbsp;Download</a>
   </div>
 </div>
@@ -109,8 +109,8 @@ Prints of the chapter illustrations of Oliver Byrne's 1847 master work.
 <img src="{{ site.url }}{{ site.baseurl }}/art/OliverByrneChapter2.png" class="gallery-square-thumb" alt="Chapter 2">
 <div class="gallery-square-title">
   <div class="gallery-square-title-row">
-    <span style="font-size: 1.25rem; font-weight. 600; color: var(--text-primary)">&nbsp;&nbsp;
-      Chapter 2</span>
+    <span style="font-size: 1rem; font-weight. 600; color: var(--text-primary)">&nbsp;&nbsp;
+      Geometric Algebra</span>
     <a href="{{ site.url }}{{ site.baseurl }}/art/OliverByrneChapter2.png" target="_blank" class="chip"><i class="fa-solid fa-download"></i>&nbsp;&nbsp;Download</a>
   </div>
 </div>
@@ -120,8 +120,8 @@ Prints of the chapter illustrations of Oliver Byrne's 1847 master work.
 <img src="{{ site.url }}{{ site.baseurl }}/art/OliverByrneChapter3.png" class="gallery-square-thumb" alt="Chapter 3">
 <div class="gallery-square-title">
   <div class="gallery-square-title-row">
-    <span style="font-size: 1.25rem; font-weight. 600; color: var(--text-primary)">&nbsp;&nbsp;
-      Chapter 3</span>
+    <span style="font-size: 1rem; font-weight. 600; color: var(--text-primary)">&nbsp;&nbsp;
+      Circles</span>
     <a href="{{ site.url }}{{ site.baseurl }}/art/OliverByrneChapter3.png" target="_blank" class="chip"><i class="fa-solid fa-download"></i>&nbsp;&nbsp;Download</a>
   </div>
 </div>
@@ -131,8 +131,8 @@ Prints of the chapter illustrations of Oliver Byrne's 1847 master work.
 <img src="{{ site.url }}{{ site.baseurl }}/art/OliverByrneChapter4.png" class="gallery-square-thumb" alt="Chapter 4">
 <div class="gallery-square-title">
   <div class="gallery-square-title-row">
-    <span style="font-size: 1.25rem; font-weight. 600; color: var(--text-primary)">&nbsp;&nbsp;
-      Chapter 4</span>
+    <span style="font-size: 1rem; font-weight. 600; color: var(--text-primary)">&nbsp;&nbsp;
+      Constructions</span>
     <a href="{{ site.url }}{{ site.baseurl }}/art/OliverByrneChapter4.png" target="_blank" class="chip"><i class="fa-solid fa-download"></i>&nbsp;&nbsp;Download</a>
   </div>
 </div>
@@ -143,7 +143,7 @@ Prints of the chapter illustrations of Oliver Byrne's 1847 master work.
 <div class="gallery-square-title">
   <div class="gallery-square-title-row">
     <span style="font-size: 1.25rem; font-weight. 600; color: var(--text-primary)">&nbsp;&nbsp;
-      Chapter 5</span>
+      Proportions</span>
     <a href="{{ site.url }}{{ site.baseurl }}/art/OliverByrneChapter5.png" target="_blank" class="chip"><i class="fa-solid fa-download"></i>&nbsp;&nbsp;Download</a>
   </div>
 </div>
@@ -154,7 +154,7 @@ Prints of the chapter illustrations of Oliver Byrne's 1847 master work.
 <div class="gallery-square-title">
   <div class="gallery-square-title-row">
     <span style="font-size: 1.25rem; font-weight. 600; color: var(--text-primary)">&nbsp;&nbsp;
-      Chapter 6</span>
+      Similarity</span>
     <a href="{{ site.url }}{{ site.baseurl }}/art/OliverByrneChapter6.png" target="_blank" class="chip"><i class="fa-solid fa-download"></i>&nbsp;&nbsp;Download</a>
   </div>
 </div>
