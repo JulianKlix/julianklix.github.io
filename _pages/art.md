@@ -88,7 +88,7 @@ Abstract geometric city portraits, inspired by the late work of the brilliant Al
 
 ### <span style="color: var(--accent)">EUCLID by Oliver Byrne</span>
 
-Prints of the chapter illustrations of Oliver Byrne's 1847 master work.
+Prints of the chapter illustrations of Oliver Byrne's 1847 masterpiece.
 
 
 <div class="gallery-square-grid" markdown="0">

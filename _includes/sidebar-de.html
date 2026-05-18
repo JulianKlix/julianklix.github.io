@@ -3,8 +3,9 @@
 <img src="{{ site.url }}{{ site.baseurl }}/images/{{ site.photo }}" class="profile-photo" alt="{{ site.name }}" loading="lazy">
 </a>
 <h4 class="profile-name">{{ site.name }}</h4>
-<p class="profile-title">{{ site.title-de }}</p>
-<p class="profile-institution">{{ site.institution-de }}<br>{{ site.department-de }}</p>
+<p class="profile-title">{{ site.title }}</p>
+<p class="profile-institution">{{ site.institution }}<br>{{ site.department }}</p>
+<!-- <p class="profile-institution">{{ site.department }}</p> -->
 <div class="profile-links">
 {% if site.links.personal_website and site.links.personal_website != "" %}<a href="{{ site.links.personal_website }}" target="_blank" class="icon-link" title="Personal Website"><i class="fa-solid fa-globe"></i></a>{% endif %}
 {% if site.email %}<a href="mailto:{{ site.email }}" class="icon-link" title="Email"><i class="fa-solid fa-envelope"></i></a>{% endif %}
@@ -21,8 +22,8 @@
 
 
 <ul style="text-align: left; margin-top: var(--space-4); list-style: none; padding-left: 1.3rem;">
-L7, 3-5, Room 3.43 <br>
-68161 Mannheim, Germany<br>
+L7, 3-5, Raum 3.43 <br>
+68161 Mannheim, Deutschland<br>
 <br>
 julian.klix[at]uni-mannheim.de
 <br>
@@ -30,19 +31,9 @@ julian.klix[at]uni-mannheim.de
 </ul>
 </div>
 
-<!--
-{% if site.data.pi[0].educationshort %}
-<ul style="text-align: left; margin-top: var(--space-4); list-style: none; padding-left: 0;">
-{% for education in site.data.pi[0].educationshort %}
-<li style="font-size: 0.875rem; color: var(--text-secondary); padding: var(--space-1) 0;">{{ education | replace: "-","&#8211;" }}</li>
-{% endfor %}
-</ul>
-{% endif %}
-</div>
--->
 
 <div class="section-card" style="margin-top: var(--space-6);">
-<h4 style="margin-top: 0;">Current Research</h4>
+<h4 style="margin-top: 0;">Aktuelle Forschung</h4>
 <div class="news-timeline">
 {% for article in site.data.news limit:3 %}
 <div class="news-item">
@@ -51,5 +42,5 @@ julian.klix[at]uni-mannheim.de
 </div>
 {% endfor %}
 </div>
-<p style="margin-top: var(--space-4);"><a href="{{ site.url }}{{ site.baseurl }}/research/">See all research &rarr;</a></p>
+<p style="margin-top: var(--space-4);"><a href="{{ site.url }}{{ site.baseurl }}/research/">Mehr erfahren &rarr;</a></p>
 </div>

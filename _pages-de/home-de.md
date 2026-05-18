@@ -24,9 +24,9 @@ permalink: /de/
 <p>This site is currently under construction. Functionality might be limited and will gradually be added. Files may partially missing.</p>
 </div>
 
-I am a PhD candidate in Economics at the University of Mannheim, Department of Economics. I hold a Master's degree in Economics from Barcelona School of Economics and a Master of Reserach from Universitat Pompeu Fabra.<br>
+Ich bin Doktorand der Volkswirtschaftslehre an der Universität Mannheim, Abteilung VWL. Ich habe einen <i>Master in Economics</i> der Barcelona School of Economics und einen <i>Master of Reserach</i> der Universitat Pompeu Fabra inne.<br>
 <br>
-My focus is on theoretical microeconomics with research interests in industrial organization as well as law & economics and contract theory.<br>
+Mein Schwerpunkt liegt auf theoretischer Mikroökonomie, insbesondere mit Forschungsinteressen an Industrieökonomie sowie Rechtsökonomie und Vertragstheorie.<br>
 <br>
 <!-- Extend:
 I am interested in BLA BLA BLA .<br>
@@ -40,15 +40,6 @@ I am a PhD candidate in Economics at the University of Mannheim, Department of E
 
 <div class="callout callout-info" markdown="0">
 <div class="callout-title"><i class="fa-solid fa-bullhorn callout-icon"></i> Talk at EARIE 2026</div>
-<p>Henrik Sauer will present our current project <a href="{{ site.url }}{{ site.baseurl }}/research/">Public Markets for Claims in Litigation</a> at EARIE 2026 in Mannheim.</p>
+<p>Henrik Sauer wird im Rahmen der EARIE 2026 einen Vortrag zu unserem aktuellen Forschungsprojekt <a href="{{ site.url }}{{ site.baseurl }}/research/">Public Markets for Claims in Litigation</a> halten.</p>
 </div>
-
-<!--
-<div class="banner-frame" markdown="0">
-<img src="{{ site.url }}{{ site.baseurl }}/images/image.jpg" alt="Image" loading="lazy">
-<div class="banner-caption">Some Caption text. <em>More text.</em> Even more.</div>
-</div>
--->
-
-<!-- ### About me -->
 

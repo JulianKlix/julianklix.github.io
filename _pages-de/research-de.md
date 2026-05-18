@@ -16,9 +16,9 @@ PDFs und Foliensätze nur auf Englisch verfügbar.
 <p>
 <span style="font-size: 1.25rem; font-weight. 600; color: var(--text-primary)">Hybrid Contracting in Repeated Interactions</span><br>
 <span style="font-style: italic; color: var(--text-primary)">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hybride Verträge in wiederholten Interaktionen</span><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mit Bernhard Ganglmair & Dongsoo Shin<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: var(--accent)">Working Paper &nbsp;&bull;&nbsp; R&R at Management Science</span>
+Hybride Verträge in wiederholten Interaktionen</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+mit Bernhard Ganglmair & Dongsoo Shin<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: var(--accent)">
+Working Paper &nbsp;&bull;&nbsp; R&R at Management Science</span>
 
 </p>
 <div class="chip-container" markdown="0">

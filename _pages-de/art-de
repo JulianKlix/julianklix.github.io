@@ -88,7 +88,7 @@ Abstrakte geometrische Stadt-Portraits, inspiriert durch das Spätwerk des brill
 
 ### <span style="color: var(--accent)">EUCLID by Oliver Byrne</span>
 
-Prints of the chapter illustrations of Oliver Byrne's 1847 master work.
+Neubearbeitung der Kapitelillustrationen von Oliver Byrnes Meisterwerk von 1847.
 
 
 <div class="gallery-square-grid" markdown="0">
@@ -99,7 +99,7 @@ Prints of the chapter illustrations of Oliver Byrne's 1847 master work.
 <div class="gallery-square-title">
   <div class="gallery-square-title-row">
     <span style="font-size: 1.1rem; font-weight. 600; color: var(--text-primary)">&nbsp;&nbsp;
-      Geometry</span>
+      Geometrie</span>
     <a href="{{ site.url }}{{ site.baseurl }}/art/OliverByrneChapter1.png" target="_blank" class="chip"><i class="fa-solid fa-download"></i>&nbsp;&nbsp;Download</a>
   </div>
 </div>
@@ -110,7 +110,7 @@ Prints of the chapter illustrations of Oliver Byrne's 1847 master work.
 <div class="gallery-square-title">
   <div class="gallery-square-title-row">
     <span style="font-size: 1.1rem; font-weight. 600; color: var(--text-primary)">&nbsp;&nbsp;
-      Geometric Algebra</span>
+      Geometrische Algebra</span>
     <a href="{{ site.url }}{{ site.baseurl }}/art/OliverByrneChapter2.png" target="_blank" class="chip"><i class="fa-solid fa-download"></i>&nbsp;&nbsp;Download</a>
   </div>
 </div>
@@ -121,7 +121,7 @@ Prints of the chapter illustrations of Oliver Byrne's 1847 master work.
 <div class="gallery-square-title">
   <div class="gallery-square-title-row">
     <span style="font-size: 1.1rem; font-weight. 600; color: var(--text-primary)">&nbsp;&nbsp;
-      Circles</span>
+      Kreise</span>
     <a href="{{ site.url }}{{ site.baseurl }}/art/OliverByrneChapter3.png" target="_blank" class="chip"><i class="fa-solid fa-download"></i>&nbsp;&nbsp;Download</a>
   </div>
 </div>
@@ -132,7 +132,7 @@ Prints of the chapter illustrations of Oliver Byrne's 1847 master work.
 <div class="gallery-square-title">
   <div class="gallery-square-title-row">
     <span style="font-size: 1.1rem; font-weight. 600; color: var(--text-primary)">&nbsp;&nbsp;
-      Constructions</span>
+      Konstruktionen</span>
     <a href="{{ site.url }}{{ site.baseurl }}/art/OliverByrneChapter4.png" target="_blank" class="chip"><i class="fa-solid fa-download"></i>&nbsp;&nbsp;Download</a>
   </div>
 </div>
@@ -143,7 +143,7 @@ Prints of the chapter illustrations of Oliver Byrne's 1847 master work.
 <div class="gallery-square-title">
   <div class="gallery-square-title-row">
     <span style="font-size: 1.1rem; font-weight. 600; color: var(--text-primary)">&nbsp;&nbsp;
-      Proportions</span>
+      Verhältnisse</span>
     <a href="{{ site.url }}{{ site.baseurl }}/art/OliverByrneChapter5.png" target="_blank" class="chip"><i class="fa-solid fa-download"></i>&nbsp;&nbsp;Download</a>
   </div>
 </div>
@@ -154,7 +154,7 @@ Prints of the chapter illustrations of Oliver Byrne's 1847 master work.
 <div class="gallery-square-title">
   <div class="gallery-square-title-row">
     <span style="font-size: 1.1rem; font-weight. 600; color: var(--text-primary)">&nbsp;&nbsp;
-      Similarity</span>
+      Kongruenz</span>
     <a href="{{ site.url }}{{ site.baseurl }}/art/OliverByrneChapter6.png" target="_blank" class="chip"><i class="fa-solid fa-download"></i>&nbsp;&nbsp;Download</a>
   </div>
 </div>

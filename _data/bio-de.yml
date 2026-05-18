@@ -1,0 +1,17 @@
+# Biography items shown on the about page.
+# Each entry needs: date, degree, location
+- date: "2022 - heute"
+  degree: "PhD Volkswirtschaftslehre"
+  location: "Universität Mannheim"
+
+- date: "2020 - 2021"
+  degree: "Master or Research in Economics"
+  location: "Universitat Pompeu Fabra"
+
+- date: "2019 - 2020"
+  degree: "Master in Economics"
+  location: "Barcelona School of Economics"  
+
+- date: "2015 - 2019"
+  degree: "B.Sc Volkswirtschaftslehre"
+  location: "Universität of Mannheim"

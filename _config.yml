@@ -8,6 +8,14 @@ department: "Department of Economics"
 email: julian.klix[at]uni-mannheim.de
 photo: Klix Square.jpg  # place your photo in images/
 
+
+# ============================================================
+# STEP 1.5: German Details (required)
+# ============================================================
+title-de: "Doktorand"
+institution-de: "Universität Mannheim"
+department-de: "Abteilung Volkswirtschaftslehre"
+
 # ============================================================
 # STEP 2: Your Links (optional -- delete any you don't use)
 # ============================================================
