@@ -42,7 +42,7 @@ $baseurl: "{{ site.url }}{{ site.baseurl }}";
 @import "components/publication";
 @import "components/search";
 @import "components/chips";
-@import "components/languageToggle";
+//@import "components/languageToggle"; not needed anymore
 
 // Layouts
 @import "layouts/grid";

@@ -1,5 +1,6 @@
 document.addEventListener('DOMContentLoaded', function() {
   const languageToggle = document.getElementById('languageToggle');
+  const langLabel = document.getElementById('langLabel');
   
   if (!languageToggle) return;
   
@@ -27,10 +28,19 @@ document.addEventListener('DOMContentLoaded', function() {
     }
   }
   
-  // Update button state
+  // Update button state and label
   function updateLanguageToggle() {
     const currentLang = getCurrentLanguage();
     languageToggle.setAttribute('data-lang', currentLang);
+    
+    // Update label based on current language
+    if (currentLang === 'de') {
+      // Currently German, show EN as the option to switch to
+      langLabel.textContent = 'EN';
+    } else {
+      // Currently English, show DE as the option to switch to
+      langLabel.textContent = 'DE';
+    }
   }
   
   // Handle click
