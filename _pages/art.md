@@ -9,7 +9,7 @@ permalink: /art/
 
 ### <span style="color: var(--accent)">STILLLEBENsräume</span>
 
-Abstract city paintings, inspired by the late work of the brilliant Alfredo Alcaín.
+Abstract geometric city portraits, inspired by the late work of the brilliant Alfredo Alcaín.
 
 
 <div class="gallery-grid" markdown="0">
@@ -24,7 +24,6 @@ Abstract city paintings, inspired by the late work of the brilliant Alfredo Alca
     <a href="{{ site.url }}{{ site.baseurl }}/art/Rom.png" target="_blank" class="chip"><i class="fa-solid fa-download"></i>&nbsp;&nbsp;Download</a>
   </div>
 </div>
-
 </div>
 
 <div class="gallery-item" data-gallery-image="{{ site.url }}{{ site.baseurl }}/art/Barcelona.png" data-gallery-title="Barcelona">
@@ -82,9 +81,83 @@ Abstract city paintings, inspired by the late work of the brilliant Alfredo Alca
 </div>
 </div>
 
-
 </div>
 
 
 
 
+### <span style="color: var(--accent)">EUCLID by Oliver Byrne</span>
+
+Prints of the chapter illustrations of Oliver Byrne's 1847 master work.
+
+
+<div class="gallery-square-grid" markdown="0">
+
+<div class="gallery-square-item" data-gallery-image="{{ site.url }}{{ site.baseurl }}/art/OliverByrneChapter1.png" data-gallery-title="Chapter 1">
+<img src="{{ site.url }}{{ site.baseurl }}/art/OliverByrneChapter1.png" class="gallery-square-thumb" alt="Chapter 1">
+
+<div class="gallery-square-title">
+  <div class="gallery-square-title-row">
+    <span style="font-size: 1.25rem; font-weight. 600; color: var(--text-primary)">&nbsp;&nbsp;
+      Rome</span>
+    <a href="{{ site.url }}{{ site.baseurl }}/art/Rom.png" target="_blank" class="chip"><i class="fa-solid fa-download"></i>&nbsp;&nbsp;Download</a>
+  </div>
+</div>
+</div>
+
+<div class="gallery-square-item" data-gallery-image="{{ site.url }}{{ site.baseurl }}/art/OliverByrneChapter2.png" data-gallery-title="Chapter 2">
+<img src="{{ site.url }}{{ site.baseurl }}/art/OliverByrneChapter2.png" class="gallery-square-thumb" alt="Chapter 2">
+<div class="gallery-square-title">
+  <div class="gallery-square-title-row">
+    <span style="font-size: 1.25rem; font-weight. 600; color: var(--text-primary)">&nbsp;&nbsp;
+      Barcelona</span>
+    <a href="{{ site.url }}{{ site.baseurl }}/art/Barcelona.png" target="_blank" class="chip"><i class="fa-solid fa-download"></i>&nbsp;&nbsp;Download</a>
+  </div>
+</div>
+</div>
+
+<div class="gallery-square-item" data-gallery-image="{{ site.url }}{{ site.baseurl }}/art/OliverByrneChapter3.png" data-gallery-title="Chapter 3">
+<img src="{{ site.url }}{{ site.baseurl }}/art/OliverByrneChapter3.png" class="gallery-square-thumb" alt="Chapter 3">
+<div class="gallery-square-title">
+  <div class="gallery-square-title-row">
+    <span style="font-size: 1.25rem; font-weight. 600; color: var(--text-primary)">&nbsp;&nbsp;
+      Paris</span>
+    <a href="{{ site.url }}{{ site.baseurl }}/art/Paris.png" target="_blank" class="chip"><i class="fa-solid fa-download"></i>&nbsp;&nbsp;Download</a>
+  </div>
+</div>
+</div>
+
+<div class="gallery-item" data-gallery-image="{{ site.url }}{{ site.baseurl }}/art/Mannheim.png" data-gallery-title="Mannheim">
+<img src="{{ site.url }}{{ site.baseurl }}/art/Mannheim.png" class="gallery-thumb" alt="Mannheim">
+<div class="gallery-title">
+  <div class="gallery-title-row">
+    <span style="font-size: 1.25rem; font-weight. 600; color: var(--text-primary)">&nbsp;&nbsp;
+      Mannheim</span>
+    <a href="{{ site.url }}{{ site.baseurl }}/art/Mannheim.png" target="_blank" class="chip"><i class="fa-solid fa-download"></i>&nbsp;&nbsp;Download</a>
+  </div>
+</div>
+</div>
+
+<div class="gallery-item" data-gallery-image="{{ site.url }}{{ site.baseurl }}/art/Frankfurt.png" data-gallery-title="Frankfurt">
+<img src="{{ site.url }}{{ site.baseurl }}/art/Frankfurt.png" class="gallery-thumb" alt="Frankfurt">
+<div class="gallery-title">
+  <div class="gallery-title-row">
+    <span style="font-size: 1.25rem; font-weight. 600; color: var(--text-primary)">&nbsp;&nbsp;
+      Frankfurt</span>
+    <a href="{{ site.url }}{{ site.baseurl }}/art/Frankfurt.png" target="_blank" class="chip"><i class="fa-solid fa-download"></i>&nbsp;&nbsp;Download</a>
+  </div>
+</div>
+</div>
+
+<div class="gallery-item" data-gallery-image="{{ site.url }}{{ site.baseurl }}/art/New York.png" data-gallery-title="New York">
+<img src="{{ site.url }}{{ site.baseurl }}/art/New York.png" class="gallery-thumb" alt="New York">
+<div class="gallery-title">
+  <div class="gallery-title-row">
+    <span style="font-size: 1.25rem; font-weight. 600; color: var(--text-primary)">&nbsp;&nbsp;
+      New York</span>
+    <a href="{{ site.url }}{{ site.baseurl }}/art/New York.png" target="_blank" class="chip"><i class="fa-solid fa-download"></i>&nbsp;&nbsp;Download</a>
+  </div>
+</div>
+</div>
+
+</div>
