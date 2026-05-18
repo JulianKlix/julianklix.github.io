@@ -11,7 +11,7 @@ permalink: /de/about/
 <div class="pi-card">
 <img src="{{ site.url }}{{ site.baseurl }}/images/{{ site.photo }}" class="pi-photo" alt="{{ site.name }}" loading="lazy">
 <div>
-<h3 class="pi-name">{{ site.name }}</h3>
+<h3 class="pi-name">{{ site.full-name }}</h3>
 <p style="font-style: italic; color: var(--text-secondary);">{{ site.title-de }}, {{ site.institution-de }}, {{ site.department-de }}</p>
 <div class="pi-links">
 {% if site.links.personal_website and site.links.personal_website != "" %}<a href="{{ site.links.personal_website }}" target="_blank" class="icon-link" title="Personal Website"><i class="fa-solid fa-globe"></i></a>{% endif %}
@@ -50,7 +50,7 @@ permalink: /de/about/
 <h3>Supervisor und Mentoren</h3>
 <ul>
 {% for person in site.data.people %}
-<li>{{ person.name }}, {{ person.location }} ({{ person.role }})</li>
+<li>{{ person.name }}, {{ person.location-de }} ({{ person.role }})</li>
 {% endfor %}
 </ul>
 </div>

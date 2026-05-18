@@ -2,12 +2,14 @@
 # Each entry needs: name, location, degree, year
 - name: Nicolas Schutz
   location: University of Mannheim
+  location-de: Universität Mannheim
   role: Supervisor
   degree: Ph.D.
   year: 2009
 
 - name: Bernhard Ganglmair
   location: ZEW, Mannheim
+  location-de: ZEW, Mannheim
   role: Mentor
   degree: Ph.D.
   year: 2011
