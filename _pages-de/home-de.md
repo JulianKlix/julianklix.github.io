@@ -1,6 +1,6 @@
 ---
 title: "Start"
-layout: homelay
+layout: homelay-de
 sitemap: true
 permalink: /de/
 ---
