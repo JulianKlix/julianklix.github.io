@@ -1,53 +1,66 @@
 # Music items from Pianoforte Album
 - title: Inventio 1, BWV 772
+  title-de: Invention 1, BWV 772
   composer: Johann S. Bach
   filename: Bach_Inventio_1_BWV772.mp3
 
 - title: Inventio 8, BWV 779
+  title-de: Invention 8, BWV 779
   composer: Johann S. Bach
   filename: Bach_Inventio_8_BWV779.mp3
 
 - title: Inventio 13, BWV 784
+  title-de: Invention 13, BWV 784
   composer: Johann S. Bach
   filename: Bach_Inventio_1_BWV784.mp3
 
 - title: Inventio 14, BWV 785
+  title-de: Invention 14, BWV 785
   composer: Johann S. Bach
   filename: Bach_Inventio_1_BWV785.mp3
   
 - title: Sonata No. 1, Op. 2, 1st Movement
+  title-de: Sonate Nr. 1, Op. 2, 1. Satz
   composer: Ludwig v. Beethoven
   filename: Beethoven_Sonate_1_Op2_1.mp3
   
 - title: Sonata No. 1, Op. 2, 2nd Movement
+  title-de: Sonate Nr. 1, Op. 2, 2. Satz
   composer: Ludwig v. Beethoven
   filename: Beethoven_Sonate_1_Op2_2.mp3
   
 - title: Sonata No. 14, Op. 27, 1st Movement
+  title-de: Sonate Nr. 14, Op. 27, 1. Satz
   composer: Ludwig v. Beethoven
   filename: Beethoven_Sonate_14_Op27_1.mp3
   
 - title: Rondo, KV. 485
+  title-de: Rondo, KV. 485
   composer: Wolfgang A. Mozart
   filename: Mozart_Rondo_KV485.mp3
   
 - title: Sonata, K. 104
+  title-de: Sonate, K. 104
   composer: Domenico Scarlatti
   filename: Scarlatti_Sonate_K104.mp3
   
 - title: Sonata, K. 208
+  title-de: Sonate, K. 208
   composer: Domenico Scarlatti
   filename: Scarlatti_Sonate_K208.mp3
   
 - title: Bulgarian Dance No. 2, Sz. 107
+  title-de: Bulgarischer Tanz Nr. 2, Sz. 107
   composer: Bela Bartók
   filename: Bartok_BulgarischerTanz_2_Sz107.mp3
   
 - title: Bulgarian Dance No. 6, Sz. 107
+  title-de: Bulgarischer Tanz Nr. 6, Sz. 107
   composer: Bela Bartók
   filename: Bartok_BulgarischerTanz_6_Sz107.mp3
   
-- title: &#39;S Wonderful
+- title: "'S Wonderful"
+  title-de: "'S Wonderful"
   composer: George Gershwin
   filename: Gershwin_SWonderful.mp3
   
