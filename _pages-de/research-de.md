@@ -71,24 +71,24 @@ Working Paper</span>
 
 <div class="paper-entry">
 <p>
-<span style="font-size: 1.25rem; font-weight. 600; color: var(--text-primary)">Advertising, Social Media and Parasocial Recommendationsn</span><br>
+<span style="font-size: 1.25rem; font-weight. 600; color: var(--text-primary)">Advertising, Social Media and Parasocial Recommendations</span><br>
 <span style="font-style: italic; color: var(--text-primary)">
 Werbung, Soziale Medien und parasoziale Empfehlungen</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: var(--accent)">
 Work in Progress</span>
 </p>
 
 <div class="chip-container" markdown="0">
-<a href="https://papers.ssrn.com/Sol3/Cf_Dev/AbsByAuth.cfm?per_id=6590078" target="_blank" class="chip">PDF</a>
-<span class="chip chip-inactive">Folien</span>
-<button class="chip" data-toggle-target="summary-de-LitFin">Kurzfassung</button>
-<button class="chip" data-toggle-target="summary-LitFin">Abstract</button>
+<span class="chip chip-inactive">PDF</span>
+<a href="{{ site.url }}{{ site.baseurl }}/papers/ParasocialMarketing Slides.pdf" target="_blank" class="chip">Folien</a>
+<button class="chip" data-toggle-target="summary-de-Para">Kurzfassung</button>
+<button class="chip" data-toggle-target="summary-Para">Abstract</button>
 </div>
-<div class="pub-collapse" id="summary-de-LitFin">
+<div class="pub-collapse" id="summary-de-Para">
 <p>
   Soziale Medien begünstigen das Entstehen parasozialer Beziehungen--einseitige emotionale...
 </p>
 </div>
-<div class="pub-collapse" id="summary-LitFin">
+<div class="pub-collapse" id="summary-Para">
 <p>
   Social media fosters parasocial relationships--nonreciprocal emotional bonds between users and media figures--causing paid endorsements to blur the boundary between advertisement and genuine personal recommendation. Starting from a model in which consumers rely on impartial recommendations to make purchase decisions under quality uncertainty, I introduce social media endorsements as a source of additional biased recommendations that may get perceived as genuine. I find that a low-quality firm, whose recommendations are relatively more distorted, is more likely to engage in social media advertising than a high-quality firm. With a monopolist firm, prices remain unchanged whereas under duopolistic competition expected prices decrease due to an increase in competition. Further, I show that while a monopolist engaging in social media advertising cannot lead to an increase in consumer surplus, improvements to consumer surplus and welfare are possible in a competitive market if the price effect outweighs a potential decrease in average product quality.
 </p>
@@ -99,24 +99,28 @@ Work in Progress</span>
 <div class="paper-entry">
 <p>
 <span style="font-size: 1.25rem; font-weight. 600; color: var(--text-primary)">Selling Rationed Goods through Associated Markets</span><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: var(--accent)">Work in Progress</span><br>
+<span style="font-style: italic; color: var(--text-primary)">
+Der Verkauf knapper Güter mithilfe verbundener Märkte</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: var(--accent)">
+Work in Progress</span>
 </p>
+
 <div class="chip-container" markdown="0">
-<span class="chip chip-inactive">PDF</span>  <!-- PDF not available: use inactive class instead
-<a href="{{ site.url }}{{ site.baseurl }}/papers/cvMockup.pdf" target="_blank" class="chip chip-inactive">PDF</a> -->
+<span class="chip chip-inactive">PDF</span>  
 <a href="{{ site.url }}{{ site.baseurl }}/papers/AssociatedMarketRationing Slides.pdf" target="_blank" class="chip">Folien</a>
-<button class="chip" data-toggle-target="summary-de-AuxMarket">Abstract</button>
+<button class="chip" data-toggle-target="summary-de-Ration">Kurzfassung</button>
+<button class="chip" data-toggle-target="summary-Ration">Abstract</button>
 </div>
-<div class="pub-collapse" id="summary-de-AuxMarket">
+<div class="pub-collapse" id="summary-de-Ration">
+<p>
+  Soziale Medien begünstigen das Entstehen parasozialer Beziehungen--einseitige emotionale...
+</p>
+</div>
+<div class="pub-collapse" id="summary-Ration">
 <p>
   I research a model of secondary markets to filter potential buyers of a rationed/highly scarce product. The secondary market selects consumers based on their internal valuation (which does not perfectly correlate with willingness to pay) which either directly or indirectly increases the utility of the seller.
 </p>
 </div>
 </div>
-
-
-
-
 
 
 
