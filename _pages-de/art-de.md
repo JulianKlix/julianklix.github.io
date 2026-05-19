@@ -19,7 +19,7 @@ Abstrakte geometrische Stadt-Portraits, inspiriert durch das brilliante Spätwer
 
 <div class="gallery-title">
   <div class="gallery-title-row">
-    <span style="font-size: 1.25rem; font-weight. 600; color: var(--text-primary)">&nbsp;&nbsp;
+    <span style="font-size: 1.25rem; font-weight. 600; color: var(--text-primary)">&nbsp;
       Rom</span>
     <a href="{{ site.url }}{{ site.baseurl }}/art/Rom.png" target="_blank" class="chip"><i class="fa-solid fa-download"></i>&nbsp;&nbsp;Download</a>
   </div>
@@ -30,7 +30,7 @@ Abstrakte geometrische Stadt-Portraits, inspiriert durch das brilliante Spätwer
 <img src="{{ site.url }}{{ site.baseurl }}/art/Barcelona.png" class="gallery-thumb" alt="Barcelona">
 <div class="gallery-title">
   <div class="gallery-title-row">
-    <span style="font-size: 1.25rem; font-weight. 600; color: var(--text-primary)">&nbsp;&nbsp;
+    <span style="font-size: 1.25rem; font-weight. 600; color: var(--text-primary)">&nbsp;
       Barcelona</span>
     <a href="{{ site.url }}{{ site.baseurl }}/art/Barcelona.png" target="_blank" class="chip"><i class="fa-solid fa-download"></i>&nbsp;&nbsp;Download</a>
   </div>
@@ -41,8 +41,7 @@ Abstrakte geometrische Stadt-Portraits, inspiriert durch das brilliante Spätwer
 <img src="{{ site.url }}{{ site.baseurl }}/art/Paris.png" class="gallery-thumb" alt="Paris">
 <div class="gallery-title">
   <div class="gallery-title-row">
-    <span style="font-size: 1.25rem; font-weight. 600; color: var(--text-primary)">&nbsp;&nbsp;
-      Paris</span>
+    <span style="font-size: 1.25rem; font-weight. 600; color: var(--text-primary)">&nbsp;
     <a href="{{ site.url }}{{ site.baseurl }}/art/Paris.png" target="_blank" class="chip"><i class="fa-solid fa-download"></i>&nbsp;&nbsp;Download</a>
   </div>
 </div>
@@ -52,7 +51,7 @@ Abstrakte geometrische Stadt-Portraits, inspiriert durch das brilliante Spätwer
 <img src="{{ site.url }}{{ site.baseurl }}/art/Mannheim.png" class="gallery-thumb" alt="Mannheim">
 <div class="gallery-title">
   <div class="gallery-title-row">
-    <span style="font-size: 1.25rem; font-weight. 600; color: var(--text-primary)">&nbsp;&nbsp;
+    <span style="font-size: 1.25rem; font-weight. 600; color: var(--text-primary)">&nbsp;
       Mannheim</span>
     <a href="{{ site.url }}{{ site.baseurl }}/art/Mannheim.png" target="_blank" class="chip"><i class="fa-solid fa-download"></i>&nbsp;&nbsp;Download</a>
   </div>
@@ -63,7 +62,7 @@ Abstrakte geometrische Stadt-Portraits, inspiriert durch das brilliante Spätwer
 <img src="{{ site.url }}{{ site.baseurl }}/art/Frankfurt.png" class="gallery-thumb" alt="Frankfurt">
 <div class="gallery-title">
   <div class="gallery-title-row">
-    <span style="font-size: 1.25rem; font-weight. 600; color: var(--text-primary)">&nbsp;&nbsp;
+    <span style="font-size: 1.25rem; font-weight. 600; color: var(--text-primary)">&nbsp;
       Frankfurt</span>
     <a href="{{ site.url }}{{ site.baseurl }}/art/Frankfurt.png" target="_blank" class="chip"><i class="fa-solid fa-download"></i>&nbsp;&nbsp;Download</a>
   </div>
@@ -74,7 +73,7 @@ Abstrakte geometrische Stadt-Portraits, inspiriert durch das brilliante Spätwer
 <img src="{{ site.url }}{{ site.baseurl }}/art/New York.png" class="gallery-thumb" alt="New York">
 <div class="gallery-title">
   <div class="gallery-title-row">
-    <span style="font-size: 1.25rem; font-weight. 600; color: var(--text-primary)">&nbsp;&nbsp;
+    <span style="font-size: 1.25rem; font-weight. 600; color: var(--text-primary)">&nbsp;
       New York</span>
     <a href="{{ site.url }}{{ site.baseurl }}/art/New York.png" target="_blank" class="chip"><i class="fa-solid fa-download"></i>&nbsp;&nbsp;Download</a>
   </div>
@@ -98,7 +97,7 @@ Neubearbeitung der Kapitelillustrationen von Oliver Byrnes Meisterwerk von 1847.
 
 <div class="gallery-square-title">
   <div class="gallery-square-title-row">
-    <span style="font-size: 0.9rem; font-weight. 600; color: var(--text-primary)">&nbsp;&nbsp;
+    <span style="font-size: 1rem; font-weight. 600; color: var(--text-primary)">
       Geometrie</span>
     <a href="{{ site.url }}{{ site.baseurl }}/art/OliverByrneChapter1.png" target="_blank" class="chip"><i class="fa-solid fa-download"></i>&nbsp;&nbsp;Download</a>
   </div>
@@ -120,7 +119,7 @@ Neubearbeitung der Kapitelillustrationen von Oliver Byrnes Meisterwerk von 1847.
 <img src="{{ site.url }}{{ site.baseurl }}/art/OliverByrneChapter3.png" class="gallery-square-thumb" alt="Chapter 3">
 <div class="gallery-square-title">
   <div class="gallery-square-title-row">
-    <span style="font-size: 0.9rem; font-weight. 600; color: var(--text-primary)">&nbsp;&nbsp;
+    <span style="font-size: 1rem; font-weight. 600; color: var(--text-primary)">
       Kreise</span>
     <a href="{{ site.url }}{{ site.baseurl }}/art/OliverByrneChapter3.png" target="_blank" class="chip"><i class="fa-solid fa-download"></i>&nbsp;&nbsp;Download</a>
   </div>
@@ -131,7 +130,7 @@ Neubearbeitung der Kapitelillustrationen von Oliver Byrnes Meisterwerk von 1847.
 <img src="{{ site.url }}{{ site.baseurl }}/art/OliverByrneChapter4.png" class="gallery-square-thumb" alt="Chapter 4">
 <div class="gallery-square-title">
   <div class="gallery-square-title-row">
-    <span style="font-size: 0.9rem; font-weight. 600; color: var(--text-primary)">&nbsp;&nbsp;
+    <span style="font-size: 1rem; font-weight. 600; color: var(--text-primary)">
       Konstruktionen</span>
     <a href="{{ site.url }}{{ site.baseurl }}/art/OliverByrneChapter4.png" target="_blank" class="chip"><i class="fa-solid fa-download"></i>&nbsp;&nbsp;Download</a>
   </div>
@@ -142,7 +141,7 @@ Neubearbeitung der Kapitelillustrationen von Oliver Byrnes Meisterwerk von 1847.
 <img src="{{ site.url }}{{ site.baseurl }}/art/OliverByrneChapter5.png" class="gallery-square-thumb" alt="Chapter 5">
 <div class="gallery-square-title">
   <div class="gallery-square-title-row">
-    <span style="font-size: 0.9rem; font-weight. 600; color: var(--text-primary)">&nbsp;&nbsp;
+    <span style="font-size: 1rem; font-weight. 600; color: var(--text-primary)">
       Verhältnisse</span>
     <a href="{{ site.url }}{{ site.baseurl }}/art/OliverByrneChapter5.png" target="_blank" class="chip"><i class="fa-solid fa-download"></i>&nbsp;&nbsp;Download</a>
   </div>
@@ -153,7 +152,7 @@ Neubearbeitung der Kapitelillustrationen von Oliver Byrnes Meisterwerk von 1847.
 <img src="{{ site.url }}{{ site.baseurl }}/art/OliverByrneChapter6.png" class="gallery-square-thumb" alt="Chapter 6">
 <div class="gallery-square-title">
   <div class="gallery-square-title-row">
-    <span style="font-size: 0.9rem; font-weight. 600; color: var(--text-primary)">&nbsp;&nbsp;
+    <span style="font-size: 1rem; font-weight. 600; color: var(--text-primary)">
       Kongruenz</span>
     <a href="{{ site.url }}{{ site.baseurl }}/art/OliverByrneChapter6.png" target="_blank" class="chip"><i class="fa-solid fa-download"></i>&nbsp;&nbsp;Download</a>
   </div>

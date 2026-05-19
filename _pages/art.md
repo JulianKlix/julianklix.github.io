@@ -19,7 +19,7 @@ Abstract geometric city portraits, inspired by the late work of the brilliant Al
 
 <div class="gallery-title">
   <div class="gallery-title-row">
-    <span style="font-size: 1.25rem; font-weight. 600; color: var(--text-primary)">&nbsp;&nbsp;
+    <span style="font-size: 1.25rem; font-weight. 600; color: var(--text-primary)">&nbsp;
       Rome</span>
     <a href="{{ site.url }}{{ site.baseurl }}/art/Rom.png" target="_blank" class="chip"><i class="fa-solid fa-download"></i>&nbsp;&nbsp;Download</a>
   </div>
@@ -30,7 +30,7 @@ Abstract geometric city portraits, inspired by the late work of the brilliant Al
 <img src="{{ site.url }}{{ site.baseurl }}/art/Barcelona.png" class="gallery-thumb" alt="Barcelona">
 <div class="gallery-title">
   <div class="gallery-title-row">
-    <span style="font-size: 1.25rem; font-weight. 600; color: var(--text-primary)">&nbsp;&nbsp;
+    <span style="font-size: 1.25rem; font-weight. 600; color: var(--text-primary)">&nbsp;
       Barcelona</span>
     <a href="{{ site.url }}{{ site.baseurl }}/art/Barcelona.png" target="_blank" class="chip"><i class="fa-solid fa-download"></i>&nbsp;&nbsp;Download</a>
   </div>
@@ -41,7 +41,7 @@ Abstract geometric city portraits, inspired by the late work of the brilliant Al
 <img src="{{ site.url }}{{ site.baseurl }}/art/Paris.png" class="gallery-thumb" alt="Paris">
 <div class="gallery-title">
   <div class="gallery-title-row">
-    <span style="font-size: 1.25rem; font-weight. 600; color: var(--text-primary)">&nbsp;&nbsp;
+    <span style="font-size: 1.25rem; font-weight. 600; color: var(--text-primary)">&nbsp;
       Paris</span>
     <a href="{{ site.url }}{{ site.baseurl }}/art/Paris.png" target="_blank" class="chip"><i class="fa-solid fa-download"></i>&nbsp;&nbsp;Download</a>
   </div>
@@ -52,7 +52,7 @@ Abstract geometric city portraits, inspired by the late work of the brilliant Al
 <img src="{{ site.url }}{{ site.baseurl }}/art/Mannheim.png" class="gallery-thumb" alt="Mannheim">
 <div class="gallery-title">
   <div class="gallery-title-row">
-    <span style="font-size: 1.25rem; font-weight. 600; color: var(--text-primary)">&nbsp;&nbsp;
+    <span style="font-size: 1.25rem; font-weight. 600; color: var(--text-primary)">&nbsp;
       Mannheim</span>
     <a href="{{ site.url }}{{ site.baseurl }}/art/Mannheim.png" target="_blank" class="chip"><i class="fa-solid fa-download"></i>&nbsp;&nbsp;Download</a>
   </div>
@@ -63,7 +63,7 @@ Abstract geometric city portraits, inspired by the late work of the brilliant Al
 <img src="{{ site.url }}{{ site.baseurl }}/art/Frankfurt.png" class="gallery-thumb" alt="Frankfurt">
 <div class="gallery-title">
   <div class="gallery-title-row">
-    <span style="font-size: 1.25rem; font-weight. 600; color: var(--text-primary)">&nbsp;&nbsp;
+    <span style="font-size: 1.25rem; font-weight. 600; color: var(--text-primary)">&nbsp;
       Frankfurt</span>
     <a href="{{ site.url }}{{ site.baseurl }}/art/Frankfurt.png" target="_blank" class="chip"><i class="fa-solid fa-download"></i>&nbsp;&nbsp;Download</a>
   </div>
@@ -74,7 +74,7 @@ Abstract geometric city portraits, inspired by the late work of the brilliant Al
 <img src="{{ site.url }}{{ site.baseurl }}/art/New York.png" class="gallery-thumb" alt="New York">
 <div class="gallery-title">
   <div class="gallery-title-row">
-    <span style="font-size: 1.25rem; font-weight. 600; color: var(--text-primary)">&nbsp;&nbsp;
+    <span style="font-size: 1.25rem; font-weight. 600; color: var(--text-primary)">&nbsp;
       New York</span>
     <a href="{{ site.url }}{{ site.baseurl }}/art/New York.png" target="_blank" class="chip"><i class="fa-solid fa-download"></i>&nbsp;&nbsp;Download</a>
   </div>
@@ -98,7 +98,7 @@ Prints of the chapter illustrations of Oliver Byrne's 1847 masterpiece.
 
 <div class="gallery-square-title">
   <div class="gallery-square-title-row">
-    <span style="font-size: 1.1rem; font-weight. 600; color: var(--text-primary)">&nbsp;&nbsp;
+    <span style="font-size: 1.1rem; font-weight. 600; color: var(--text-primary)">&nbsp;
       Geometry</span>
     <a href="{{ site.url }}{{ site.baseurl }}/art/OliverByrneChapter1.png" target="_blank" class="chip"><i class="fa-solid fa-download"></i>&nbsp;&nbsp;Download</a>
   </div>
@@ -109,7 +109,7 @@ Prints of the chapter illustrations of Oliver Byrne's 1847 masterpiece.
 <img src="{{ site.url }}{{ site.baseurl }}/art/OliverByrneChapter2.png" class="gallery-square-thumb" alt="Chapter 2">
 <div class="gallery-square-title">
   <div class="gallery-square-title-row">
-    <span style="font-size: 1.1rem; font-weight. 600; color: var(--text-primary)">&nbsp;&nbsp;
+    <span style="font-size: 1.1rem; font-weight. 600; color: var(--text-primary)">&nbsp;
       Geometric Algebra</span>
     <a href="{{ site.url }}{{ site.baseurl }}/art/OliverByrneChapter2.png" target="_blank" class="chip"><i class="fa-solid fa-download"></i>&nbsp;&nbsp;Download</a>
   </div>
@@ -120,7 +120,7 @@ Prints of the chapter illustrations of Oliver Byrne's 1847 masterpiece.
 <img src="{{ site.url }}{{ site.baseurl }}/art/OliverByrneChapter3.png" class="gallery-square-thumb" alt="Chapter 3">
 <div class="gallery-square-title">
   <div class="gallery-square-title-row">
-    <span style="font-size: 1.1rem; font-weight. 600; color: var(--text-primary)">&nbsp;&nbsp;
+    <span style="font-size: 1.1rem; font-weight. 600; color: var(--text-primary)">&nbsp;
       Circles</span>
     <a href="{{ site.url }}{{ site.baseurl }}/art/OliverByrneChapter3.png" target="_blank" class="chip"><i class="fa-solid fa-download"></i>&nbsp;&nbsp;Download</a>
   </div>
@@ -131,7 +131,7 @@ Prints of the chapter illustrations of Oliver Byrne's 1847 masterpiece.
 <img src="{{ site.url }}{{ site.baseurl }}/art/OliverByrneChapter4.png" class="gallery-square-thumb" alt="Chapter 4">
 <div class="gallery-square-title">
   <div class="gallery-square-title-row">
-    <span style="font-size: 1.1rem; font-weight. 600; color: var(--text-primary)">&nbsp;&nbsp;
+    <span style="font-size: 1.1rem; font-weight. 600; color: var(--text-primary)">&nbsp;
       Constructions</span>
     <a href="{{ site.url }}{{ site.baseurl }}/art/OliverByrneChapter4.png" target="_blank" class="chip"><i class="fa-solid fa-download"></i>&nbsp;&nbsp;Download</a>
   </div>
@@ -142,7 +142,7 @@ Prints of the chapter illustrations of Oliver Byrne's 1847 masterpiece.
 <img src="{{ site.url }}{{ site.baseurl }}/art/OliverByrneChapter5.png" class="gallery-square-thumb" alt="Chapter 5">
 <div class="gallery-square-title">
   <div class="gallery-square-title-row">
-    <span style="font-size: 1.1rem; font-weight. 600; color: var(--text-primary)">&nbsp;&nbsp;
+    <span style="font-size: 1.1rem; font-weight. 600; color: var(--text-primary)">&nbsp;
       Proportions</span>
     <a href="{{ site.url }}{{ site.baseurl }}/art/OliverByrneChapter5.png" target="_blank" class="chip"><i class="fa-solid fa-download"></i>&nbsp;&nbsp;Download</a>
   </div>
@@ -153,7 +153,7 @@ Prints of the chapter illustrations of Oliver Byrne's 1847 masterpiece.
 <img src="{{ site.url }}{{ site.baseurl }}/art/OliverByrneChapter6.png" class="gallery-square-thumb" alt="Chapter 6">
 <div class="gallery-square-title">
   <div class="gallery-square-title-row">
-    <span style="font-size: 1.1rem; font-weight. 600; color: var(--text-primary)">&nbsp;&nbsp;
+    <span style="font-size: 1.1rem; font-weight. 600; color: var(--text-primary)">&nbsp;
       Similarity</span>
     <a href="{{ site.url }}{{ site.baseurl }}/art/OliverByrneChapter6.png" target="_blank" class="chip"><i class="fa-solid fa-download"></i>&nbsp;&nbsp;Download</a>
   </div>
