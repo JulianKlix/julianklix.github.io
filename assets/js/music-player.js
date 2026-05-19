@@ -56,13 +56,13 @@ e.preventDefault();
 
 function updateAudioButton(btn, isPlaying) {
 if (isPlaying) {
-btn.innerHTML = '<i class="fa-solid fa-stop"></i>  Stop';
+btn.innerHTML = '<i class="fa-solid fa-stop"></i>Stop';
 btn.classList.add('playing');
 }
 }
 
 function resetAudioButton(btn) {
-btn.innerHTML = '<i class="fa-solid fa-play"></i>  Play';
+btn.innerHTML = '<i class="fa-solid fa-play"></i>Play';
 btn.classList.remove('playing');
 }
 
