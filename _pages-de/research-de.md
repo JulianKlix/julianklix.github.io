@@ -14,7 +14,7 @@ PDFs und Foliensätze nur auf Englisch verfügbar.
 
 <div class="paper-entry">
 <p>
-<span style="font-size: 1.25rem; font-weight. 600; color: var(--text-primary)">Hybrid Contracting in Repeated Interactions</span><br>
+<span style="font-size: 1.25rem; font-weight: 600; color: var(--text-primary)">Hybrid Contracting in Repeated Interactions</span><br>
 <span style="font-style: italic; color: var(--text-primary)">
 Hybride Verträge in wiederholten Interaktionen</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 mit Bernhard Ganglmair & Dongsoo Shin<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: var(--accent)">
@@ -43,7 +43,7 @@ Working Paper &nbsp;&bull;&nbsp; R&R at Management Science</span>
 
 <div class="paper-entry">
 <p>
-<span style="font-size: 1.25rem; font-weight. 600; color: var(--text-primary)">Public Markets for Claims in Litigation</span><br>
+<span style="font-size: 1.25rem; font-weight: 600; color: var(--text-primary)">Public Markets for Claims in Litigation</span><br>
 <span style="font-style: italic; color: var(--text-primary)">
 Eine Theorie offener Marktplätze für Prozessforderungen</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 mit Henrik Sauer & Paul Wegener<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: var(--accent)">
@@ -71,7 +71,7 @@ Working Paper</span>
 
 <div class="paper-entry">
 <p>
-<span style="font-size: 1.25rem; font-weight. 600; color: var(--text-primary)">Advertising, Social Media and Parasocial Recommendations</span><br>
+<span style="font-size: 1.25rem; font-weight: 600; color: var(--text-primary)">Advertising, Social Media and Parasocial Recommendations</span><br>
 <span style="font-style: italic; color: var(--text-primary)">
 Werbung, Soziale Medien und parasoziale Empfehlungen</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: var(--accent)">
 Work in Progress</span>
@@ -98,7 +98,7 @@ Work in Progress</span>
 
 <div class="paper-entry">
 <p>
-<span style="font-size: 1.25rem; font-weight. 600; color: var(--text-primary)">Selling Rationed Goods through Associated Markets</span><br>
+<span style="font-size: 1.25rem; font-weight: 600; color: var(--text-primary)">Selling Rationed Goods through Associated Markets</span><br>
 <span style="font-style: italic; color: var(--text-primary)">
 Der Verkauf knapper Güter mithilfe verbundener Märkte</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: var(--accent)">
 Work in Progress</span>
@@ -129,7 +129,7 @@ Work in Progress</span>
 
 
 <p>
-<span style="font-size: 1.25rem; font-weight. 600; color: var(--text-primary)">Industrial Robots and Where to Find Them: Evidence and Theory on Derobotization</span><br>
+<span style="font-size: 1.25rem; font-weight: 600; color: var(--text-primary)">Industrial Robots and Where to Find Them: Evidence and Theory on Derobotization</span><br>
 <span style="font-style: italic; color: var(--text-primary)">
 Industrieroboter und Wo Sie zu Finden Sind: Evidenz und Theorie für Derobotisierung</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 mit Amil Camilo, Doruk Gokalp, Daniil Iurchenko & Jeremy Rubinoff<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: var(--accent)">
@@ -149,40 +149,6 @@ Materarbeit &nbsp;&bull;&nbsp; Veröffentlicht im UPF Repository</span>
 </p>
 </div>
 <div class="pub-collapse" id="summary-Robots">
-<p>
-  Using firm-level data from Spain, we investigate robot abandonment, a phenomenon neglected by the literature, and find that a substantial proportion of robot adoption is non-permanent. We also find that (i) firms are most likely to derobotize shortly after robotization; (ii) derobotization rates are higher among smaller firms; and (iii) labor demand falls after derobotization. We develop a model of reversible automation in which firms learn the costs of using robots only after they first adopt them. We simulate a panel of firms that match the data and demonstrate that analyses of automation which ignore abandonment can overestimate the effects of automation.
-</p>
-</div>
-<div class="pub-collapse" id="cite-Robots">
-<p><span style="font-size: 0.75rem">
-  @mastersthesis{klix2020derobotization,<br>
-  &nbsp;&nbsp;&nbsp;author = {Camilo, Amil and Gokalp, Doruk and Iurchenko, Daniil and Klix, Julian and Rubinoff, Jeremy},<br>
-  &nbsp;&nbsp;&nbsp;title = {Industrial robots and where to find them: evidence and theory on derobotization},<br>
-  &nbsp;&nbsp;&nbsp;school  = {Barcelona School of Economics},<br>
-  &nbsp;&nbsp;&nbsp;year    = {2020},<br>
-  &nbsp;&nbsp;&nbsp;address = {Barcelona, Spain}<br>
-}
-</span></p>
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="chip-container" markdown="0">
-<a href="https://thevoice.bse.eu/wp-content/uploads/2020/07/project-econ20-camilo-etal.pdf" target="_blank" class="chip">PDF</a>
-<a href="{{ site.url }}{{ site.baseurl }}/papers/Derobotization Slides.pdf" target="_blank" class="chip">Folien</a>
-<button class="chip" data-toggle-target="summary-de-Robots">Abstract</button>
-<button class="chip" data-toggle-target="cite-Robots">BibTeX</button>
-</div>
-<div class="pub-collapse" id="summary-de-Robots">
 <p>
   Using firm-level data from Spain, we investigate robot abandonment, a phenomenon neglected by the literature, and find that a substantial proportion of robot adoption is non-permanent. We also find that (i) firms are most likely to derobotize shortly after robotization; (ii) derobotization rates are higher among smaller firms; and (iii) labor demand falls after derobotization. We develop a model of reversible automation in which firms learn the costs of using robots only after they first adopt them. We simulate a panel of firms that match the data and demonstrate that analyses of automation which ignore abandonment can overestimate the effects of automation.
 </p>

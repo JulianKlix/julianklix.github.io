@@ -12,7 +12,7 @@ permalink: /research/
 
 <div class="paper-entry">
 <p>
-<span style="font-size: 1.25rem; font-weight. 600; color: var(--text-primary)">Hybrid Contracting in Repeated Interactions</span><br>
+<span style="font-size: 1.25rem; font-weight: 600; color: var(--text-primary)">Hybrid Contracting in Repeated Interactions</span><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;joint with Bernhard Ganglmair & Dongsoo Shin<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: var(--accent)">Working Paper &nbsp;&bull;&nbsp; R&R at Management Science</span>
 
@@ -31,7 +31,7 @@ permalink: /research/
 
 <div class="paper-entry">
 <p>
-<span style="font-size: 1.25rem; font-weight. 600; color: var(--text-primary)">Public Markets for Claims in Litigation</span><br>
+<span style="font-size: 1.25rem; font-weight: 600; color: var(--text-primary)">Public Markets for Claims in Litigation</span><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: var(--accent)">Working Paper</span><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;joint with Henrik Sauer & Paul Wegener
 </p>
@@ -50,7 +50,7 @@ permalink: /research/
 
 <div class="paper-entry">
 <p>
-<span style="font-size: 1.25rem; font-weight. 600; color: var(--text-primary)">Advertising, Social Media and Parasocial Recommendations</span><br>
+<span style="font-size: 1.25rem; font-weight: 600; color: var(--text-primary)">Advertising, Social Media and Parasocial Recommendations</span><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: var(--accent)">Work in Progress</span><br>
 </p>
 <div class="chip-container" markdown="0">
@@ -69,7 +69,7 @@ permalink: /research/
 
 <div class="paper-entry">
 <p>
-<span style="font-size: 1.25rem; font-weight. 600; color: var(--text-primary)">Selling Rationed Goods through Associated Markets</span><br>
+<span style="font-size: 1.25rem; font-weight: 600; color: var(--text-primary)">Selling Rationed Goods through Associated Markets</span><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: var(--accent)">Work in Progress</span><br>
 </p>
 <div class="chip-container" markdown="0">
@@ -92,7 +92,7 @@ permalink: /research/
 
 
 <p>
-<span style="font-size: 1.25rem; font-weight. 600; color: var(--text-primary)">Industrial Robots and Where to Find Them: Evidence and Theory on Derobotization</span><br>
+<span style="font-size: 1.25rem; font-weight: 600; color: var(--text-primary)">Industrial Robots and Where to Find Them: Evidence and Theory on Derobotization</span><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;joint with Amil Camilo, Doruk Gokalp, Daniil Iurchenko & Jeremy Rubinoff<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: var(--accent)">Master Thesis &nbsp;&bull;&nbsp; Published at UPF Repository</span>
 </p>
