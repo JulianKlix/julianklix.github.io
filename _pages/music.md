@@ -14,9 +14,7 @@ permalink: /music/
 &nbsp;&nbsp;&nbsp;Classic and contemporary piano music<br>
 
 &nbsp;&nbsp;&nbsp;Music Test
-<div style="height: 0.25rem;"></div>
-
-
+<div style="height: 0.05rem;"></div>
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.crctr224.de/research/discussion-papers/archive/dp695" target="_blank" class="chip">PDF</a>
 <button class="audio-player-btn" data-audio-id="audio-1">
