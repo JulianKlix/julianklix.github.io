@@ -324,39 +324,58 @@
 
   var audioButtons = document.querySelectorAll('.audio-player-btn');
   var currentAudio = null;
+  var currentButton = null;
 
   audioButtons.forEach(function (btn) {
     btn.addEventListener('click', function (e) {
       e.preventDefault();
       
       var audioId = btn.getAttribute('data-audio-id');
+      var audioSrc = btn.getAttribute('data-audio-src');
       var audioElement = document.getElementById(audioId);
       
-      if (!audioElement) return;
+      if (!audioElement) {
+        console.error('Audio element not found with id:', audioId);
+        return;
+      }
+
+      // Set the audio src if not already set
+      if (!audioElement.src) {
+        audioElement.src = audioSrc;
+      }
 
       // If a different audio is playing, stop it first
       if (currentAudio && currentAudio !== audioElement) {
         currentAudio.pause();
         currentAudio.currentTime = 0;
-        var otherBtn = document.querySelector('[data-audio-id="' + currentAudio.id + '"]');
-        if (otherBtn) resetAudioButton(otherBtn);
+        if (currentButton) {
+          resetAudioButton(currentButton);
+        }
       }
 
       // Toggle play/stop
       if (audioElement.paused) {
-        audioElement.play();
+        audioElement.play().catch(function(error) {
+          console.error('Error playing audio:', error);
+        });
         updateAudioButton(btn, true);
         currentAudio = audioElement;
+        currentButton = btn;
 
+        // Clean up previous ended listeners
+        audioElement.onended = null;
+        
         // When audio ends, reset button
-        audioElement.addEventListener('ended', function () {
+        audioElement.onended = function () {
           resetAudioButton(btn);
           currentAudio = null;
-        }, { once: true });
+          currentButton = null;
+        };
       } else {
         audioElement.pause();
         resetAudioButton(btn);
         currentAudio = null;
+        currentButton = null;
       }
     });
   });
@@ -372,7 +391,6 @@
     btn.innerHTML = '<i class="fa-solid fa-play"></i>&nbsp;&nbsp;Play';
     btn.classList.remove('playing');
   }
-
 
 
 
