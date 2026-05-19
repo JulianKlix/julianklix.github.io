@@ -318,4 +318,62 @@
     });
   }
 
+
+// New and experimental 
+// ----- Audio Player -----
+
+  var audioButtons = document.querySelectorAll('.audio-player-btn');
+  var currentAudio = null;
+
+  audioButtons.forEach(function (btn) {
+    btn.addEventListener('click', function (e) {
+      e.preventDefault();
+      
+      var audioId = btn.getAttribute('data-audio-id');
+      var audioElement = document.getElementById(audioId);
+      
+      if (!audioElement) return;
+
+      // If a different audio is playing, stop it first
+      if (currentAudio && currentAudio !== audioElement) {
+        currentAudio.pause();
+        currentAudio.currentTime = 0;
+        var otherBtn = document.querySelector('[data-audio-id="' + currentAudio.id + '"]');
+        if (otherBtn) resetAudioButton(otherBtn);
+      }
+
+      // Toggle play/stop
+      if (audioElement.paused) {
+        audioElement.play();
+        updateAudioButton(btn, true);
+        currentAudio = audioElement;
+
+        // When audio ends, reset button
+        audioElement.addEventListener('ended', function () {
+          resetAudioButton(btn);
+          currentAudio = null;
+        }, { once: true });
+      } else {
+        audioElement.pause();
+        resetAudioButton(btn);
+        currentAudio = null;
+      }
+    });
+  });
+
+  function updateAudioButton(btn, isPlaying) {
+    if (isPlaying) {
+      btn.innerHTML = '<i class="fa-solid fa-stop"></i>&nbsp;&nbsp;Stop';
+      btn.classList.add('playing');
+    }
+  }
+
+  function resetAudioButton(btn) {
+    btn.innerHTML = '<i class="fa-solid fa-play"></i>&nbsp;&nbsp;Play';
+    btn.classList.remove('playing');
+  }
+
+
+
+
 })();
