@@ -339,10 +339,10 @@
         return;
       }
 
-      // Set the audio src if not already set
-      if (!audioElement.src) {
-        audioElement.src = audioSrc;
-      }
+//      // Set the audio src if not already set
+//      if (!audioElement.src) {
+//        audioElement.src = audioSrc;
+//      }
 
       // If a different audio is playing, stop it first
       if (currentAudio && currentAudio !== audioElement) {
