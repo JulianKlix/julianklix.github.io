@@ -13,7 +13,8 @@ permalink: /music/
 <span style="font-size: 1.25rem; font-weight: 600; color: var(--text-primary)">PianoForte</span><br>
 &nbsp;&nbsp;&nbsp;Classic and contemporary piano music<br>
 
-&nbsp;&nbsp;&nbsp;Music Test<div style="height: 0.25rem;"></div>
+&nbsp;&nbsp;&nbsp;Music Test
+<div style="height: 0.25rem;"></div>
 
 
 &nbsp;&nbsp;&nbsp;
