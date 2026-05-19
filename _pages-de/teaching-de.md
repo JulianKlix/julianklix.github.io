@@ -12,7 +12,7 @@ permalink: /de/teaching/
 <h3>Vorlesung</h3>
 
 <p>
-<span style="font-size: 1.15rem; font-weight. 500; color: var(--text-primary)">&nbsp;&nbsp;&nbsp;Mathematil für Master</span><br>
+<span style="font-size: 1.15rem; font-weight. 500; color: var(--text-primary)">&nbsp;&nbsp;&nbsp;Mathematik für Master</span><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: var(--text-muted)">Universität Mannheim &nbsp;&bull;&nbsp; Julian Klix</span>
 </p>
 

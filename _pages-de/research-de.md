@@ -112,7 +112,7 @@ Work in Progress</span>
 </div>
 <div class="pub-collapse" id="summary-de-Ration">
 <p>
-  Knappe oder limitierte Güter werden vermehrt unter Zuhilfenahme weiterer Märkte, von Merchandise bis hin zu Aktienmärkten, verkauft. Ich untersuche...
+  Knappe oder limitierte Güter werden vermehrt unter Zuhilfenahme weiterer Märkte, von Merchandise bis hin zu Aktienmärkten, verkauft. Ich untersuche ein Modell der Käuferselektierung über verbundene Märkte
 </p>
 </div>
 <div class="pub-collapse" id="summary-Ration">
