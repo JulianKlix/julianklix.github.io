@@ -18,7 +18,7 @@ permalink: /music/
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.crctr224.de/research/discussion-papers/archive/dp695" target="_blank" class="chip"><i class="fa-solid fa-download"></i>&nbsp;&nbsp;Download</a>
 <button class="audio-player-btn" data-audio-id="audio-1">
-  <i class="fa-solid fa-play"></i>&nbsp;Play
+  <i class="fa-solid fa-play"></i>Play
 </button>  <audio id="audio-1" src="{{ site.url }}{{ site.baseurl }}/audio/test.mp3"></audio>
 
 
