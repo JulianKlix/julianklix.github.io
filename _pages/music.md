@@ -22,6 +22,18 @@ permalink: /music/
 </button>  <audio id="audio-1" src="{{ site.url }}{{ site.baseurl }}/audio/test.mp3"></audio>
 
 
+{% for song in site.data.music_pianoForte %}
+<br>
+&nbsp;&nbsp;&nbsp;{{ song.title }} &nbsp;&bull;&nbsp; {{ song.composer }}<br>
+&nbsp;&nbsp;&nbsp;
+<a href="{{ site.url }}{{ site.baseurl }}/audio/pianoForte/{{ song.filename }}" target="_blank" class="chip"><i class="fa-solid fa-download"></i>&nbsp;&nbsp;Download</a>
+<button class="audio-player-btn" data-audio-id="audio-1">
+  <i class="fa-solid fa-play"></i>Play
+</button>  <audio id="audio-1" src="{{ site.url }}{{ site.baseurl }}/audio/pianoForte/{{ song.filename }}"></audio>
+{% endfor %}
+
+
+
 
 </div>
 
