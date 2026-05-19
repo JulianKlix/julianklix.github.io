@@ -16,7 +16,7 @@ permalink: /music/
 {% for song in site.data.music_pianoForte %}
 &nbsp;&nbsp;&nbsp;{{ song.title }} &nbsp;&bull;&nbsp; {{ song.composer }}<br>
 &nbsp;&nbsp;&nbsp;
-<a href="{{ site.url }}{{ site.baseurl }}/audio/pianoForte/{{ song.filename }}" target="_blank" class="chip"><i class="fa-solid fa-download"></i>&nbsp;&nbsp;Download</a>
+<a href="{{ site.url }}{{ site.baseurl }}/audio/pianoForte/{{ song.filename }}" target="_blank" class="chip"><i class="fa-solid fa-download"></i>&nbsp;&nbsp;Download</a>&nbsp;&nbsp;
 <button class="audio-player-btn" data-audio-id="audio-{{ forloop.index }}">
   <i class="fa-solid fa-play"></i>Play
 </button>  <audio id="audio-{{ forloop.index }}" src="{{ site.url }}{{ site.baseurl }}/audio/pianoForte/{{ song.filename }}"></audio>
