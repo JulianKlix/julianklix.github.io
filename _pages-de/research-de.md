@@ -124,11 +124,58 @@ Work in Progress</span>
 
 
 
+
+
+
+
 <p>
 <span style="font-size: 1.25rem; font-weight. 600; color: var(--text-primary)">Industrial Robots and Where to Find Them: Evidence and Theory on Derobotization</span><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mit Amil Camilo, Doruk Gokalp, Daniil Iurchenko & Jeremy Rubinoff<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: var(--accent)">Master Thesis &nbsp;&bull;&nbsp; Published at UPF Repository</span>
+<span style="font-style: italic; color: var(--text-primary)">
+Industrieroboter und Wo Sie zu Finden Sind: Evidenz und Theorie für Derobotisierung</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+mit Amil Camilo, Doruk Gokalp, Daniil Iurchenko & Jeremy Rubinoff<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: var(--accent)">
+Materarbeit &nbsp;&bull;&nbsp; Veröffentlicht im UPF Repository</span>
 </p>
+
+<div class="chip-container" markdown="0">
+<a href="https://thevoice.bse.eu/wp-content/uploads/2020/07/project-econ20-camilo-etal.pdf" target="_blank" class="chip">PDF</a>
+<a href="{{ site.url }}{{ site.baseurl }}/papers/Derobotization Slides.pdf" target="_blank" class="chip">Folien</a>
+<button class="chip" data-toggle-target="summary-de-Robots">Kurzfassung</button>
+<button class="chip" data-toggle-target="summary-Robots">Abstract</button>
+<button class="chip" data-toggle-target="cite-Robots">BibTeX</button>
+</div>
+<div class="pub-collapse" id="summary-de-Robots">
+<p>
+  Mithilfe spanischer Daten auf Unternehmensebene analysieren wir die Ausgliederung industrieller Roboter, ein im Forschungsdiskurs vernachlässigten Phänomen, mit dem Ergebnis, dass ein wesentlicher Anteil an Automatisierung nur temporär ist. Darüber hinaus zeigen wir, dass (i) Derobotisierung innerhalb weniger Jahre am wahrscheinlichsten ist; (ii) der Anteil unter kleinen Unternehmen höher ist; und (iii) die Nachfrage nach Arbeitskräften nach der Ausgliederung industrieller Roboter sinkt. Wir entwickeln ein Modell reversibler Automatisierung, in dem Unternehmen die Betriebskosten industrieller Roboter erst nach deren Einführung erfahren. Wir simulieren ein Unternehmenspanel, das der Datenstruktur entspricht und zeigen, dass Untersuchungen von Automatisierung, die Reversionsentscheidungen vernachlässigen, dazu neigen die Effekte von Automatisierung zu überschätzen.
+</p>
+</div>
+<div class="pub-collapse" id="summary-Robots">
+<p>
+  Using firm-level data from Spain, we investigate robot abandonment, a phenomenon neglected by the literature, and find that a substantial proportion of robot adoption is non-permanent. We also find that (i) firms are most likely to derobotize shortly after robotization; (ii) derobotization rates are higher among smaller firms; and (iii) labor demand falls after derobotization. We develop a model of reversible automation in which firms learn the costs of using robots only after they first adopt them. We simulate a panel of firms that match the data and demonstrate that analyses of automation which ignore abandonment can overestimate the effects of automation.
+</p>
+</div>
+<div class="pub-collapse" id="cite-Robots">
+<p><span style="font-size: 0.75rem">
+  @mastersthesis{klix2020derobotization,<br>
+  &nbsp;&nbsp;&nbsp;author = {Camilo, Amil and Gokalp, Doruk and Iurchenko, Daniil and Klix, Julian and Rubinoff, Jeremy},<br>
+  &nbsp;&nbsp;&nbsp;title = {Industrial robots and where to find them: evidence and theory on derobotization},<br>
+  &nbsp;&nbsp;&nbsp;school  = {Barcelona School of Economics},<br>
+  &nbsp;&nbsp;&nbsp;year    = {2020},<br>
+  &nbsp;&nbsp;&nbsp;address = {Barcelona, Spain}<br>
+}
+</span></p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
 <div class="chip-container" markdown="0">
 <a href="https://thevoice.bse.eu/wp-content/uploads/2020/07/project-econ20-camilo-etal.pdf" target="_blank" class="chip">PDF</a>
 <a href="{{ site.url }}{{ site.baseurl }}/papers/Derobotization Slides.pdf" target="_blank" class="chip">Folien</a>
