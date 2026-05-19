@@ -1,0 +1,25 @@
+# Internationalization file for header and footer
+
+en:
+  nav:
+    home: "Home"
+    about: "About"
+    research: "Research"
+    teaching: "Teaching"
+  footer:
+    about_heading: "About"
+    contact_heading: "Contact"
+    links_heading: "Links"
+    copyright: "© %YEAR% %NAME%"
+
+de:
+  nav:
+    home: "Startseite"
+    about: "Über mich"
+    research: "Forschung"
+    teaching: "Lehre"
+  footer:
+    about_heading: "Über"
+    contact_heading: "Kontakt"
+    links_heading: "Links"
+    copyright: "© %YEAR% %NAME%"

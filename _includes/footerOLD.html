@@ -1,28 +1,16 @@
-{% assign current_lang = "en" %}
-{% if page.url contains "/de/" %}
-  {% assign current_lang = "de" %}
-{% endif %}
-{% assign i18n = site.data.i18n[current_lang] %}
-
 <footer class="site-footer">
   <div class="footer-grid">
     <div>
-      <h5>{{ i18n.footer.about_heading }}</h5>
+      <h5>About</h5>
       <p>
         {{ site.name }}<br>
-        {% if current_lang == "de" %}
-          {{ site.title-de }}<br>
-          {{ site.institution-de }}<br>
-          {{ site.department-de }}
-        {% else %}
-          {{ site.title }}<br>
-          {{ site.institution }}<br>
-          {{ site.department }}
-        {% endif %}
+        {{ site.title }}<br>
+        {{ site.institution }}<br>
+        {{ site.department }}
       </p>
     </div>
     <div>
-      <h5>{{ i18n.footer.contact_heading }}</h5>
+      <h5>Contact</h5>
       <p>
         L7, 3-5, Room 3.43 <br>
         68161 Mannheim, Germany<br>
@@ -32,13 +20,14 @@
       </p>
     </div>
     <div>
-      <h5>{{ i18n.footer.links_heading }}</h5>
+      <h5>Links</h5>
       <p>
         <a href="{{ site.links.personal_website }}"><i class="fa-solid fa-globe"></i>&nbsp;University of Mannheim</a><br>
         <a href="{{ site.links.crc_website }}"><i class="fa-solid fa-globe"></i>&nbsp;CRC Transregio 224</a><br>
         <a href="{{ site.links.linkedin }}"><i class="fa-brands fa-linkedin"></i>&nbsp;LinkedIn</a><br>
         {% if site.links.google_scholar and site.links.google_scholar != "" %}<a href="{{ site.links.google_scholar }}"><i class="ai ai-google-scholar"></i> Google Scholar</a><br>{% endif %}
         {% if site.links.researchgate and site.links.researchgate != "" %}<a href="{{ site.links.researchgate }}"><i class="ai ai-researchgate"></i> ResearchGate</a><br>{% endif %}
+        
       </p>
     </div>
   </div>

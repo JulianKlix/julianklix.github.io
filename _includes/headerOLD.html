@@ -1,8 +1,3 @@
-{% assign current_lang = "en" %}
-{% if page.url contains "/de/" %}
-  {% assign current_lang = "de" %}
-{% endif %}
-{% assign i18n = site.data.i18n[current_lang] %}
 
 <nav class="navbar sticky-top navbar-expand-md">
   <div class="container" style="max-width: var(--container-max);">
@@ -16,23 +11,12 @@
 
     <div class="collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav me-auto">
-        <!-- Home link -->
         <li class="nav-item">
-          {% if current_lang == "de" %}
-            <a class="nav-link{% if page.url == '/de/' %} active{% endif %}" href="{{ site.url }}{{ site.baseurl }}/de/">{{ i18n.nav.home }}</a>
-          {% else %}
-            <a class="nav-link{% if page.url == '/' %} active{% endif %}" href="{{ site.url }}{{ site.baseurl }}/">{{ i18n.nav.home }}</a>
-          {% endif %}
+          <a class="nav-link{% if page.url == '/' %} active{% endif %}" href="{{ site.url }}{{ site.baseurl }}/">Home</a>
         </li>
-        
-        <!-- Dynamic nav pages -->
         {% for nav in site.nav_pages %}
         <li class="nav-item">
-          {% if current_lang == "de" %}
-            <a class="nav-link{% if page.url contains nav.name %} active{% endif %}" href="{{ site.url }}{{ site.baseurl }}/de/{{ nav.name }}">{{ i18n.nav[nav.name] }}</a>
-          {% else %}
-            <a class="nav-link{% if page.url contains nav.name %} active{% endif %}" href="{{ site.url }}{{ site.baseurl }}/{{ nav.name }}">{{ i18n.nav[nav.name] }}</a>
-          {% endif %}
+          <a class="nav-link{% if page.url contains nav.name %} active{% endif %}" href="{{ site.url }}{{ site.baseurl }}/{{ nav.name }}">{{ nav.name | capitalize }}</a>
         </li>
         {% endfor %}
       </ul>
@@ -40,7 +24,7 @@
         <button class="search-toggle" id="searchToggle" aria-label="Search site">
           <i class="fa-solid fa-magnifying-glass"></i>
         </button>
-        <!-- Language toggle button -->
+        <!-- New Language toggle button -->
         <button class="language-toggle" id="languageToggle" aria-label="Toggle language">
           <i class="fa-solid fa-earth-americas"></i>
           <span id="langLabel">DE</span>
@@ -66,4 +50,3 @@
 <div class="search-results" id="searchResults"></div>
 </div>
 </div>
-
