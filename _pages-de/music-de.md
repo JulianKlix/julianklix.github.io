@@ -17,9 +17,9 @@ permalink: /de/music/
 &nbsp;&nbsp;&nbsp;{{ song.title-de }} &nbsp;&bull;&nbsp; {{ song.composer }}<br>
 &nbsp;&nbsp;&nbsp;
 <a href="{{ site.url }}{{ site.baseurl }}/audio/pianoForte/{{ song.filename }}" target="_blank" class="chip"><i class="fa-solid fa-download"></i>&nbsp;&nbsp;Download</a>
-<button class="audio-player-btn" data-audio-id="audio-1">
+<button class="audio-player-btn" data-audio-id="audio-{{ forloop.index }}">
   <i class="fa-solid fa-play"></i>Play
-</button>  <audio id="audio-1" src="{{ site.url }}{{ site.baseurl }}/audio/pianoForte/{{ song.filename }}"></audio>
+</button>  <audio id="audio-{{ forloop.index }}" src="{{ site.url }}{{ site.baseurl }}/audio/pianoForte/{{ song.filename }}"></audio>
 {% endfor %}
 
 
