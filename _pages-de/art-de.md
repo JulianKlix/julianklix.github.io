@@ -9,7 +9,7 @@ permalink: /de/art/
 
 ### <span style="color: var(--accent)">STILLLEBENsräume</span>
 
-Abstrakte geometrische Stadt-Portraits, inspiriert durch das Spätwerk des brillianten Alfredo Alcaín.
+Abstrakte geometrische Stadt-Portraits, inspiriert durch das brilliante Spätwerk Alfredo Alcaíns.
 
 
 <div class="gallery-grid" markdown="0">
