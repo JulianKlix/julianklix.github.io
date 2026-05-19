@@ -109,7 +109,7 @@ Neubearbeitung der Kapitelillustrationen von Oliver Byrnes Meisterwerk von 1847.
 <img src="{{ site.url }}{{ site.baseurl }}/art/OliverByrneChapter2.png" class="gallery-square-thumb" alt="Chapter 2">
 <div class="gallery-square-title">
   <div class="gallery-square-title-row">
-    <span style="font-size: 0.9rem; font-weight. 600; color: var(--text-primary)">&nbsp;&nbsp;
+    <span style="font-size: 0.95rem; font-weight. 600; color: var(--text-primary)">&nbsp;
       Geometrische Algebra</span>
     <a href="{{ site.url }}{{ site.baseurl }}/art/OliverByrneChapter2.png" target="_blank" class="chip"><i class="fa-solid fa-download"></i>&nbsp;&nbsp;Download</a>
   </div>
