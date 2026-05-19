@@ -112,12 +112,12 @@ Work in Progress</span>
 </div>
 <div class="pub-collapse" id="summary-de-Ration">
 <p>
-  Soziale Medien begünstigen das Entstehen parasozialer Beziehungen--einseitige emotionale...
+  Knappe oder limitierte Güter werden vermehrt unter Zuhilfenahme weiterer Märkte, von Merchandise bis hin zu Aktienmärkten, verkauft. Ich untersuche...
 </p>
 </div>
 <div class="pub-collapse" id="summary-Ration">
 <p>
-  I research a model of secondary markets to filter potential buyers of a rationed/highly scarce product. The secondary market selects consumers based on their internal valuation (which does not perfectly correlate with willingness to pay) which either directly or indirectly increases the utility of the seller.
+  I research a model of secondary markets to filter potential buyers of a rationed/highly scarce product. This associated market selects consumers based on their internal valuation (which does not perfectly correlate with willingness to pay) which either directly or indirectly increases the utility of the seller.
 </p>
 </div>
 </div>
