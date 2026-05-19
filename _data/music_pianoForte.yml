@@ -18,7 +18,12 @@
   title-de: Invention 14, BWV 785
   composer: Johann S. Bach
   filename: Bach_Inventio_1_BWV785.mp3
-  
+
+- title: Prelude C-Major, BWV 846
+  title-de: Präludium C-Dur, BWV 846
+  composer: Ludwig v. Beethoven
+  filename: Bach_Praeludium_BWV846.mp3
+
 - title: Sonata No. 1, Op. 2, 1st Movement
   title-de: Sonate Nr. 1, Op. 2, 1. Satz
   composer: Ludwig v. Beethoven
@@ -34,8 +39,8 @@
   composer: Ludwig v. Beethoven
   filename: Beethoven_Sonate_14_Op27_1.mp3
   
-- title: Rondo, KV. 485
-  title-de: Rondo, KV. 485
+- title: Rondo, KV 485
+  title-de: Rondo, KV 485
   composer: Wolfgang A. Mozart
   filename: Mozart_Rondo_KV485.mp3
   
@@ -64,11 +69,20 @@
   composer: George Gershwin
   filename: Gershwin_SWonderful.mp3
   
+- title: Salsa Creek
+  title-de: Salsa Creek
+  composer: Michael Schütz
+  filename: Schutz_SalsaCreekLive.mp3
 
+- title: "Ich Steh' an Deiner Krippen hier"
+  title-de: "Ich Steh' an Deiner Krippen hier"
+  composer: Michael Schütz
+  filename: Schutz_IchStehAnDeinerKrippenHier.mp3
 
-
-
-
+- title: Englishman in New York
+  title-de: Englishman in New York
+  composer: Sting (Arr. Nazareno Aversa)
+  filename: Sting_EnglishmanInNewYork.mp3
 
 
 

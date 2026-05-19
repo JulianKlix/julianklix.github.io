@@ -6,7 +6,7 @@ permalink: /de/music/
 ---
 
 
-## Music
+## Musik
 
 <div class="section-card">
 
