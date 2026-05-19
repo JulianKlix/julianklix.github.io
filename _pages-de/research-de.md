@@ -127,7 +127,7 @@ Work in Progress</span>
 
 
 
-
+<div class="paper-entry-bottom">
 <p>
 <span style="font-size: 1.25rem; font-weight: 600; color: var(--text-primary)">Industrial Robots and Where to Find Them: Evidence and Theory on Derobotization</span><br>
 <span style="font-style: italic; color: var(--text-primary)">
@@ -164,7 +164,7 @@ Materarbeit &nbsp;&bull;&nbsp; Veröffentlicht im UPF Repository</span>
 }
 </span></p>
 </div>
-
+</div>
 
 
 

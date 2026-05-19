@@ -92,7 +92,6 @@ permalink: /research/
 
 <div class="paper-entry-bottom">
 <p>
-This is to test the width available in the Grid and whether using a span changes anything about how long a line can go on before being broken.
 <span style="font-size: 1.25rem; font-weight: 600; color: var(--text-primary)">Industrial Robots and Where to Find Them: Evidence and Theory on Derobotization</span><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;joint with Amil Camilo, Doruk Gokalp, Daniil Iurchenko & Jeremy Rubinoff<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: var(--accent)">Master Thesis &nbsp;&bull;&nbsp; Published at UPF Repository</span>
