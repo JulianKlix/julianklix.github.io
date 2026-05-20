@@ -38,8 +38,8 @@ pastareis:
     image: graphics/PastaReis.png
     recipe: BrokkoliNudeln.pdf    
 
-  - name: Salsiccia-Brokkoli Orecchiette 
-    name-de: Salsiccia-Brokkoli Orecchiette 
+  - name: Salsiccia-Brokkoli Pasta 
+    name-de: Salsiccia-Brokkoli Pasta 
     image: graphics/PastaReis.png
     recipe: BrokkoliSalsiccia.pdf    
 
