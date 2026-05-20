@@ -1,4 +1,4 @@
-- vorspeisen: 
+vorspeisen: 
   - name: Vitello Tonnato
     name-de: Vitello Tonnato
     image: graphics/Vorspeise.png
@@ -10,14 +10,14 @@
     recipe: FenchelOrangenSalat.pdf    
 
 
-- beilagen: 
+beilagen: 
   - name: Bread Dumplings
     name-de: Serviettenknödel
     image: graphics/Beilage.png
     recipe: Serviettenknodel.pdf
 
 
-- pastareis:
+pastareis:
   - name: Gobbetti Pollo
     name-de: Gabelspaghetti
     image: graphics/PastaReis.png
