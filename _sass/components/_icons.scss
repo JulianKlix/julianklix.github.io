@@ -1,1 +1,16 @@
 /* Implement icons in assets/icons/... */
+
+// Custom SVG Icon Styles
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  vertical-align: -0.125em;
+  fill: currentColor;
+}
+
+// Specific icon for CRC
+.icon-crc {
+  @extend .icon;
+  // Add any specific styling for this icon if needed
+}
