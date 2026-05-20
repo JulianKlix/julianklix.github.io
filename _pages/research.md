@@ -8,6 +8,7 @@ permalink: /research/
 ## Research
 
 
+
 <div class="section-card">
 
 <div class="paper-entry">
@@ -32,8 +33,8 @@ permalink: /research/
 <div class="paper-entry">
 <p>
 <span style="font-size: 1.25rem; font-weight: 600; color: var(--text-primary)">Public Markets for Claims in Litigation</span><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: var(--accent)">Working Paper</span><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;joint with Henrik Sauer & Paul Wegener
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;joint with Henrik Sauer & Paul Wegener<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: var(--accent)">Working Paper</span>
 </p>
 <div class="chip-container" markdown="0">
 <a href="https://papers.ssrn.com/Sol3/Cf_Dev/AbsByAuth.cfm?per_id=6590078" target="_blank" class="chip">PDF</a>
