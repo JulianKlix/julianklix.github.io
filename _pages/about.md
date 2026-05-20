@@ -18,8 +18,7 @@ permalink: /about/
 {% if site.links.crc_website and site.links.crc_website != "" %}<a href="{{ site.links.crc_website }}">
   <svg class="icon icon-crc" aria-hidden="true">
     <use xlink:href="/assets/icons/CRCTR224.svg#icon-crc"></use>    
-  </svg>
-&nbsp;CRC Transregio 224</a><br>{% endif %}
+  </svg></a>{% endif %}
 {% if site.email %}<a href="mailto:{{ site.email }}" class="icon-link" title="Email"><i class="fa-solid fa-envelope"></i></a>{% endif %}
 {% if site.links.cv and site.links.cv != "" %}<a href="{{ site.url }}{{ site.baseurl }}/{{ site.links.cv }}" target="_blank" class="icon-link" title="CV"><i class="ai ai-cv"></i></a>{% endif %}
 {% if site.links.google_scholar and site.links.google_scholar != "" %}<a href="{{ site.links.google_scholar }}" target="_blank" class="icon-link" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>{% endif %}
