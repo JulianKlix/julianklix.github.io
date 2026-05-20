@@ -55,7 +55,8 @@ permalink: /research/
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: var(--accent)">Work in Progress</span><br>
 </p>
 <div class="chip-container" markdown="0">
-<span class="chip chip-inactive">PDF</span>
+<a href="{{ site.url }}{{ site.baseurl }}/papers/ParasocialMarketing PDF.pdf" class="chip">PDF</a>
+<!-- <span class="chip chip-inactive">PDF</span> -->
 <a href="{{ site.url }}{{ site.baseurl }}/papers/ParasocialMarketing Slides.pdf" target="_blank" class="chip">Slides</a>
 <button class="chip" data-toggle-target="summary-Parasocial">Abstract</button>
 </div>
