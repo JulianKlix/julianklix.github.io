@@ -10,7 +10,30 @@ permalink: /de/recipes/
 
 Eine Auswahl meiner Lieblingsrezepte.
 
-### <span style="color: var(--accent)">Pasta & Reis</span>
+### Vorspeisen & Beilagen
+
+<div class="gallery-square-grid" markdown="0">
+
+{% for food in site.data.recipes.vorspeisen %}
+<div class="gallery-square-item" data-gallery-image="{{ site.url }}{{ site.baseurl }}/{{ food.image }}" data-gallery-title="{{ food.name-de }}">
+<img src="{{ site.url }}{{ site.baseurl }}//{{ food.image }}" class="gallery-square-thumb" alt="{{ food.name-de }}">
+
+<div class="gallery-square-title">
+  <div class="gallery-square-title-row">
+    <span style="font-size: 1.1rem; font-weight. 600; color: var(--text-primary)">
+      {{ food.name-de }}</span>
+    <a href="{{ site.url }}{{ site.baseurl }}/{{ food.recipe }}" target="_blank" class="chip"><i class="fa-solid fa-download"></i></a>
+  </div>
+</div>
+</div>
+{% endfor %}
+
+
+</div>
+
+
+
+### Pasta & Reis
 
 <div class="gallery-square-grid" markdown="0">
 
@@ -22,50 +45,6 @@ Eine Auswahl meiner Lieblingsrezepte.
     <span style="font-size: 1.1rem; font-weight. 600; color: var(--text-primary)">&nbsp;
       Geometry</span>
     <a href="{{ site.url }}{{ site.baseurl }}/art/OliverByrneChapter1.png" target="_blank" class="chip"><i class="fa-solid fa-download"></i>&nbsp;&nbsp;Download</a>
-  </div>
-</div>
-</div>
-
-<div class="gallery-square-item" data-gallery-image="{{ site.url }}{{ site.baseurl }}/art/OliverByrneChapter2.png" data-gallery-title="Chapter 2">
-<img src="{{ site.url }}{{ site.baseurl }}/art/OliverByrneChapter2.png" class="gallery-square-thumb" alt="Chapter 2">
-<div class="gallery-square-title">
-  <div class="gallery-square-title-row">
-    <span style="font-size: 1.1rem; font-weight. 600; color: var(--text-primary)">&nbsp;
-      Geometric Algebra</span>
-    <a href="{{ site.url }}{{ site.baseurl }}/art/OliverByrneChapter2.png" target="_blank" class="chip"><i class="fa-solid fa-download"></i>&nbsp;&nbsp;Download</a>
-  </div>
-</div>
-</div>
-
-<div class="gallery-square-item" data-gallery-image="{{ site.url }}{{ site.baseurl }}/art/OliverByrneChapter3.png" data-gallery-title="Chapter 3">
-<img src="{{ site.url }}{{ site.baseurl }}/art/OliverByrneChapter3.png" class="gallery-square-thumb" alt="Chapter 3">
-<div class="gallery-square-title">
-  <div class="gallery-square-title-row">
-    <span style="font-size: 1.1rem; font-weight. 600; color: var(--text-primary)">&nbsp;
-      Circles</span>
-    <a href="{{ site.url }}{{ site.baseurl }}/art/OliverByrneChapter3.png" target="_blank" class="chip"><i class="fa-solid fa-download"></i>&nbsp;&nbsp;Download</a>
-  </div>
-</div>
-</div>
-
-<div class="gallery-square-item" data-gallery-image="{{ site.url }}{{ site.baseurl }}/art/OliverByrneChapter4.png" data-gallery-title="Chapter 4">
-<img src="{{ site.url }}{{ site.baseurl }}/art/OliverByrneChapter4.png" class="gallery-square-thumb" alt="Chapter 4">
-<div class="gallery-square-title">
-  <div class="gallery-square-title-row">
-    <span style="font-size: 1.1rem; font-weight. 600; color: var(--text-primary)">&nbsp;
-      Constructions</span>
-    <a href="{{ site.url }}{{ site.baseurl }}/art/OliverByrneChapter4.png" target="_blank" class="chip"><i class="fa-solid fa-download"></i>&nbsp;&nbsp;Download</a>
-  </div>
-</div>
-</div>
-
-<div class="gallery-square-item" data-gallery-image="{{ site.url }}{{ site.baseurl }}/art/OliverByrneChapter5.png" data-gallery-title="Chapter 5">
-<img src="{{ site.url }}{{ site.baseurl }}/art/OliverByrneChapter5.png" class="gallery-square-thumb" alt="Chapter 5">
-<div class="gallery-square-title">
-  <div class="gallery-square-title-row">
-    <span style="font-size: 1.1rem; font-weight. 600; color: var(--text-primary)">&nbsp;
-      Proportions</span>
-    <a href="{{ site.url }}{{ site.baseurl }}/art/OliverByrneChapter5.png" target="_blank" class="chip"><i class="fa-solid fa-download"></i>&nbsp;&nbsp;Download</a>
   </div>
 </div>
 </div>

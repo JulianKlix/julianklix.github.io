@@ -1,0 +1,50 @@
+- vorspeisen: 
+  - name: Vitello Tonnato
+    name-de: Vitello Tonnato
+    image: graphics/Vorspeise.png
+    recipe: VitelloTonnato.pdf
+
+  - name: Fennel-Orange-Salad
+    name-de: Fenchel-Orangen-Salat
+    image: graphics/Vorspeise.png
+    recipe: FenchelOrangenSalat.pdf    
+
+
+- beilagen: 
+  - name: Bread Dumplings
+    name-de: Serviettenknödel
+    image: graphics/Beilage.png
+    recipe: Serviettenknodel.pdf
+
+
+- pastareis:
+  - name: Gobbetti Pollo
+    name-de: Gabelspaghetti
+    image: graphics/PastaReis.png
+    recipe: Gabelspaghetti.pdf
+
+  - name: Ragù Bolognese
+    name-de: Ragù Bolognese
+    image: graphics/PastaReis.png
+    recipe: RaguBolognese.pdf    
+
+  - name: Lasagna
+    name-de: Lasagne
+    image: graphics/PastaReis.png
+    recipe: Lasagne.pdf  
+
+  - name: Pasta al Broccoli
+    name-de: Pasta al Broccoli
+    image: graphics/PastaReis.png
+    recipe: BrokkoliNudeln.pdf    
+
+  - name: Salsiccia-Brokkoli Orecchiette 
+    name-de: Salsiccia-Brokkoli Orecchiette 
+    image: graphics/PastaReis.png
+    recipe: BrokkoliSalsiccia.pdf    
+
+  - name: Pasta with Mushrooms
+    name-de: Pasta mit Kräuterseitlingen
+    image: graphics/PastaReis.png
+    recipe: PastaPilze.pdf    
+
