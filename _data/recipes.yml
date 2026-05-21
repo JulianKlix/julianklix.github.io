@@ -48,6 +48,27 @@ pastareis:
     image: graphics/PastaReis.png
     recipe: PastaPilze.pdf    
 
+  - name: Chicken Fried Rice
+    name-de: Gebratener Reis
+    image: graphics/PastaReis.png
+    recipe: GebratenerReis.pdf   
+
+  - name: Udon Noodles
+    name-de: Udon Nudeln
+    image: graphics/PastaReis.png
+    recipe: UdonNudeln.pdf   
+
+
+fleischfisch:
+  - name: Goulash
+    name-de: Gulasch
+    image: graphics/FleischFisch.png
+    recipe: Gulasch.pdf    
+
+  - name: Butter Chicken
+    name-de: Butter Chicken
+    image: graphics/FleischFisch.png
+    recipe: ButterChicken.pdf   
 
 nachtische:
   - name: Panna Cotta
@@ -65,7 +86,12 @@ geback:
   - name: Apple Waffles
     name-de: Apfelwaffeln
     image: graphics/Geback.png
-    recipe: Apfelwaffeln.pdf    
+    recipe: Apfelwaffeln.pdf  
+
+  - name: Crêpes
+    name-de: Pfannkuchen
+    image: graphics/Geback.png
+    recipe: Pfannkuchen.pdf    
 
   - name: Marble Cake
     name-de: Marmmorkuchen
@@ -76,5 +102,25 @@ geback:
     name-de: Muffins
     image: graphics/Geback.png
     recipe: Muffins.pdf    
+
+  - name: Baumkuchen
+    name-de: Baumkuchen
+    image: graphics/Geback.png
+    recipe: Baumkuchen.pdf    
+
+  - name: Gewürzkuchen
+    name-de: Gewürzkuchen
+    image: graphics/Geback.png
+    recipe: Gewurzkuchen.pdf    
+
+  - name: Apple-Cream Layer Cake
+    name-de: Apfel-Schmand Kuchen
+    image: graphics/Geback.png
+    recipe: ApfelSchmandKuchen.pdf  
+
+  - name: Carrot-Cashew Cookies
+    name-de: Karotten-Cashew Plätzchen
+    image: graphics/Geback.png
+    recipe: KarottenCashewPlätzchen.pdf    
 
 
