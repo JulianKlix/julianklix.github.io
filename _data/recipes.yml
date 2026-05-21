@@ -48,3 +48,33 @@ pastareis:
     image: graphics/PastaReis.png
     recipe: PastaPilze.pdf    
 
+
+nachtische:
+  - name: Panna Cotta
+    name-de: Panna Cotta
+    image: graphics/Nachtisch.png
+    recipe: PannaCotta.pdf    
+
+  - name: Tiramisù
+    name-de: Tiramisù
+    image: graphics/Nachtisch.png
+    recipe: Tiramisu.pdf    
+  
+
+geback:
+  - name: Apple Waffles
+    name-de: Apfelwaffeln
+    image: graphics/Geback.png
+    recipe: Apfelwaffeln.pdf    
+
+  - name: Marble Cake
+    name-de: Marmmorkuchen
+    image: graphics/Geback.png
+    recipe: Marmorkuchen.pdf    
+
+  - name: Muffins
+    name-de: Muffins
+    image: graphics/Geback.png
+    recipe: Muffins.pdf    
+
+
