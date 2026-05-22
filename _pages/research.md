@@ -60,6 +60,7 @@ permalink: /research/
 <a href="{{ site.url }}{{ site.baseurl }}/papers/ParasocialMarketing Slides.pdf" target="_blank" class="chip">Slides</a>
 <button class="chip" data-toggle-target="summary-Parasocial">Abstract</button>
 <a href="{{ site.url }}{{ site.baseurl }}/papers/Pres WIP.pdf" target="_blank" class="chip chip-warning">WIP Slides</a>
+<!-- Permalink to iCloud Version: https://www.icloud.com/iclouddrive/0080JNkJJtzBYsol6xs_rE6lw#Pres_WIP -->
 </div>
 <div class="pub-collapse" id="summary-Parasocial">
 <p>
