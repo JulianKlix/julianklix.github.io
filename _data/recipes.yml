@@ -13,7 +13,7 @@ vorspeisen:
 beilagen: 
   - name: Bread Dumplings
     name-de: Serviettenknödel
-    image: graphics/Beilage.png
+    image: images/Serviettenknodel.HEIC
     recipe: Serviettenknodel.pdf
 
 
@@ -35,7 +35,7 @@ pastareis:
 
   - name: Pasta al Broccoli
     name-de: Pasta al Broccoli
-    image: graphics/PastaReis.png
+    image: images/BrokkoliPasta.JPG
     recipe: BrokkoliNudeln.pdf    
 
   - name: Salsiccia-Brokkoli Pasta 
@@ -78,7 +78,7 @@ nachtische:
 
   - name: Tiramisù
     name-de: Tiramisù
-    image: graphics/Nachtisch.png
+    image: images/Tiramisu.JPG
     recipe: Tiramisu.pdf    
   
 
@@ -100,7 +100,7 @@ geback:
 
   - name: Muffins
     name-de: Muffins
-    image: graphics/Geback.png
+    image: images/Muffins.JPG
     recipe: Muffins.pdf    
 
   - name: Baumkuchen
