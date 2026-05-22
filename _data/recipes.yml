@@ -6,7 +6,7 @@ vorspeisen:
 
   - name: Fennel-Orange-Salad
     name-de: Fenchel-Orangen-Salat
-    image: graphics/Vorspeise.png
+    image: images/FenchelSalat.JPG
     recipe: FenchelOrangenSalat.pdf    
 
 
