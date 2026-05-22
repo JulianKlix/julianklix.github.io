@@ -71,6 +71,20 @@
     }
   }
 
+    // Warning variant - follows chip-inactive template with orange (#d97706)
+  &.chip-warning {
+    background-color: rgba(217, 119, 6, 0.15);
+    color: #d97706;
+    border-color: #d97706;
+    cursor: default;
+
+    &:hover {
+      background-color: rgba(217, 119, 6, 0.5);
+      color: #d97706;
+      border-color: #d97706;
+    }
+  }
+
 
 }
 
