@@ -2,7 +2,7 @@
 title: "Recipes"
 layout: gridlay
 sitemap: true
-permalink: /recipes/
+permalink: /recipesmain/
 ---
 
 
