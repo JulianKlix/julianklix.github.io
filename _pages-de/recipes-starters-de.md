@@ -12,11 +12,11 @@ Eine Auswahl meiner Lieblingsrezepte.
 
 <div class="chip-container" markdown="0">
 <span class="chip chip-pressed">Vorspeisen</span>
-<a href="{{ site.url }}{{ site.baseurl }}/recipes/sides" class="chip">Beilagen</a>
-<a href="{{ site.url }}{{ site.baseurl }}/recipes/pasta" class="chip">Pasta & Reis</a>
-<a href="{{ site.url }}{{ site.baseurl }}/recipes/meat" class="chip">Fleisch</a>
-<a href="{{ site.url }}{{ site.baseurl }}/recipes/deserts" class="chip">Nachtische</a>
-<a href="{{ site.url }}{{ site.baseurl }}/recipes/pastries" class="chip">Gebäck</a>
+<a href="{{ site.url }}{{ site.baseurl }}/recipes/de/sides" class="chip">Beilagen</a>
+<a href="{{ site.url }}{{ site.baseurl }}/recipes/de/pasta" class="chip">Pasta & Reis</a>
+<a href="{{ site.url }}{{ site.baseurl }}/recipes/de/meat" class="chip">Fleisch</a>
+<a href="{{ site.url }}{{ site.baseurl }}/recipes/de/deserts" class="chip">Nachtische</a>
+<a href="{{ site.url }}{{ site.baseurl }}/recipes/de/pastries" class="chip">Gebäck</a>
 </div>
 
 
