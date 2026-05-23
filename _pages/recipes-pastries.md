@@ -1,8 +1,8 @@
 ---
-title: "Recipes - Sides"
+title: "Recipes - Pastries"
 layout: gridlay
 sitemap: true
-permalink: /recipes/sides/
+permalink: /recipes/pastries/
 ---
 
 
@@ -12,18 +12,19 @@ A collection of my favourite recipes, primarily available in German only.
 
 <div class="chip-container" markdown="0">
 <a href="{{ site.url }}{{ site.baseurl }}/recipes/starters" class="chip">Starters</a>
-<span class="chip chip-pressed">Sides</span>
+<a href="{{ site.url }}{{ site.baseurl }}/recipes/sides" class="chip">Sides</a>
 <a href="{{ site.url }}{{ site.baseurl }}/recipes/pasta" class="chip">Pasta & Rice</a>
 <a href="{{ site.url }}{{ site.baseurl }}/recipes/meat" class="chip">Meat</a>
 <a href="{{ site.url }}{{ site.baseurl }}/recipes/deserts" class="chip">Deserts</a>
-<a href="{{ site.url }}{{ site.baseurl }}/recipes/pastries" class="chip">Pastries</a>
+<span class="chip chip-pressed">Pastries</span>
 </div>
+
 
 
 
 <div class="gallery-square-grid" markdown="0">
 
-{% for food in site.data.recipes.beilagen %}
+{% for food in site.data.recipes.geback %}
 <div class="gallery-square-item" data-gallery-image="{{ site.url }}{{ site.baseurl }}/recipes/{{ food.image }}" data-gallery-title="{{ food.name-de }}">
 <img src="{{ site.url }}{{ site.baseurl }}/recipes/{{ food.image }}" class="gallery-square-thumb" alt="{{ food.name-de }}">
 <div class="gallery-square-title">
