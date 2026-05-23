@@ -42,6 +42,7 @@ Abstrakte geometrische Stadt-Portraits, inspiriert durch das brilliante Spätwer
 <div class="gallery-title">
   <div class="gallery-title-row">
     <span style="font-size: 1.25rem; font-weight. 600; color: var(--text-primary)">&nbsp;
+      Paris</span>
     <a href="{{ site.url }}{{ site.baseurl }}/art/Paris.png" target="_blank" class="chip"><i class="fa-solid fa-download"></i>&nbsp;&nbsp;Download</a>
   </div>
 </div>
