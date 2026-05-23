@@ -2,7 +2,7 @@
 title: "Rezepte - Nachtische"
 layout: gridlay
 sitemap: true
-permalink: /de/de/recipesserts/
+permalink: /de/recipe/deserts/
 ---
 
 
