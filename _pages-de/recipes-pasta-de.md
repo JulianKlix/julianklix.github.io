@@ -1,8 +1,8 @@
 ---
-title: "Rezepte - Vorspeisen"
+title: "Rezepte - Pasta & Reis"
 layout: gridlay
 sitemap: true
-permalink: /recipes/de/starters/
+permalink: /recipes/de/pasta/
 ---
 
 
@@ -11,9 +11,9 @@ permalink: /recipes/de/starters/
 Eine Auswahl meiner Lieblingsrezepte.
 
 <div class="chip-container" markdown="0">
-<span class="chip chip-pressed">Vorspeisen</span>
+<a href="{{ site.url }}{{ site.baseurl }}/recipes/de/starters" class="chip">Vorspeisen</a>
 <a href="{{ site.url }}{{ site.baseurl }}/recipes/de/sides" class="chip">Beilagen</a>
-<a href="{{ site.url }}{{ site.baseurl }}/recipes/de/pasta" class="chip">Pasta & Reis</a>
+<span class="chip chip-pressed">Pasta & Reis</span>
 <a href="{{ site.url }}{{ site.baseurl }}/recipes/de/meat" class="chip">Fleisch</a>
 <a href="{{ site.url }}{{ site.baseurl }}/recipes/de/deserts" class="chip">Nachtische</a>
 <a href="{{ site.url }}{{ site.baseurl }}/recipes/de/pastries" class="chip">Gebäck</a>
@@ -23,7 +23,7 @@ Eine Auswahl meiner Lieblingsrezepte.
 
 <div class="gallery-square-grid" markdown="0">
 
-{% for food in site.data.recipes.vorspeisen %}
+{% for food in site.data.recipes.pastareis %}
 <div class="gallery-square-item" data-gallery-image="{{ site.url }}{{ site.baseurl }}/recipes/{{ food.image }}" data-gallery-title="{{ food.name-de }}">
 <img src="{{ site.url }}{{ site.baseurl }}/recipes/{{ food.image }}" class="gallery-square-thumb" alt="{{ food.name-de }}">
 <div class="gallery-square-title">
