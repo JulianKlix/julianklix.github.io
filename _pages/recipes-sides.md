@@ -11,7 +11,7 @@ permalink: /recipes/sides/
 A collection of my favourite recipes, primarily available in German only.
 
 <div class="chip-container" markdown="0">
-<a href="{{ site.url }}{{ site.baseurl }}/recipes/sides" class="chip">Starters</a>
+<a href="{{ site.url }}{{ site.baseurl }}/recipes/starters" class="chip">Starters</a>
 <span class="chip chip-pressed">Sides</span>
 <a href="{{ site.url }}{{ site.baseurl }}/papers/ParasocialMarketing PDF.pdf" class="chip">Pasta & Rice</a>
 <a href="{{ site.url }}{{ site.baseurl }}/papers/ParasocialMarketing PDF.pdf" class="chip">Meat</a>
