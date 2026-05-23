@@ -2,7 +2,7 @@
 title: "Rezepte - Beilagen"
 layout: gridlay
 sitemap: true
-permalink: /recipes/de/sides/
+permalink: /de/recipes/sides/
 ---
 
 
@@ -11,12 +11,12 @@ permalink: /recipes/de/sides/
 Eine Auswahl meiner Lieblingsrezepte.
 
 <div class="chip-container" markdown="0">
-<a href="{{ site.url }}{{ site.baseurl }}/recipes/de/starters" class="chip">Vorspeisen</a>
+<a href="{{ site.url }}{{ site.baseurl }}/de/recipes/starters" class="chip">Vorspeisen</a>
 <span class="chip chip-pressed">Beilagen</span>
-<a href="{{ site.url }}{{ site.baseurl }}/recipes/de/pasta" class="chip">Pasta & Reis</a>
-<a href="{{ site.url }}{{ site.baseurl }}/recipes/de/meat" class="chip">Fleisch</a>
-<a href="{{ site.url }}{{ site.baseurl }}/recipes/de/deserts" class="chip">Nachtische</a>
-<a href="{{ site.url }}{{ site.baseurl }}/recipes/de/pastries" class="chip">Gebäck</a>
+<a href="{{ site.url }}{{ site.baseurl }}/de/recipes/pasta" class="chip">Pasta & Reis</a>
+<a href="{{ site.url }}{{ site.baseurl }}/de/recipes/meat" class="chip">Fleisch</a>
+<a href="{{ site.url }}{{ site.baseurl }}/de/recipes/deserts" class="chip">Nachtische</a>
+<a href="{{ site.url }}{{ site.baseurl }}/de/recipes/pastries" class="chip">Gebäck</a>
 </div>
 
 

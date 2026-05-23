@@ -2,7 +2,7 @@
 title: "Rezepte - Fleisch & Fisch"
 layout: gridlay
 sitemap: true
-permalink: /recipes/de/meat/
+permalink: /de/recipes/meat/
 ---
 
 
@@ -11,12 +11,12 @@ permalink: /recipes/de/meat/
 Eine Auswahl meiner Lieblingsrezepte.
 
 <div class="chip-container" markdown="0">
-<a href="{{ site.url }}{{ site.baseurl }}/recipes/de/starters" class="chip">Vorspeisen</a>
-<a href="{{ site.url }}{{ site.baseurl }}/recipes/de/sides" class="chip">Beilagen</a>
-<a href="{{ site.url }}{{ site.baseurl }}/recipes/de/pasta" class="chip">Pasta & Reis</a>
+<a href="{{ site.url }}{{ site.baseurl }}/de/recipes/starters" class="chip">Vorspeisen</a>
+<a href="{{ site.url }}{{ site.baseurl }}/de/recipes/sides" class="chip">Beilagen</a>
+<a href="{{ site.url }}{{ site.baseurl }}/de/recipes/pasta" class="chip">Pasta & Reis</a>
 <span class="chip chip-pressed">Fleisch</span>
-<a href="{{ site.url }}{{ site.baseurl }}/recipes/de/deserts" class="chip">Nachtische</a>
-<a href="{{ site.url }}{{ site.baseurl }}/recipes/de/pastries" class="chip">Gebäck</a>
+<a href="{{ site.url }}{{ site.baseurl }}/de/recipes/deserts" class="chip">Nachtische</a>
+<a href="{{ site.url }}{{ site.baseurl }}/de/recipes/pastries" class="chip">Gebäck</a>
 </div>
 
 
