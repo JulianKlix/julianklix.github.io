@@ -85,6 +85,19 @@
   }
 
 
+  // Pressed variant - permanently filled out button
+  &.chip-pressed {
+    background-color: var(--accent);
+    color: #fff;
+    cursor: default;    
+
+    &:hover {
+      background-color: var(--accent);
+      color: #fff;
+    }
+  }
+
+
 }
 
 // New and experimental
