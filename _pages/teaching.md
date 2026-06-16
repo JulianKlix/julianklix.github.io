@@ -12,9 +12,7 @@ permalink: /teaching/
 ### <span style="color: var(--accent)">Lecturer</span>
 
 <p>
-&nbsp;&nbsp;&nbsp;<a href="{{ site.url }}{{ site.baseurl }}/research/"><span style="font-size: 1.15rem; font-weight. 500; color: var(--text-primary)">Graduate Mathematics</span></a><br>
-&nbsp;&nbsp;&nbsp;<span style="font-size: 1.15rem; font-weight. 500; color: var(--text-primary)"><a href="{{ site.url }}{{ site.baseurl }}/research/">Graduate Mathematics</a></span><br>
-<span style="font-size: 1.15rem; font-weight. 500; color: var(--text-primary)">&nbsp;&nbsp;&nbsp;Graduate Mathematics</span><br>
+&nbsp;&nbsp;&nbsp;<a href="{{ site.url }}{{ site.baseurl }}/e600/"><span style="font-size: 1.15rem; font-weight. 500; color: var(--text-primary)">Graduate Mathematics</span></a><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: var(--text-muted)">University of Mannheim &nbsp;&bull;&nbsp; Julian Klix</span>
 </p>
 
