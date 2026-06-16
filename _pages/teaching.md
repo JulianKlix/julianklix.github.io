@@ -10,6 +10,7 @@ permalink: /teaching/
 <div class="section-card">
 
 <h3>Lecturer</h3>
+### <span style="color: var(--accent)">Lecturer</span>
 
 <p>
 <span style="font-size: 1.15rem; font-weight. 500; color: var(--text-primary)">&nbsp;&nbsp;&nbsp;Graduate Mathematics</span><br>
@@ -17,6 +18,7 @@ permalink: /teaching/
 </p>
 
 
+<br>
 <h3>Teaching Assistant</h3>
 
 
