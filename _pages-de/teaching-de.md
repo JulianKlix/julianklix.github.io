@@ -9,15 +9,18 @@ permalink: /de/teaching/
 
 <div class="section-card">
 
-<h3>Vorlesung</h3>
+### <span style="color: var(--accent)">Vorlesung</span>
+
+
 
 <p>
 <span style="font-size: 1.15rem; font-weight. 500; color: var(--text-primary)">&nbsp;&nbsp;&nbsp;Mathematik für Master</span><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: var(--text-muted)">Universität Mannheim &nbsp;&bull;&nbsp; Julian Klix</span>
 </p>
 
+<br>
+### <span style="color: var(--accent)">Übungsleitung</span>
 
-<h3>Übungsleitung</h3>
 
 
 {% for entry in site.data.teachingTA-de %}

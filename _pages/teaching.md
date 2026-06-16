@@ -9,7 +9,6 @@ permalink: /teaching/
 
 <div class="section-card">
 
-<h3>Lecturer</h3>
 ### <span style="color: var(--accent)">Lecturer</span>
 
 <p>
@@ -19,8 +18,7 @@ permalink: /teaching/
 
 
 <br>
-<h3>Teaching Assistant</h3>
-
+### <span style="color: var(--accent)">Teaching Assistant</span>
 
 {% for entry in site.data.teachingTA %}
 <p>
@@ -41,15 +39,6 @@ permalink: /teaching/
   {% endfor %}
 </table>
 
-
-<ul>
-<li>Postgraduate Microeconomics</li>
-<li>Graduate Game Theory</li>
-<li>Undergraduate Game Theory</li>
-<li>Undergraduate Microeconomics</li>
-<li>Undergraduate Analysis & Linear Algebra</li>
-<li>Undergraduate Statistics</li>
-</ul>
 -->
 
 </div>
