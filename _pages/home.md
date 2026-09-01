@@ -37,13 +37,13 @@ If you are interested in my research, have questions or want to discuss my curre
 I am a PhD candidate in Economics at the University of Mannheim, Department of Economics. I am interested in theoretical microeconomics and industrial organization.
 -->
 
-
+<!--
 <div class="callout callout-info" markdown="0">
 <div class="callout-title"><i class="fa-solid fa-bullhorn callout-icon"></i> Talk at EARIE 2026</div>
 <p>Henrik Sauer will present our current project <a href="{{ site.url }}{{ site.baseurl }}/research/">Public Markets for Claims in Litigation</a> at EARIE 2026 in Mannheim.</p>
 </div>
 
-<!--
+
 <div class="banner-frame" markdown="0">
 <img src="{{ site.url }}{{ site.baseurl }}/images/image.jpg" alt="Image" loading="lazy">
 <div class="banner-caption">Some Caption text. <em>More text.</em> Even more.</div>
