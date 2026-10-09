@@ -33,7 +33,7 @@ permalink: /research/
 <div class="paper-entry">
 <p>
 <span style="font-size: 1.25rem; font-weight: 600; color: var(--text-primary)">Public Markets for Claims in Litigation</span><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;joint with Henrik Sauer & Paul Wegener<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;joint with Henrik Sauer<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: var(--accent)">Working Paper</span>
 </p>
 <div class="chip-container" markdown="0">

@@ -46,7 +46,7 @@ Working Paper &nbsp;&bull;&nbsp; R&R at Management Science</span>
 <span style="font-size: 1.25rem; font-weight: 600; color: var(--text-primary)">Public Markets for Claims in Litigation</span><br>
 <span style="font-style: italic; color: var(--text-primary)">
 Eine Theorie offener Marktplätze für Prozessforderungen</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-mit Henrik Sauer & Paul Wegener<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: var(--accent)">
+mit Henrik Sauer<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="color: var(--accent)">
 Working Paper</span>
 </p>
 
